@@ -31,9 +31,9 @@ module.exports = function(eleventyConfig) {
 	 */
   // emulate passthrough during --serve:
   eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
- /***************
-	* Pandoc {{{2 *
-	***************/
+ /*****************
+	* Markdown {{{2 *
+	*****************/
 	eleventyConfig.setLibrary(
 		'md',
 		require('markdown-it')({
