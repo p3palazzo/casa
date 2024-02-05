@@ -1,5 +1,6 @@
 {
   "title": "Casa",
 	"layout": "layouts/obra.njk",
-  "listed": false
+  "protegido": false,
+  "tags": [ "casa" ]
 }
