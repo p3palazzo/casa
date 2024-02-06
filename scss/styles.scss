@@ -24,6 +24,9 @@
 //
 // Place variable overrides first, then import just the styles you need. Note that some stylesheets are required no matter what.
 
+// This enables auto switching to dark mode based on the client's OS/browser settings:
+$color-mode-type: media-query;
+
 // Toggle global options
 $enable-gradients: true;
 $enable-shadows: true;
@@ -34,8 +37,8 @@ $offcanvas-box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
 @import "bootstrap/scss/functions";
 
 // Customize some defaults
-$body-color: #333;
-$body-bg: #fff;
+$body-color: #111118;
+$body-bg: #fffff0;
 $border-radius: .4rem;
 $success: #7952b3;
 
