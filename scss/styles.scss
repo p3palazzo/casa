@@ -38,7 +38,7 @@ $offcanvas-box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
 
 // Customize some defaults
 $body-color: #111118;
-$body-bg: #fffff0;
+$body-bg: #fffff6;
 $border-radius: .4rem;
 $success: #7952b3;
 
@@ -60,7 +60,7 @@ $success: #7952b3;
 @import "bootstrap/scss/buttons";
 @import "bootstrap/scss/transitions";
 @import "bootstrap/scss/dropdown";
-// @import "bootstrap/scss/button-group";
+ @import "bootstrap/scss/button-group";
  @import "bootstrap/scss/nav";
  @import "bootstrap/scss/navbar"; // Requires nav
  @import "bootstrap/scss/card";

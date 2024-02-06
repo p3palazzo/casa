@@ -12,6 +12,7 @@ const path = require('path');
 const Pandoc = require("markdown-it-pandoc");
 const eleventyCiteproc = require("eleventy-plugin-citeproc");
 const htmlmin = require("html-minifier");
+const countryEmoji = require('./src/filters/country-emoji.js');
 /********************************
  * eleventyConfig function {{{1 *
  ********************************/
@@ -50,6 +51,7 @@ module.exports = function(eleventyConfig) {
 	// Call filters defined outside this function
 	eleventyConfig.addFilter('dateFilter', dateFilter);
 	eleventyConfig.addFilter('w3DateFilter', w3DateFilter);
+  eleventyConfig.addFilter('countryEmoji', countryEmoji);
   //eleventyConfig.setQuietMode(true);
 	// https://github.com/Myllaume/eleventy-plugin-citeproc/
 	/*
