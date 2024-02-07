@@ -25,11 +25,8 @@ module.exports = function(eleventyConfig) {
   *************************/
   // Copy assets/ to _site/assets
   eleventyConfig.addPassthroughCopy("assets");
-	/*
-	 *eleventyConfig.addPassthroughCopy({ "node_modules/bootstrap/dist/css": "assets/css" });
-	 *eleventyConfig.addPassthroughCopy({ "node_modules/bootstrap/dist/js": "assets/bootstrap/js" });
-	 *eleventyConfig.addPassthroughCopy({ "node_modules/jquery/dist": "assets/jquery/js" });
-	 */
+  eleventyConfig.addPassthroughCopy({ "node_modules/leaflet/dist": "assets/leaflet" });
+	eleventyConfig.addPassthroughCopy({ "node_modules/jquery/dist": "assets/jquery/js" });
   // emulate passthrough during --serve:
   eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
  /*****************

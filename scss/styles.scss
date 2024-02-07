@@ -1,3 +1,35 @@
+@font-face {
+    font-family: 'Weiss Std';
+    src: url('/assets/fonts/weissstd-italic-webfont.woff2') format('woff2'),
+         url('/assets/fonts/weissstd-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Weiss Std';
+    src: url('/assets/fonts/weissstd-bold-webfont.woff2') format('woff2'),
+         url('/assets/fonts/weissstd-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Weiss Std';
+    src: url('/assets/fonts/weissstd-extrabold-webfont.woff2') format('woff2'),
+         url('/assets/fonts/weissstd-extrabold-webfont.woff') format('woff');
+    font-weight: bolder;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Weiss Std';
+    src: url('/assets/fonts/weissstd-webfont.woff2') format('woff2'),
+         url('/assets/fonts/weissstd-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 // Override Bootstrap's Sass default variables
 //
 // Nearly all variables in Bootstrap are written with the `!default` flag.
@@ -24,14 +56,14 @@
 //
 // Place variable overrides first, then import just the styles you need. Note that some stylesheets are required no matter what.
 
+// Toggle global options
+$enable-shadows: true;
+//$enable-gradients: true;
+
 // This enables auto switching to dark mode based on the client's OS/browser settings:
 $color-mode-type: media-query;
 
-// Toggle global options
-$enable-gradients: true;
-$enable-shadows: true;
-
-$offcanvas-box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
+//$offcanvas-box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
 
 // Include functions first
 @import "bootstrap/scss/functions";
@@ -40,7 +72,18 @@ $offcanvas-box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
 $body-color: #111118;
 $body-bg: #fffff6;
 $border-radius: .4rem;
-$success: #7952b3;
+$primary: #282f6a;
+$light: #fcf9e6;
+$body-emphasis-color: $primary;
+$link-decoration: none;
+//$success: #7952b3;
+
+//$font-family-base: Georgia, serif;
+$headings-font-family: 'Weiss Std', Georgia, serif;
+$headings-font-weight: bold;
+$headings-color: $primary;
+
+$legend-font-weight: 500;
 
 // Required
 @import "bootstrap/scss/variables";
@@ -59,7 +102,7 @@ $success: #7952b3;
  @import "bootstrap/scss/forms";
 @import "bootstrap/scss/buttons";
 @import "bootstrap/scss/transitions";
-@import "bootstrap/scss/dropdown";
+//@import "bootstrap/scss/dropdown";
  @import "bootstrap/scss/button-group";
  @import "bootstrap/scss/nav";
  @import "bootstrap/scss/navbar"; // Requires nav
@@ -73,12 +116,12 @@ $success: #7952b3;
  @import "bootstrap/scss/list-group";
 @import "bootstrap/scss/close";
 // @import "bootstrap/scss/toasts";
-@import "bootstrap/scss/modal"; // Requires transitions
- @import "bootstrap/scss/tooltip";
+//@import "bootstrap/scss/modal"; // Requires transitions
+ //@import "bootstrap/scss/tooltip";
 @import "bootstrap/scss/popover";
 // @import "bootstrap/scss/carousel";
 // @import "bootstrap/scss/spinners";
-@import "bootstrap/scss/offcanvas"; // Requires transitions
+//@import "bootstrap/scss/offcanvas"; // Requires transitions
 // @import "bootstrap/scss/placeholders";
 
 // Helpers
@@ -93,10 +136,8 @@ $success: #7952b3;
 //
 
 //@import "icon-list";
-
-#home-lead {
-  margin-left: auto;
-  margin-right: auto;
+#home-hero {
+  height: 50vh;
 }
 
 .triptych {

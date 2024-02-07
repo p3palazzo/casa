@@ -1,29 +1,34 @@
 ---
 title: "Casarão Azul"
-alternativeTitle:
-  - "Casa do médico Hosannah Pinheiro Guimarães"
 date: 2024-02-05
 author: Pedro P. Palazzo
+alternativeTitle:
+  - "Casa do médico Hosannah Pinheiro Guimarães"
+  - "Hotel Ouro Verde"
+  - "Hotel Ouro Fino"
 location:
   lat: -15.621636
   long: -47.661533
+  address:
+    - "Av. Salvador Coelho, Quadra 57 Lote 141"
+    - "73.330"
   city: "Planaltina"
   state: "Distrito Federal"
   country: br
   locationHistoric:
     - "Mestre d'Armas"
     - "Goiás"
-  address:
-    - "Av. Salvador Coelho, Quadra 57 Lote 141"
-    - "73.330"
+contributor: # Agentes envolvidos
+identifier: # Código IPHAN ou DGPC, por exemplo
 references:
 temporal:
-protegido: false
+protegido: 0 # Esfera de tombamento
 excerpt: >
   Casa de morada inteira em adobe com fachada neoclássica em
   tijolo cozido. Construída em 1926 e descaracterizada em 2009.
 categories:
   - Neoclassicismo
+teaser: "https://placehold.co/600x400"
 ---
 
 A edificação conhecida como Casarão Azul é um dos primeiros edifícios de
