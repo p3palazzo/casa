@@ -1,34 +1,44 @@
 ---
-title: "Casarão Azul"
-date: 2024-02-05
-author: Pedro P. Palazzo
-alternativeTitle:
+title : "Casarão Azul"
+date  : 2024-02-05 # Data do preenchimento da ficha
+author: Pedro P. Palazzo # Quem preencheu a ficha
+excerpt: >- # Descrição sucinta para aparecer em listagens
+  Casa de morada inteira em adobe com fachada neoclássica em
+  tijolo cozido. Construída em 1926 e descaracterizada em 2009.
+alternativeTitle: # Outros nomes ou designações antigas
   - "Casa do médico Hosannah Pinheiro Guimarães"
   - "Hotel Ouro Verde"
   - "Hotel Ouro Fino"
-location:
-  lat: -15.621636
-  long: -47.661533
-  address:
-    - "Av. Salvador Coelho, Quadra 57 Lote 141"
-    - "73.330"
-  city: "Planaltina"
-  state: "Distrito Federal"
-  country: br
-  locationHistoric:
-    - "Mestre d'Armas"
-    - "Goiás"
-contributor: # Agentes envolvidos
-identifier: # Código IPHAN ou DGPC, por exemplo
-references:
-temporal:
-protegido: 0 # Esfera de tombamento
-excerpt: >
-  Casa de morada inteira em adobe com fachada neoclássica em
-  tijolo cozido. Construída em 1926 e descaracterizada em 2009.
 categories:
   - Neoclassicismo
 teaser: "https://placehold.co/600x400"
+# As categorias abaixo são organizadas segundo o DublinCore (DCMI).
+# https://dublincore.org
+contributor: # Agentes envolvidos
+  - name: "Hosannah Pinheiro Guimarães"
+    role: "antigo proprietário"
+identifier: # Código IPHAN ou DGPC, por exemplo
+location:
+  lat : -15.621636
+  long: -47.661533
+  alt : 948.37
+  address:
+    - "Av. Salvador Coelho, Quadra 57 Lote 141"
+    - "73.330"
+  city   : "Planaltina"
+  state  : "Distrito Federal"
+  country: br # Código ISO
+  locationHistoric: # Escopos geográficos antigos
+    - "Mestre d'Armas"
+    - "Goiás"
+spatial: # Características arquitetônicas
+temporal: # Datas importantes
+type: # Classificações
+# As categorias abaixo referenciam recursos externos a este site,
+# em geral.
+album: # Iconografia
+references: # Referências bibliográficas
+docs: # Fontes primárias e documentação produzida
 ---
 
 A edificação conhecida como Casarão Azul é um dos primeiros edifícios de
