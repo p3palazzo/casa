@@ -25,7 +25,7 @@ import '../../node_modules/bootstrap/js/dist/popover';
 // Place any custom JS here
 //
 
-import "../../js/search.js";
+import "../../_js/search.js";
 
 // Create an example popover
 document.querySelectorAll('[data-bs-toggle="popover"]')

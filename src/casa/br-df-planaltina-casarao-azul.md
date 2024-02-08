@@ -27,7 +27,7 @@ location:
     - "73.330"
   city   : "Planaltina"
   state  : "Distrito Federal"
-  country: br # Código ISO
+  country: BR # Código ISO
   locationHistoric: # Escopos geográficos antigos
     - "Mestre d'Armas"
     - "Goiás"
@@ -36,9 +36,10 @@ temporal: # Datas importantes
 type: # Classificações
 # As categorias abaixo referenciam recursos externos a este site,
 # em geral.
-album: # Iconografia
+dwg: # Documentação arquitetônica produzida neste projeto
+docs: # Fontes primárias e levantamentos de terceiros
+media: # Iconografia
 references: # Referências bibliográficas
-docs: # Fontes primárias e documentação produzida
 ---
 
 A edificação conhecida como Casarão Azul é um dos primeiros edifícios de

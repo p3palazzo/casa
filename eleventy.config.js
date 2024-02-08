@@ -74,7 +74,7 @@ module.exports = function(eleventyConfig) {
   * Setup views {{{2 *
   ********************/
   eleventyConfig.addCollection("obras", function(collection) {
-    return sortByDisplayOrder(collection.getFilteredByGlob("src/obra/*.md"));
+    return collection.getFilteredByGlob("src/obra/*.md");
   });
 	eleventyConfig.addCollection('destaques', function(collection) {
     return sortByDisplayOrder(collection.getFilteredByGlob("src/obra/*.md")).filter(
@@ -87,7 +87,7 @@ module.exports = function(eleventyConfig) {
   // If needed, return an object configuration
   return {
     dir: {
-			htmlTemplateEngine: "liquid",
+			htmlTemplateEngine: "njk",
 			templateFormats: ["html", "liquid", "njk"],
       input: 'src',
       output: '_site',
