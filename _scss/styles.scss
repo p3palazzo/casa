@@ -125,7 +125,7 @@ $legend-font-weight: 500;
 // @import "bootstrap/scss/placeholders";
 
 // Helpers
- @import "bootstrap/scss/helpers";
+@import "bootstrap/scss/helpers";
 
 // Utilities
 @import "bootstrap/scss/utilities/api";
@@ -138,4 +138,16 @@ $legend-font-weight: 500;
 //@import "icon-list";
 #home-hero {
   height: 50vh;
+  background-size: cover;
+  background-position: center;
+  h1,
+  .lead {
+    text-shadow: $box-shadow;
+  }
+  input {
+    background-color: rgba($body-bg, 70%);
+    @media (prefers-color-scheme: dark) {
+      background-color: rgba($body-bg-dark, 70%);
+    }
+  }
 }
