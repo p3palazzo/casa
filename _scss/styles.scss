@@ -142,12 +142,22 @@ $legend-font-weight: 500;
   background-position: center;
   h1,
   .lead {
-    text-shadow: $box-shadow;
+    text-shadow: 1px 1px 2px rgba($body-bg, 70%);
+    @media (prefers-color-scheme: dark) {
+      text-shadow: 1px 1px 2px rgba($body-bg-dark, 70%);
+    }
   }
   input {
-    background-color: rgba($body-bg, 70%);
+    background-color: rgba($body-bg, 80%);
     @media (prefers-color-scheme: dark) {
       background-color: rgba($body-bg-dark, 70%);
     }
   }
 }
+
+.card-img-top {
+  aspect-ratio: 3 / 2;
+  width: 100%;
+  object-fit: cover;
+}
+// vim: shiftwidth=2 tabstop=2 expandtab

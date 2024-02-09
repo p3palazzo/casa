@@ -18,6 +18,8 @@ contributor: # Agentes envolvidos
   - name: "Hosannah Pinheiro Guimarães"
     role: "antigo proprietário"
 identifier: # Código IPHAN ou DGPC, por exemplo
+  - source: "Inventário do Setor Tradicional de Planaltina"
+    id    : 563
 location:
   lat : -15.621636
   long: -47.661533
@@ -27,7 +29,7 @@ location:
     - "73.330"
   city   : "Planaltina"
   state  : "Distrito Federal"
-  country: BR # Código ISO
+  country: "BR" # Código ISO
   locationHistoric: # Escopos geográficos antigos
     - "Mestre d'Armas"
     - "Goiás"
@@ -40,7 +42,13 @@ dwg: # Documentação arquitetônica produzida neste projeto
 docs: # Fontes primárias e levantamentos de terceiros
 media: # Iconografia
 references: # Referências bibliográficas
+# Registro de modificações na ficha:
+log:
+  - date: 2024-02-09
+    message: "Inclui campos para bases documentais"
 ---
+
+<blockquote>
 
 A edificação conhecida como Casarão Azul é um dos primeiros edifícios de
 tipo pós-colonial de Planaltina. Na verdade, combina desde a sua origem,
@@ -70,4 +78,15 @@ profundas na cobertura, no interior e na fachada da edificação, tendo
 sua obra embargada por não haver projeto aprovado junto à Administração
 Regional. O casarão encontra-se atualmente desabitado e com a reforma
 aparentemente inconclusa.
+
+  <!--
+     -Atenção: o texto da descrição só pode ser reproduzido de outras
+     -fontes que sejam de domínio público, como os inventários e processos
+     -do IPHAN e de outros órgãos públicos.
+     -->
+  <footer class="figure-caption col-md-8 offset-md-4">Texto reproduzido
+  do <cite>Inventário do Setor Tradicional de Planaltina</cite>, IPHAN
+  2012, redigido por Renata Braga Neves, Pedro P. Palazzo e Caroline
+  Albergaria</footer>
+</blockquote>
 
