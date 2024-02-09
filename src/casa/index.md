@@ -1,5 +1,7 @@
 ---
 title: "Lista de casas"
 layout: "layouts/base.njk"
-permalink: /casa/
+override:tags: []
 ---
+
+Lista completa das casas documentadas.
