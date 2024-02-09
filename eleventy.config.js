@@ -14,6 +14,8 @@ const eleventyCiteproc = require("eleventy-plugin-citeproc");
 const htmlmin = require("html-minifier");
 const countryEmoji = require('./src/filters/country-emoji.js');
 const yaml = require("js-yaml");
+const dynamicCategories = require('eleventy-plugin-dynamic-categories');
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 /********************************
  * eleventyConfig function {{{1 *
  ********************************/
@@ -53,6 +55,15 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addFilter('w3DateFilter', w3DateFilter);
   eleventyConfig.addFilter('countryEmoji', countryEmoji);
   eleventyConfig.addDataExtension('yaml', contents => yaml.load(contents));
+  eleventyConfig.addPlugin(dynamicCategories, {
+    categoryVar: "categories",
+    itemCollection: "all",
+  });
+  eleventyConfig.addPlugin(pluginRss, {
+    posthtmlRenderOptions: {
+      closingSingleTag: "slash"
+    }
+  });
   //eleventyConfig.setQuietMode(true);
 	// https://github.com/Myllaume/eleventy-plugin-citeproc/
 	/*
