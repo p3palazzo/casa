@@ -3,19 +3,19 @@
  ****************/
 // First create variables that require() any packages we need
 // const plugin = require('some-eleventy-plugin-package')
-const Image = require("@11ty/eleventy-img");
-const EleventyFetch = require("@11ty/eleventy-fetch");
-const { DateTime } = require("luxon");
+const Image = require('@11ty/eleventy-img');
+const EleventyFetch = require('@11ty/eleventy-fetch');
+const { DateTime } = require('luxon');
 const w3DateFilter = require('./src/filters/w3-date-filter.js');
 const sortByDisplayOrder = require('./src/utils/sort-by-display-order.js');
 const path = require('path');
-const Pandoc = require("markdown-it-pandoc");
-const eleventyCiteproc = require("eleventy-plugin-citeproc");
-const htmlmin = require("html-minifier");
+const Pandoc = require('markdown-it-pandoc');
+const eleventyCiteproc = require('eleventy-plugin-citeproc');
+const htmlmin = require('html-minifier');
 const countryEmoji = require('./src/filters/country-emoji.js');
-const yaml = require("js-yaml");
+const yaml = require('js-yaml');
 const dynamicCategories = require('eleventy-plugin-dynamic-categories');
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+const pluginRss = require('@11ty/eleventy-plugin-rss');
 /********************************
  * eleventyConfig function {{{1 *
  ********************************/
@@ -30,6 +30,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy({ "node_modules/leaflet/dist": "assets/leaflet" });
 	eleventyConfig.addPassthroughCopy({ "node_modules/jquery/dist": "assets/jquery/js" });
+	eleventyConfig.addPassthroughCopy({ "node_modules/@knight-lab/timelinejs/dist": "assets/timelinejs" });
   // emulate passthrough during --serve:
   eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
  /*****************
@@ -64,6 +65,10 @@ module.exports = function(eleventyConfig) {
       closingSingleTag: "slash"
     }
   });
+  eleventyConfig.addFilter('yamlToJson', (value) => {
+    const yaml = require('js-yaml');
+    return JSON.stringify(yaml.load(value));
+  });
   //eleventyConfig.setQuietMode(true);
 	// https://github.com/Myllaume/eleventy-plugin-citeproc/
 	/*
@@ -73,6 +78,17 @@ module.exports = function(eleventyConfig) {
 	 *  bibliographicDataPath: path.join(__dirname, '_data/biblio.json')
 	 *});
 	 */
+ /********************
+  * Setup views {{{2 *
+  ********************/
+  eleventyConfig.addCollection("obras", function(collection) {
+    return collection.getFilteredByGlob("src/obra/*.md");
+  });
+	eleventyConfig.addCollection('destaques', function(collection) {
+    return sortByDisplayOrder(collection.getFilteredByGlob("src/obra/*.md")).filter(
+			x => x.data.featured
+		);
+	});
 	eleventyConfig.addTransform("htmlmin", function(content) {
 		// Prior to Eleventy 2.0: use this.outputPath instead
 		if( this.page.outputPath && this.page.outputPath.endsWith(".html") ) {
@@ -84,17 +100,6 @@ module.exports = function(eleventyConfig) {
 			return minified;
 		}
 		return content;
-	});
- /********************
-  * Setup views {{{2 *
-  ********************/
-  eleventyConfig.addCollection("obras", function(collection) {
-    return collection.getFilteredByGlob("src/obra/*.md");
-  });
-	eleventyConfig.addCollection('destaques', function(collection) {
-    return sortByDisplayOrder(collection.getFilteredByGlob("src/obra/*.md")).filter(
-			x => x.data.featured
-		);
 	});
  /*******************************************************
   * Return is the last instruction to be evaluated {{{2 *

@@ -34,8 +34,31 @@ location:
     - "Mestre d'Armas"
     - "Goiás"
 spatial: # Características arquitetônicas
-temporal: # Datas importantes
 type: # Classificações
+# Linha do tempo
+# Instruções de formatação: https://timeline.knightlab.com/docs/json-format.html
+temporal: # Linha do tempo
+  title:
+    text:
+      headline: "Linha do tempo"
+  events:
+    - text:
+        headline: "Construção"
+        text: "Período provável de construção do Casarão azul"
+      media:
+        url: https://placehold.co/600x400
+        caption: "Legenda"
+        credit: "ArPDF"
+        alt: "Foto em preto-e-branco de um casario com um jatobá no primeiro plano"
+      start_date:
+        year: "1921"
+      end_date:
+        year: "1926"
+      display_date: "c. 1921–26"
+    - text:
+        headline: "Venda da casa"
+      start_date:
+        year: "2009"
 # As categorias abaixo referenciam recursos externos a este site,
 # em geral.
 dwg: # Documentação arquitetônica produzida neste projeto
