@@ -1,0 +1,5 @@
+{
+  "layout": "layouts/base.njk",
+  "format": "image/jpeg",
+  "type": "StillImage"
+}
