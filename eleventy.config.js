@@ -31,6 +31,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "node_modules/leaflet/dist": "assets/leaflet" });
 	eleventyConfig.addPassthroughCopy({ "node_modules/jquery/dist": "assets/jquery/js" });
 	eleventyConfig.addPassthroughCopy({ "node_modules/@knight-lab/timelinejs/dist": "assets/timelinejs" });
+	eleventyConfig.addPassthroughCopy("src/.domains");
   // emulate passthrough during --serve:
   eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
  /*****************
