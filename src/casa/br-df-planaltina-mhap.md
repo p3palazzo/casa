@@ -6,13 +6,15 @@ excerpt: >
   Casa de morada com frente comercial construída em 1899 e convertida
   em casa–museu histórica em 1974.
 teaser: "https://placehold.co/600x400"
-location:
-  lat    : -15.620972 
-  long   : -47.661444
-  alt    : 948.16
-  city   : "Planaltina"
-  state  : "Distrito Federal"
-  country: "BR"
+coverage:
+  spatial:
+    location:
+      lat    : -15.620972 
+      long   : -47.661444
+      alt    : 948.16
+      city   : "Planaltina"
+      state  : "Distrito Federal"
+      country: "BR"
 ---
 
 <blockquote>

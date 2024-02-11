@@ -4,7 +4,12 @@
   "protegido": false,
   "tags": [ "casa" ],
   "css": [ "/assets/leaflet/leaflet.css" ],
-  "location": {
-    "zoom": "15"
-  }
+  "coverage": {
+    "spatial": {
+      "location": {
+        "zoom": "15"
+      }
+    }
+  },
+  "type": "physicalObject"
 }
