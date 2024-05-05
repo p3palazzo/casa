@@ -8,4 +8,3 @@ Area:
 ---
 
 Descrição por extenso.
-
