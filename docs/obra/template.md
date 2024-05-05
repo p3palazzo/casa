@@ -1,10 +1,10 @@
 ---
-title:
-date:
-author:
-lat:
-long:
-área:
+Title:
+Date:
+Author:
+Lat:
+Long:
+Area:
 ---
 
 Descrição por extenso.
