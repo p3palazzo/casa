@@ -7,7 +7,7 @@ Long: -48.7815707
 Area: 120 m²
 ---
 
-Imóvel está inserido na poligonal de tombamento do Centro Histórico de Laguna, tombado pelo Iphan desde 1985 por seu valor Histórico e paisagístico 
+Imóvel está inserido na poligonal de tombamento do Centro Histórico de Laguna, tombado pelo Iphan desde 1985 por seu valor histórico e paisagístico 
 (Processo Nº 1122-T—8)
 
 
