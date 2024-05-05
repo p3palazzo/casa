@@ -1,5 +1,5 @@
 ---
-Title:Casa borda gato, Rua Borba Gato, 71 - Centro - CEP: 34.505-830 - Sabará/MG
+Title:Casa borda gato, Rua Borba Gato, 71 - Centro - CEP 34.505-830 - Sabará/MG
 Date:Meados do século XVIII, ~1826
 Author:Eduarda Santana
 Lat:-19.890484
