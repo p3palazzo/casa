@@ -1,13 +1,11 @@
 ---
-Title:Casa borda gato, Rua Borba Gato, 71 - Centro - CEP: 34.505-830 - Sabará/MG.
+Title:Casa borda gato, Rua Borba Gato, 71 - Centro - CEP: 34.505-830 - Sabará/MG
 Date:Meados do século XVIII, ~1826
 Author: Eduarda Santana
 Lat:-19.890484
 Long:-43.809876
 Area:320m²
 ---
-
-Descrição por extenso.
 
 O imóvel foi utilizado como residência a partir de 1828, pelo então proprietário, o Padre João de Souza Guimarães. Em 1843, após seu falecimento, foi 
 adquirida pelo Sargento-Mor Francisco de Assis Martins da Costa, tendo se transformado em hospedaria entre 1850 e 1860. Neste ano foi adquirida 
