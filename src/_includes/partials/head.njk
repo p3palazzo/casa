@@ -46,13 +46,13 @@
   <meta property="og:description" content="{{ descriptionMeta }}" />
 {% endif %}
 
-<link rel="stylesheet" href="/assets/css/styles.css" />
+<link rel="stylesheet" href="{{ '/assets/css/styles.css' | url }}" />
 {% for css in css %}
-  <link rel="stylesheet" href="{{ css }}" />
+  <link rel="stylesheet" href="{{ css | url }}" />
 {% endfor %}
 
 {% for headerIncludes in headerIncludes %}
-  {{ headerIncludes }}
+  {{ headerIncludes | safe }}
 {% endfor %}
 {% if math %}
 {% if mathjax %}
