@@ -11,6 +11,7 @@ const sortByDisplayOrder = require('./src/utils/sort-by-display-order.js');
 const path = require('path');
 const Pandoc = require("markdown-it-pandoc");
 const eleventyCiteproc = require("eleventy-plugin-citeproc");
+const rssPlugin = require('@11ty/eleventy-plugin-rss');
 const htmlmin = require("html-minifier");
 /********************************
  * eleventyConfig function {{{1 *
@@ -50,6 +51,8 @@ module.exports = function(eleventyConfig) {
 	// Call filters defined outside this function
 	eleventyConfig.addFilter('dateFilter', dateFilter);
 	eleventyConfig.addFilter('w3DateFilter', w3DateFilter);
+	// Call plugins
+	eleventyConfig.addPlugin(rssPlugin);
   //eleventyConfig.setQuietMode(true);
 	// https://github.com/Myllaume/eleventy-plugin-citeproc/
 	/*
