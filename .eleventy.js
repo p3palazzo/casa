@@ -3,19 +3,19 @@
  ****************/
 // First create variables that require() any packages we need
 // const plugin = require('some-eleventy-plugin-package')
-const Image = require('@11ty/eleventy-img');
-const EleventyFetch = require('@11ty/eleventy-fetch');
-const { DateTime } = require('luxon');
-const w3DateFilter = require('./src/filters/w3-date-filter.js');
-const sortByDisplayOrder = require('./src/utils/sort-by-display-order.js');
-const path = require('path');
-const Pandoc = require('markdown-it-pandoc');
-const eleventyCiteproc = require('eleventy-plugin-citeproc');
-const htmlmin = require('html-minifier');
 const countryEmoji = require('./src/filters/country-emoji.js');
-const yaml = require('js-yaml');
+const { DateTime } = require('luxon');
 const dynamicCategories = require('eleventy-plugin-dynamic-categories');
+const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
+const EleventyFetch = require('@11ty/eleventy-fetch');
+const fs = require("fs");
+const Image = require('@11ty/eleventy-img');
+const nodePandoc = require('node-pandoc');
+const path = require('path');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
+const sortByDisplayOrder = require('./src/utils/sort-by-display-order.js');
+const w3DateFilter = require('./src/filters/w3-date-filter.js');
+const yaml = require('js-yaml');
 /********************************
  * eleventyConfig function {{{1 *
  ********************************/
@@ -38,16 +38,23 @@ module.exports = function(eleventyConfig) {
  /*****************
 	* Markdown {{{2 *
 	*****************/
-	eleventyConfig.setLibrary(
-		'md',
-		require('markdown-it')({
-			html: true,
-			linkify: true,
-			typographer: true,
-			katex: false,
-			mathjax: true,
-		}).use(require('markdown-it-pandoc'))
-	);
+  async function convertMarkdownToHtml(markdown, args) {
+    return new Promise((resolve, reject) => {
+      nodePandoc(markdown, '-d _data/defaults.yml', (err, result) => {
+        if (err) {
+          console.error(`Pandoc error: ${err.message}`);
+          resolve(result);
+        } else {
+          resolve(result);
+        }
+      });
+    });
+  }
+  eleventyConfig.setLibrary("md", {
+    render: async function(content) {
+      return await convertMarkdownToHtml(content);
+    }
+  });
  /*************************
   * Activate plugins {{{2 *
   *************************/
@@ -57,7 +64,7 @@ module.exports = function(eleventyConfig) {
   });
 	eleventyConfig.addFilter('w3DateFilter', w3DateFilter);
   eleventyConfig.addFilter('countryEmoji', countryEmoji);
-  eleventyConfig.addDataExtension('yml, yaml', contents => yaml.load(contents));
+  eleventyConfig.addDataExtension('yaml', contents => yaml.load(contents));
   eleventyConfig.addPlugin(dynamicCategories, {
     categoryVar: "categories",
     itemCollection: "all",
@@ -71,6 +78,8 @@ module.exports = function(eleventyConfig) {
     const yaml = require('js-yaml');
     return JSON.stringify(yaml.load(value));
   });
+  eleventyConfig.addDataExtension('yml, yaml', contents => yaml.load(contents));
+  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   //eleventyConfig.setQuietMode(true);
 	// https://github.com/Myllaume/eleventy-plugin-citeproc/
 	/*
@@ -84,28 +93,16 @@ module.exports = function(eleventyConfig) {
   * Setup views {{{2 *
   ********************/
   eleventyConfig.addCollection("obras", function(collection) {
-    return collection.getFilteredByGlob("src/obra/*.md");
+    return collection.getFilteredByGlob("src/casa/*.md");
   });
 	eleventyConfig.addCollection('destaques', function(collection) {
-    return sortByDisplayOrder(collection.getFilteredByGlob("src/obra/*.md")).filter(
+    return sortByDisplayOrder(collection.getFilteredByGlob("src/casa/*.md")).filter(
 			x => x.data.featured
 		);
 	});
-	eleventyConfig.addTransform("htmlmin", function(content) {
-		// Prior to Eleventy 2.0: use this.outputPath instead
-		if( this.page.outputPath && this.page.outputPath.endsWith(".html") ) {
-			let minified = htmlmin.minify(content, {
-				useShortDoctype: true,
-				removeComments: true,
-				collapseWhitespace: true
-			});
-			return minified;
-		}
-		return content;
-	});
- /*******************************************************
-  * Return is the last instruction to be evaluated {{{2 *
-  *******************************************************/
+ /***************
+  * Return {{{2 *
+  ***************/
   // If needed, return an object configuration
   return {
     dir: {
@@ -117,4 +114,4 @@ module.exports = function(eleventyConfig) {
     }
   }
 };
-// vim: foldmethod=marker shiftwidth=2 tabstop=2
+// vim: foldmethod=indent shiftwidth=2 tabstop=2
