@@ -137,7 +137,7 @@ $legend-font-weight: 500;
 
 //@import "icon-list";
 #home-hero {
-  height: 50vh;
+  min-height: 50vh;
   background-size: cover;
   background-position: center;
   h1,
@@ -159,5 +159,10 @@ $legend-font-weight: 500;
   aspect-ratio: 3 / 2;
   width: 100%;
   object-fit: cover;
+}
+
+.tl-timeline,
+.tl-slider-background {
+  background-color: $body-bg !important;
 }
 // vim: shiftwidth=2 tabstop=2 expandtab
