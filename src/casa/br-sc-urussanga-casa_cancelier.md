@@ -1,10 +1,18 @@
 ---
-Title: casa cancelier rodovia anes gualberto (sc 446) – rio maior – urussanga/sc 
-Date: ~1880
-Author: Eduarda Santana
-Lat: -28.460075
-Long: -49.312203
-Area: 308,45 m²
+title: "casa cancelier rodovia anes gualberto (sc 446) – rio maior – urussanga/sc "
+created:
+  date: 1880-01-01
+  qualifier: "c. "
+  display_date: "c. 1880"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -28.460075
+      long: -49.312203
+    extent:
+      size: 308,45
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0002

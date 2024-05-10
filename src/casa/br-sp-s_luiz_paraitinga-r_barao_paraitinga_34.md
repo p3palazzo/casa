@@ -1,10 +1,18 @@
 ---
-Title: Casa à rua Barão de Paraitinga, n.34, São Paulo
-Date: ~1840
-Author: Eduarda Santana
-Lat: -23.222236
-Long: -45.311417
-Area: 140 m²
+title: "Casa à rua Barão de Paraitinga, n.34, São Paulo"
+created:
+  date: 1840-01-01
+  qualifier: "c. "
+  display_date: "c. 1840"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -23.222236
+      long: -45.311417
+    extent:
+      size: 140
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0034

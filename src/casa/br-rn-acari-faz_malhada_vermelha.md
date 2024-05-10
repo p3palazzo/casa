@@ -1,10 +1,16 @@
 ---
-Title: Fazenda Malhada Vermelha, Acari, Rio Grande do Norte
-Date: ~1830
-Author: Eduarda Santana
-Lat: -7.183696
-Long: -42.021646
-Area: 126m²
+title: "Fazenda Malhada Vermelha, Acari, Rio Grande do Norte"
+created:
+  date: 1830-01-01
+  qualifier: "c. "
+  display_date: "c. 1830"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -7.183696
+      long: -42.021646
+    area: 126m²
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0012

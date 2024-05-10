@@ -1,10 +1,11 @@
 ---
-Title: Casa nº 76, localizada na Travessa Luiz Nery em Laguna/Santa Catarina
-Date: 1830-1850
-Author: Eduarda Santana
+title: "Casa nº 76, localizada na Travessa Luiz Nery em Laguna/Santa Catarina"
+created:
+  display_date: "1830-1850"
+author: Eduarda Santana
 Lat: -28.484150 
 Long: -48.779905
-Area: 111 m2
+    area: 111 m2
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0004

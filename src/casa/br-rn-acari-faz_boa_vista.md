@@ -1,10 +1,16 @@
 ---
-Title: Fazenda Boa Vista, Acari, Rio Grande do Norte
-Date: Por volta de 1857
-Author: Eduarda Santana
-Lat: -6.368960
-Long: -36.569206
-Area: 92 m²
+title: "Fazenda Boa Vista, Acari, Rio Grande do Norte"
+created:
+  display_date: "Por volta de 1857"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -6.368960
+      long: -36.569206
+    extent:
+      size: 92
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0006

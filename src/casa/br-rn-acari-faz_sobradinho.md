@@ -1,10 +1,13 @@
 ---
-Title: Fazenda Sobradinho, Acari, Rio Grande do Norte
-Date: ~1820 - 1850
-Author: Eduarda Santana
+title: "Fazenda Sobradinho, Acari, Rio Grande do Norte"
+created:
+  display_date: "c. 1820 - 1850"
+author: Eduarda Santana
 Lat: -6.22585
 Long: -36,34021
-Area: 163 m²
+    extent:
+      size: 163
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0016

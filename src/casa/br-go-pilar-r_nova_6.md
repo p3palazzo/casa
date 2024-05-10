@@ -1,10 +1,18 @@
 ---
-Title: Casa à rua Nova, nº 06, Pirenópolis, GO
-Date: ~1890
-Author: Eduarda Santana
-Lat: -14.7947220
-Long: -49.7983238
-Area: 198 m²
+title: "Casa à rua Nova, nº 06, Pirenópolis, GO"
+created:
+  date: 1890-01-01
+  qualifier: "c. "
+  display_date: "c. 1890"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -14.7947220
+      long: -49.7983238
+    extent:
+      size: 198
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0049

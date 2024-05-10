@@ -1,10 +1,18 @@
 ---
-Title: Fazenda Carnaubinha, Acari, Rio Grande do Norte
-Date: ~1820
-Author: Eduarda Santana
-Lat: -6.525442
-Long: -37.052143
-Area: 130 m²
+title: "Fazenda Carnaubinha, Acari, Rio Grande do Norte"
+created:
+  date: 1820-01-01
+  qualifier: "c. "
+  display_date: "c. 1820"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -6.525442
+      long: -37.052143
+    extent:
+      size: 130
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0010

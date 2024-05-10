@@ -1,10 +1,18 @@
 ---
-Title: Casa à rua Tomaz Araújo, 47, Acarí, Rio Grande do Norte
-Date: ~1880
-Author: Eduarda Santana
-Lat: -6.442345
-Long: -36.638930
-Area: 139 m²
+title: "Casa à rua Tomaz Araújo, 47, Acarí, Rio Grande do Norte"
+created:
+  date: 1880-01-01
+  qualifier: "c. "
+  display_date: "c. 1880"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -6.442345
+      long: -36.638930
+    extent:
+      size: 139
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0027

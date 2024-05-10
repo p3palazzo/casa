@@ -1,10 +1,16 @@
 ---
-Title: Fazenda Pitombeiras, Acari, Rio Grande do Norte
-Date: ~1820 - 1850
-Author: Eduarda Santana
-Lat: -6.498010
-Long: -36.661203
-Area: 185 m²
+title: "Fazenda Pitombeiras, Acari, Rio Grande do Norte"
+created:
+  display_date: "c. 1820 - 1850"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -6.498010
+      long: -36.661203
+    extent:
+      size: 185
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0014

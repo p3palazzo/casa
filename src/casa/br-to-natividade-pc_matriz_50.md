@@ -1,10 +1,18 @@
 ---
-Title: Casa à Praça da Matriz, nº50, Centro, Natividade, TO
-Date: ~1750
-Author: Eduarda Santana
-Lat: -11.706508
-Long: -47.725890
-Area: 236,88 m²
+title: "Casa à Praça da Matriz, nº50, Centro, Natividade, TO"
+created:
+  date: 1750-01-01
+  qualifier: "c. "
+  display_date: "c. 1750"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -11.706508
+      long: -47.725890
+    extent:
+      size: 236,88
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0040

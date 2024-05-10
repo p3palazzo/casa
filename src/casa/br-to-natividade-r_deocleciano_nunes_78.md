@@ -1,10 +1,18 @@
 ---
-Title: Casa à rua Coronel Deocleciano Nunesl nº78, Centro, Natividade - TO
-Date: ~1750
-Author: Eduarda Santana
-Lat: -11.706504
-Long: -47.725884
-Area: 165,45 m²
+title: "Casa à rua Coronel Deocleciano Nunesl nº78, Centro, Natividade - TO"
+created:
+  date: 1750-01-01
+  qualifier: "c. "
+  display_date: "c. 1750"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -11.706504
+      long: -47.725884
+    extent:
+      size: 165,45
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0039

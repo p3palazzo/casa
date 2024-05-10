@@ -1,10 +1,18 @@
 ---
-Title: Sobrado à Praça Osvaldo Cruz, n.3, Paraitinga, São Paulo
-Date: ~1830
-Author: Eduarda Santana
-Lat: -23.2219089
-Long: -45.3114217
-Area: 345 m²
+title: "Sobrado à Praça Osvaldo Cruz, n.3, Paraitinga, São Paulo"
+created:
+  date: 1830-01-01
+  qualifier: "c. "
+  display_date: "c. 1830"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -23.2219089
+      long: -45.3114217
+    extent:
+      size: 345
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0033

@@ -1,10 +1,16 @@
 ---
-Title: Casa à rua Antônio Basília, 57, Acarí, Rio Grande do Norte
-Date: ~1820-1850
-Author: Eduarda Santana
-Lat: -6.436809
-Long: -36.640718
-Area: 150 m²
+title: "Casa à rua Antônio Basília, 57, Acarí, Rio Grande do Norte"
+created:
+  display_date: "c. 1820-1850"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -6.436809
+      long: -36.640718
+    extent:
+      size: 150
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0017

@@ -1,10 +1,16 @@
 ---
-Title: Três sobrados gêmeos, Barão de Paraitinga, n.26 e 04 e Praça Osvaldo Cruz
-Date: ~1870
-Author: Eduarda Santana
-Lat: -23.222060
-Long: -45.310842
-Area: Sobrado 01 - 280 m²; Sobrado 02 - 210 m². Sobrado 03 - 210 m²
+title: "Três sobrados gêmeos, Barão de Paraitinga, n.26 e 04 e Praça Osvaldo Cruz"
+created:
+  date: 1870-01-01
+  qualifier: "c. "
+  display_date: "c. 1870"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -23.222060
+      long: -45.310842
+    area: Sobrado 01 - 280 m²; Sobrado 02 - 210 m². Sobrado 03 - 210 m²
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0031

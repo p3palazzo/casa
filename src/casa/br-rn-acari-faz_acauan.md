@@ -1,10 +1,16 @@
 ---
-Title: Fazenda Acauã, Acari, Rio Grande do Norte
-Date: Por volta de 1850
-Author: Eduarda Santana
-Lat: -6.375379
-Long: -36.569374
-Area: 104 m²
+title: "Fazenda Acauã, Acari, Rio Grande do Norte"
+created:
+  display_date: "Por volta de 1850"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -6.375379
+      long: -36.569374
+    extent:
+      size: 104
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0005

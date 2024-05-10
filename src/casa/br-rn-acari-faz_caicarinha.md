@@ -1,10 +1,18 @@
 ---
-Title: Fazenda Caiçarinha, Acari, Rio Grande do Norte
-Date: ~1852
-Author: Eduarda Santana
-Lat: -6.435054
-Long: -36.640890
-Area: 172 m²
+title: "Fazenda Caiçarinha, Acari, Rio Grande do Norte"
+created:
+  date: 1852-01-01
+  qualifier: "c. "
+  display_date: "c. 1852"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -6.435054
+      long: -36.640890
+    extent:
+      size: 172
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0008

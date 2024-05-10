@@ -1,10 +1,17 @@
 ---
-Title: Fazenda Ingá, Acari, Rio Grande do Norte
-Date: 1820
-Author: Eduarda Santana
-Lat: -6.479021
-Long: -36.627854
-Area: 165 m²
+title: "Fazenda Ingá, Acari, Rio Grande do Norte"
+created:
+  date: 1820-01-01
+  display_date: "1820"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -6.479021
+      long: -36.627854
+    extent:
+      size: 165
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0011

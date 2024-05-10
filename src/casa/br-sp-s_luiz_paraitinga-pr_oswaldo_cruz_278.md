@@ -1,10 +1,18 @@
 ---
-Title: Casa à Praça Osvaldo Cruz, n.278, Paraitinga, São Paulo
-Date: ~1835
-Author: Eduarda Santana
-Lat: -23.221705
-Long: -45.310726
-Area: 250 m²
+title: "Casa à Praça Osvaldo Cruz, n.278, Paraitinga, São Paulo"
+created:
+  date: 1835-01-01
+  qualifier: "c. "
+  display_date: "c. 1835"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -23.221705
+      long: -45.310726
+    extent:
+      size: 250
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0035

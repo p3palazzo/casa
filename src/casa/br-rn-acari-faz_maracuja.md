@@ -1,10 +1,16 @@
 ---
-Title: Fazenda Maracujá, Acari, Rio Grande do Norte
-Date: ~1820 - 1850
-Author: Eduarda Santana
-Lat: -6.444080
-Long: -36.640751
-Area: 125 m²
+title: "Fazenda Maracujá, Acari, Rio Grande do Norte"
+created:
+  display_date: "c. 1820 - 1850"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -6.444080
+      long: -36.640751
+    extent:
+      size: 125
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0013

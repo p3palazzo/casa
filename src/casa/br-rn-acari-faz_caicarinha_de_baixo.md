@@ -1,10 +1,16 @@
 ---
-Title: Fazenda Caiçarinha de baixo, Acari, Rio Grande do Norte
-Date: 1890-1895
-Author: Eduarda Santana
-Lat: -6.429678
-Long: -36.641820
-Area: 139 m²
+title: "Fazenda Caiçarinha de baixo, Acari, Rio Grande do Norte"
+created:
+  display_date: "1890-1895"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -6.429678
+      long: -36.641820
+    extent:
+      size: 139
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0009

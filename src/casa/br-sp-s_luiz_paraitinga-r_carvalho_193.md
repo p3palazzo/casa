@@ -1,10 +1,16 @@
 ---
-Title: Casas n. 187, 193, 199 da Rua do Carvalho, Paraitinga, São Paulo
-Date: ~1840
-Author: Eduarda Santana
-Lat: -23.221091
-Long: -45.309668
-Area: Casa 187 - 50 m²; Casa 193 - 60 m²; Casa 199 - 55 m²
+title: "Casas n. 187, 193, 199 da Rua do Carvalho, Paraitinga, São Paulo"
+created:
+  date: 1840-01-01
+  qualifier: "c. "
+  display_date: "c. 1840"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -23.221091
+      long: -45.309668
+    area: Casa 187 - 50 m²; Casa 193 - 60 m²; Casa 199 - 55 m²
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0037

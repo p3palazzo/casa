@@ -1,10 +1,18 @@
 ---
-Title: Casa à rua Rua Padre Braz, Casa de Padre Braz, Pilar de Goiás, GO
-Date: ~1751
-Author: Eduarda Santana
-Lat: -14.766334
-Long: -49.578897
-Area: 193,61 m²
+title: "Casa à rua Rua Padre Braz, Casa de Padre Braz, Pilar de Goiás, GO"
+created:
+  date: 1751-01-01
+  qualifier: "c. "
+  display_date: "c. 1751"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -14.766334
+      long: -49.578897
+    extent:
+      size: 193,61
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0048

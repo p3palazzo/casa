@@ -1,10 +1,16 @@
 ---
-Title: Casa à rua Dr. José Augusto, 76, Acarí, Rio Grande do Norte
-Date: ~1820-1850
-Author: Eduarda Santana
-Lat: -6.435045
-Long: -36.640953
-Area: 140 m²
+title: "Casa à rua Dr. José Augusto, 76, Acarí, Rio Grande do Norte"
+created:
+  display_date: "c. 1820-1850"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -6.435045
+      long: -36.640953
+    extent:
+      size: 140
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0023

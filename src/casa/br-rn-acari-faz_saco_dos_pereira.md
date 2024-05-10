@@ -1,10 +1,17 @@
 ---
-Title: Fazenda Saco dos Pereira, Acari, Rio Grande do Norte
-Date: 1850
-Author: Eduarda Santana
-Lat: -6.420274
-Long: -36.613573
-Area: 140 m²
+title: "Fazenda Saco dos Pereira, Acari, Rio Grande do Norte"
+created:
+  date: 1850-01-01
+  display_date: "1850"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -6.420274
+      long: -36.613573
+    extent:
+      size: 140
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0015

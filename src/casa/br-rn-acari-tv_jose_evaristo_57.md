@@ -1,10 +1,16 @@
 ---
-Title: Casa à travessa José Evaristo, 57, Acarí, Rio Grande do Norte
-Date: ~1820-1850
-Author: Eduarda Santana
-Lat: -6.437754
-Long: -36.639650
-Area: 233 m²
+title: "Casa à travessa José Evaristo, 57, Acarí, Rio Grande do Norte"
+created:
+  display_date: "c. 1820-1850"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -6.437754
+      long: -36.639650
+    extent:
+      size: 233
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0028

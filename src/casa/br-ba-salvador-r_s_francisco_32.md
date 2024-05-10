@@ -1,10 +1,18 @@
 ---
-Title: Casa à rua São Francisco, 32, Salvador, BA
-Date: ~1759
-Author: Eduarda Santana
-Lat: -12.925848
-Long: -38.494701
-Area: 329 m²
+title: "Casa à rua São Francisco, 32, Salvador, BA"
+created:
+  date: 1759-01-01
+  qualifier: "c. "
+  display_date: "c. 1759"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -12.925848
+      long: -38.494701
+    extent:
+      size: 329
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0050

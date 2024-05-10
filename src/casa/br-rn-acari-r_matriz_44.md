@@ -1,10 +1,16 @@
 ---
-Title: Casa à rua da Matriz, 44, Acarí, Rio Grande do Norte
-Date: ~1820-1840
-Author: Eduarda Santana
-Lat: -6.437129
-Long: -36.639187
-Area: 160 m²
+title: "Casa à rua da Matriz, 44, Acarí, Rio Grande do Norte"
+created:
+  display_date: "c. 1820-1840"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -6.437129
+      long: -36.639187
+    extent:
+      size: 160
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0018

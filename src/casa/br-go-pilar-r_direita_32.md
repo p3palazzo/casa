@@ -1,10 +1,18 @@
 ---
-Title: Casa à rua Direita (Praça das Mães), nº32, Pilar de Goiás, GO
-Date: ~1890
-Author: Eduarda Santana
-Lat: -14.766324
-Long: -49.578872
-Area: 101,22 m²
+title: "Casa à rua Direita (Praça das Mães), nº32, Pilar de Goiás, GO"
+created:
+  date: 1890-01-01
+  qualifier: "c. "
+  display_date: "c. 1890"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -14.766324
+      long: -49.578872
+    extent:
+      size: 101,22
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0047

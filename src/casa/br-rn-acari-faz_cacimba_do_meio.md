@@ -1,10 +1,17 @@
 ---
-Title: Fazenda Cacimba do Meio, Acari, Rio Grande do Norte
-Date: 1855
-Author: Eduarda Santana
-Lat: -6.368965
-Long: -36.569208
-Area: 155 m²
+title: "Fazenda Cacimba do Meio, Acari, Rio Grande do Norte"
+created:
+  date: 1855-01-01
+  display_date: "1855"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -6.368965
+      long: -36.569208
+    extent:
+      size: 155
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0007

@@ -1,10 +1,17 @@
 ---
-Title: Casa natal de Oswaldo Cruz, Monumento Nacional, sita à Rua Oswaldo Cruz, n.4, Paraitinga, São Paulo
-Date: 1834
-Author: Eduarda Santana
-Lat: -23.223214
-Long: -45.309295
-Area: 360 m²
+title: "Casa natal de Oswaldo Cruz, Monumento Nacional, sita à Rua Oswaldo Cruz, n.4, Paraitinga, São Paulo"
+created:
+  date: 1834-01-01
+  display_date: "1834"
+author: Eduarda Santana
+coverage:
+  spatial:
+    location:
+      lat : -23.223214
+      long: -45.309295
+    extent:
+      size: 360
+      unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0032
