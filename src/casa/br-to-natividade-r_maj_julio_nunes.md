@@ -3,8 +3,6 @@ title: "Casa à rua Major Julio Nunes, Centro Natividade, TO"
 created:
   date: 1890-01-01
   qualifier: "c. "
-  date: 1890-01-01
-  qualifier: "c. "
   display_date: "c. 1890"
 author: Eduada Santana
 coverage:

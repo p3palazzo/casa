@@ -3,8 +3,11 @@ title: "Fazenda Sobradinho, Acari, Rio Grande do Norte"
 created:
   display_date: "c. 1820 - 1850"
 author: Eduarda Santana
-Lat: -6.22585
-Long: -36,34021
+coverage:
+  spatial:
+    location:
+      lat : -6.22585
+      long: -36.34021
     extent:
       size: 163
       unit: "m²"

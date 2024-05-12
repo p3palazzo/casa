@@ -61,6 +61,8 @@ coverage:
 identifier: # Código IPHAN ou DGPC, por exemplo
   - source: "Inventário do Setor Tradicional de Planaltina"
     id    : 563
+  - source: "Documentário de casas tradicionais"
+    id    : 0051
 type: # Classificações
 dwg: # Documentação arquitetônica produzida neste projeto
 docs: # Fontes primárias e levantamentos de terceiros

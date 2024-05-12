@@ -86,7 +86,7 @@ coverage:
 ########################################################################
   temporal:
     events:                # Esta linha é só o cabeçalho da linha do tempo.
-      - text          : "" # Cada evento tem texto, mídia e data(s).
+      - text: # Cada evento tem texto, mídia e data(s).
           headline    : "" # O texto tem cabeçalho e conteúdo.
           text        : ""
         media:         # Uma mídia por evento:
@@ -145,5 +145,5 @@ categories:
 # para a ficha de cada mídia.                                          #
 ########################################################################
 layout: "layouts/obra.njk"
-tags: [ "civico", "edificio" ]
+tags: [ "casa", "edificio" ]
 css: [ "/assets/leaflet/leaflet.css" ]

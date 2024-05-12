@@ -5,8 +5,11 @@ created:
   qualifier: "c. "
   display_date: "c. 1890"
 author: Eduarda Santana
-Lat: -27.593316
-Long: -48.547212 
+coverage:
+  spatial:
+    location:
+      lat : -27.593316
+      long: -48.547212
     extent:
       size: 162,89
       unit: "m²"
