@@ -15,6 +15,11 @@ coverage:
       city   : "Planaltina"
       state  : "Distrito Federal"
       country: "BR"
+identifier:
+  - source: "Inventário do Setor Tradicional de Planaltina"
+    id    : 
+  - source: "Documentário de casas tradicionais"
+    id    : 0052
 ---
 
 <blockquote>
