@@ -111,8 +111,8 @@ references: # Referências bibliográficas ou iconográficas
     - ""
 # Registro de modificações na ficha:
 log:
-  - date: 2024-02-09
-    message: "Inclui campos para bases documentais"
+  - date: 
+    message: ""
 ########################################################################
 # Para a maior parte das obras, as informações necessárias terminam    #
 # aqui.                                                                #
