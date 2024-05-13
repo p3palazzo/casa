@@ -15,11 +15,10 @@ date      :    # Data de inclusão da ficha no nosso repositório no
                # mais abaixo.
 author    : "" # Quem incluiu a ficha no repositório e preencheu esta
                # ficha. Não confundir com o campo `creator` abaixo.
-excerpt: >-
-  # Descrição sucinta para aparecer em listagens. Começar na linha
-  # abaixo da legenda, deixando dois espaços em branco no início de
-  # cada linha. O ideal é se ater a no máximo 3 linhas de 72 toques.
-  # Este campo NÃO vai entre aspas.
+description: >- # Descrição sucinta para aparecer em listagens. Começar
+# na linha abaixo da legenda, deixando dois espaços em branco no início
+# de cada linha. O ideal é se ater a no máximo 3 linhas de 72 toques.
+# Este campo NÃO vai entre aspas.
 ########################################################################
 # Os agentes listados nos campos abaixo podem ser pessoas, grupos de   #
 # pessoas tratados coletivamente, ou instituições.                     #
@@ -63,6 +62,7 @@ modified: # Pode ser uma lista
 # - date: # Data no formato ISO
 #   text: # Descrição da modificação
 ########################################################################
+# Endereçamento e coordenadas para uso do mapa no plugin Leaflet.js    #
 ########################################################################
 coverage:
   spatial:    
@@ -86,7 +86,7 @@ coverage:
 ########################################################################
   temporal:
     events:                # Esta linha é só o cabeçalho da linha do tempo.
-      - text: # Cada evento tem texto, mídia e data(s).
+      - text:              # Cada evento tem texto, mídia e data(s).
           headline    : "" # O texto tem cabeçalho e conteúdo.
           text        : ""
         media:         # Uma mídia por evento:
@@ -104,11 +104,11 @@ subject:        # Lista de itens. Preencher apenas se a obra
   - ""          # representar temas não cobertos pelo campo "coverage".
 conformsTo:
   - "https://schema.org/LandmarksOrHistoricalBuildings"
-dwg: # Documentação arquitetônica produzida neste projeto
-docs: # Fontes primárias e levantamentos de terceiros
-media: # Iconografia
-  - ""
-references: # Referências bibliográficas
+references: # Referências bibliográficas ou iconográficas
+  dwg: # Documentação arquitetônica produzida neste projeto
+  docs: # Fontes primárias e levantamentos de terceiros
+  media: # Iconografia
+    - ""
 # Registro de modificações na ficha:
 log:
   - date: 2024-02-09
@@ -122,7 +122,8 @@ log:
 # quando a obra é parte intrínseca de um conjunto edificado ou urbano. #
 ########################################################################
 relation:
-source:
+source: # Não é fonte no sentido historiográfico, mas um objeto do qual
+        # este objeto deriva ou foi tirado.
 isPartOf:
 hasPart:
 isVersionOf:
@@ -135,9 +136,10 @@ isReferencedBy:
 # Os campos abaixo referem-se a informações de formatação da ficha.    #
 ########################################################################
 header:
-  teaser       : "" # Imagem em baixa resolução para prévias.
-  overlay_image: "" # Imagem em alta resolução para o fundo do título.
-  caption      : "" # Legenda da imagem de fundo do título.
+  teaser        : "https://placehold.co/600x400"
+  overlay_image : "https://i.pinimg.com/originals/f7/76/49/f7764902ee90d4fc48b6f795307bc366.jpg"
+  overlay_filter: 0.7
+  caption       : "Abigail de Andrade, Estrada do Mundo Novo, 1888"
 categories:
   - ""              # Lista de palavras-chave, uma por linha.
 ########################################################################
