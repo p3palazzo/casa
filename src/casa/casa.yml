@@ -173,7 +173,7 @@ log:
 # quando a mídia é parte intrínseca de uma coleção ou série.           #
 # -------------------------------------------------------------------- #
 # IMPORTANTE! As relações de representação `depicts` e `depictedIn`    #
-# devem ser cadastradas na ficha da MÍDIA e não na da obra.            #
+# devem ser cadastradas na ficha da OBRA e não da mídia.               #
 ########################################################################
 relation:
   - type   : "depictedIn" # Tipos usados no VRA Core:
