@@ -11,8 +11,7 @@
 # Todos os blocos que começam com um hífen `-` são listas que podem    #
 # conter qualquer número de linhas ou blocos.                          #
 ########################################################################
-title             : "" # Se a obra não tiver título próprio, usar um título
-                    # descritivo sucinto.
+title             : "" # Se a obra não tiver título próprio, usar um título descritivo sucinto.
 date              : # Data de inclusão da ficha no nosso repositório no
                     # formato AAAA-MM-DD. Não confundir como campo
                     # `created` mais abaixo.
@@ -32,7 +31,7 @@ creator:            # Quem criou a própria obra, não confundir com o campo `au
     attribution   : "" # atribuição, escola de, baseado em, cópia de, etc.
     vocab         : "" # Caso seja usado um vocabulário controlado para padronizar...
     refid         : "" # ...nomes de agentes, preencher as linhas `vocab` e `refid`.
-    url           : "" # Em vez de vocabulário controlado, pode-se usar um link para
+    href          : "" # Em vez de vocabulário controlado, pode-se usar um link para
                     # identificar o agente. Caso o agente não possua site
                     # institucional próprio, verificar se há um registro de
                     # autoridade no Wikidata ou no vocabulário Getty.
@@ -43,7 +42,7 @@ contributor:        # Lista de outros envolvidos no ciclo de vida da obra.
     attribution   : ""
     vocab         : ""
     refid         : ""
-    url           : ""
+    href          : ""
 type:
   name            : "physicalObject" # https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/
   worktype: # Classe de objetos à qual a obra pertence
@@ -73,7 +72,7 @@ format:
 bibliographiCitation: # Fonte de autoridade para informações básicas sobre a obra
   citekey : ""  # No formato iphan:2012inventario, conforme cadastrado
                 # no Zotero/Better BibLaTeX.
-  url     : ""  # Conforme o caso, ambos os campos citekey e url podem
+  href    : ""  # Conforme o caso, ambos os campos citekey e href podem
                 # ser preenchidos, ou apenas um deles.
   text    : ""  # Descrição da fonte. Só precisa ser preenchido se não existir `citekey`.
 identifier:     # Cadastros em inventários, tombamento, etc.
@@ -89,7 +88,7 @@ created:            # Data de criação da obra, não confundir com o campo `dat
   display_date    : # Representação textual complexa, caso necessário.
   source:           # Fonte de autoridade para a data indicada.
     citekey       : "" # Seguir as instruções do campo `bibliographicCitation` acima.
-    url           : ""
+    href          : ""
     text          : ""
 issued:
 available:
@@ -127,7 +126,7 @@ coverage:
           headline    : "" # O texto tem cabeçalho e conteúdo.
           text        : ""
         media:             # Uma mídia por evento:
-          url         : "" # pode ser uma prévia da Wikipédia, imagem ou vídeo.
+          href        : "" # pode ser uma prévia da Wikipédia, imagem ou vídeo.
           caption     : "" # Legenda.
           credit      : "" # Créditos, se houver.
           alt         : "" # Descrição sucinta da mídia para acessibilidade.
@@ -155,8 +154,7 @@ subject: # Refere-se ao conteúdo da obra, conforme https://www.loc.gov/standard
     text          : ""
     vocab         : "" # Caso use vocabulário controlado, preencher os...
     refid         : "" # ...campos `vocab` e `refid`.
-conformsTo:
-  - "https://schema.org/LandmarksOrHistoricalBuildings"
+conformsTo : "https://schema.org/LandmarksOrHistoricalBuildings"
 references: # Referências bibliográficas ou iconográficas
   dwg: # Documentação arquitetônica produzida neste projeto
   docs: # Fontes primárias e levantamentos de terceiros
@@ -172,11 +170,28 @@ log:
 # Os campos relacionais abaixo devem ser usados apenas se necessário   #
 # para descrever adequadamente a obra. P.ex., o campo `isPartOf`       #
 # não deve ser usado como sinônimo de `bibliographicCitation`, e sim   #
-# quando a obra é parte intrínseca de um conjunto edificado ou urbano. #
+# quando a mídia é parte intrínseca de uma coleção ou série.           #
+# -------------------------------------------------------------------- #
+# IMPORTANTE! As relações de representação `depicts` e `depictedIn`    #
+# devem ser cadastradas na ficha da MÍDIA e não na da obra.            #
 ########################################################################
 relation:
-source: # Não é fonte no sentido historiográfico, mas um objeto do qual
-        # este objeto deriva ou foi tirado.
+  - type   : "depictedIn" # Tipos usados no VRA Core:
+             # cartoonFor, cartoonIs, componentOf, componentIs, copyAfter,
+             # copyIs, counterProofFor, counterProofIs, depicts, depictedIn,
+             # derivedFrom, sourceFor, designedFor, contextIs, exhibitedAt,
+             # venueFor, facsimileOf, facsimileIs, formerlyPartOf,
+             # formerlyLargerContextFor, imageOf, imageIs, mateOf, modelFor,
+             # modelIs, partOf, largerContextFor, partnerInSetWith, pendantOf,
+             # planFor, planIs, prepatoryFor, basedOn, printingPlateFor,
+             # printingPlateIs, prototypeFor, prototypeIs, relatedTo,
+             # reliefFor, impressionIs, replicaOf, replicaIs, studyFor,
+             # studyIs, versionOf, versionIs
+    relids : "" # Referência do objeto relacionado (nome de arquivo da ficha)
+    text   : "" # Legenda da imagem
+    href   : "" # Link direto para a imagem, no caso de arquivos hospedados em outro servidor.
+# Não usar os campos de relação abaixo até nova ordem.
+source: # Não é fonte no sentido historiográfico, mas um objeto do qual este objeto deriva ou foi tirado.
 isPartOf:
 hasPart:
 isVersionOf:
