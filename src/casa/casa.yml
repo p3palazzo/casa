@@ -126,7 +126,7 @@ coverage:
           display_date: "" # Para datas complexas, escrever por extenso aqui.
         end_date:          # Opcional, mesmo formato de start_date (VRA Core latestDate)
         media:             # Uma mídia por evento:
-          href        : "" # pode ser uma prévia da Wikipédia, imagem ou vídeo.
+          url         : "" # pode ser uma prévia da Wikipédia, imagem ou vídeo.
           caption     : "" # Legenda.
           credit      : "" # Créditos, se houver.
           alt         : "" # Descrição sucinta da mídia para acessibilidade.
