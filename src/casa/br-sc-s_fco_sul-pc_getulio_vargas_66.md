@@ -11,8 +11,9 @@ coverage:
       lat : -27.593316
       long: -48.547212
     extent:
-      size: 162,89
-      unit: "m²"
+      - type: "area"
+        measurements: 162,89
+        unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0044

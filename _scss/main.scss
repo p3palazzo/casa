@@ -134,26 +134,44 @@ $color-mode-type: media-query;
 @import "bootstrap/scss/variables";
 
 // Customize some defaults
-$body-color: #111118;
-$body-bg: #fffffc;
-$border-radius: .4rem;
-$primary: #282f6a;
-$light: #fcf9e6;
+$body-color:          #111118;
+$body-bg:             #fffffc;
+$border-radius:       .4rem;
+//$primary:             #282f6a;
+$primary:             $blue-800;
+$light:               #fcf9e6;
 $body-emphasis-color: $primary;
-$link-decoration: none;
-$success: #7952b3;
+$link-decoration:     none;
+$success:             #7952b3;
 
 $font-family-serif:      "eb-garamond", "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 $font-family-sans-serif: "UnB Pro", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 $font-family-narrow:     "league-gothic-condensed", "Arial Narrow", sans-serif;
 
-$font-family-base: $font-family-sans-serif;
-$font-size-base: 1.3rem;
+$font-family-base:     $font-family-sans-serif;
+$font-size-base:       1.3rem;
 $headings-font-family: 'Weiss Std', Georgia, serif;
 $headings-font-weight: 700;
-$headings-font-style: normal;
-$headings-color: $body-color;
-$legend-font-weight: 500;
+$headings-font-style:  normal;
+$headings-color:       $body-color;
+$legend-font-weight:   500;
+
+$theme-colors: (
+  "primary":    $blue-800,
+  "secondary":  $secondary,
+  "success":    $success,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     $danger,
+  "light":      $light,
+  "dark":       $dark
+);
+
+$link-color: $primary;
+$link-hover-color: $blue-900;
+$component-active-bg: $primary;
+$pagination-active-bg: $primary;
+
 
 /* ==========================================================================
    Imports {{{1
@@ -661,4 +679,4 @@ main > .container > .row {
   @extend .align-items-center;
   @extend .text-body-secondary;
 }
-// vim: shiftwidth=2 tabstop=2 expandtab foldmethod=marker
+// vim: shiftwidth=2 tabstop=2 expandtab foldmethod=marker nowrap
