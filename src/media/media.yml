@@ -1,12 +1,18 @@
 ########################################################################
-# Todos os campos abaixo são definidos pela especificação:             #
+# Este arquivo é um gabarito (template). Todas as informações de cada  #
+# ficha de obra que forem idênticas ao que já consta deste arquivo     #
+# NÃO PRECISAM ser repetidas na ficha.                                 #
+# -------------------------------------------------------------------- #
+# Todos os campos abaixo são definidos pela especificação DublinCore:  #
 # https://www.dublincore.org/resources/userguide/creating_metadata/    #
+# e complementados pela especificação VRA Core:                        #
+# https://www.loc.gov/standards/vracore/schemas.html                   #
 # -------------------------------------------------------------------- #
 # O caractere '#' indica o início de um comentário, que prossegue      #
 # até o final da linha. Os comentários e as linhas que contêm apenas   #
 # comentários podem ser apagados das fichas.                           #
-# Linhas que contêm campos não preenchidos também podem ser apagadas   #
-# das fichas.                                                          #
+# Linhas que contêm campos não preenchidos ou idênticos aos deste      #
+# template também podem ser apagadas das fichas.                       #
 # -------------------------------------------------------------------- #
 # Todos os blocos que começam com um hífen `-` são listas que podem    #
 # conter qualquer número de linhas ou blocos.                          #
