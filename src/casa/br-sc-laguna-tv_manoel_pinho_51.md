@@ -1,7 +1,10 @@
 ---
 title: "Casa nº 51, localizada na Travessa Manoel Pinho em Laguna/Santa Catarina"
+date: 02-05-2024
 created:
-  display_date: "1830-1850"
+  date: 1845-01-01
+  qualifier: "c. "
+  display_date: "c. 1845"
 author: Eduarda Santana
 coverage:
   spatial:
