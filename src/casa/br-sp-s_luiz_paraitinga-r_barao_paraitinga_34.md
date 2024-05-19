@@ -1,5 +1,6 @@
 ---
 title: "Casa à rua Barão de Paraitinga, n.34, São Paulo"
+date: 02-05-2024
 created:
   date: 1840-01-01
   qualifier: "c. "
