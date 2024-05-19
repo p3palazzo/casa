@@ -11,7 +11,8 @@ coverage:
     location:
       lat : -23.222060
       long: -45.310842
-    area: Sobrado 01 - 280 m²; Sobrado 02 - 210 m². Sobrado 03 - 210 m²
+    area: Sobrado 01 - 280. Sobrado 02 - 210. Sobrado 03 - 210
+    unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0029
