@@ -1,5 +1,6 @@
 ---
 title: "Casa à rua Nova, nº 06, Pirenópolis, GO"
+date: 02-05-2024
 created:
   date: 1890-01-01
   qualifier: "c. "
