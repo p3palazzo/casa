@@ -1,7 +1,10 @@
 ---
 title: "Casa à rua Dr. José Augusto, 15, Acarí, Rio Grande do Norte"
+date: 02-05-2024
 created:
-  display_date: "c. 1800-1820"
+  date: 1810-01-01
+  qualifier: "c. "
+  display_date: "c. 1810"
 author: Eduarda Santana
 coverage:
   spatial:
