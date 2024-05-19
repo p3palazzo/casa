@@ -1,5 +1,6 @@
 ---
 title: "Casas n. 187, 193, 199 da Rua do Carvalho, Paraitinga, São Paulo"
+date: 02-05-2024
 created:
   date: 1840-01-01
   qualifier: "c. "
@@ -10,7 +11,7 @@ coverage:
     location:
       lat : -23.221091
       long: -45.309668
-    area: Casa 187 - 50 m²; Casa 193 - 60 m²; Casa 199 - 55 m²
+    area: 60 m²
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0037
