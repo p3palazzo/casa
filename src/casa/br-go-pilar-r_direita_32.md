@@ -1,5 +1,6 @@
 ---
 title: "Casa à rua Direita (Praça das Mães), nº32, Pilar de Goiás, GO"
+date: 02-05-2024
 created:
   date: 1890-01-01
   qualifier: "c. "
@@ -11,7 +12,7 @@ coverage:
       lat : -14.766324
       long: -49.578872
     extent:
-      size: 101,22
+      size: 101.22
       unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
