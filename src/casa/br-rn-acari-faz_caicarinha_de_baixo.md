@@ -1,7 +1,10 @@
 ---
 title: "Fazenda Caiçarinha de baixo, Acari, Rio Grande do Norte"
+date: 02-05-2024
 created:
-  display_date: "1890-1895"
+  date: 1890-01-01
+  qualifier: "c. "
+  display_date: "c. 1890"
 author: Eduarda Santana
 coverage:
   spatial:
