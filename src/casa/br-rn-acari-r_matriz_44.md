@@ -1,7 +1,10 @@
 ---
 title: "Casa à rua da Matriz, 44, Acarí, Rio Grande do Norte"
+date: 02-05-2024
 created:
-  display_date: "c. 1820-1840"
+  date: 1830-01-01
+  qualifier: "c. "
+  display_date: "c. 1830"
 author: Eduarda Santana
 coverage:
   spatial:
