@@ -1,5 +1,6 @@
 ---
 title: "Três sobrados gêmeos, Barão de Paraitinga, n.26 e 04 e Praça Osvaldo Cruz"
+date: 02-05-2024
 created:
   date: 1870-01-01
   qualifier: "c. "
