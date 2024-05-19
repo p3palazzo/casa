@@ -1,5 +1,6 @@
 ---
 title: "Casa à rua Coronel Deocleciano Nunesl nº78, Centro, Natividade - TO"
+date: 02-05-2024
 created:
   date: 1750-01-01
   qualifier: "c. "
