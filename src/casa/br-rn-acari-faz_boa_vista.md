@@ -1,7 +1,10 @@
 ---
 title: "Fazenda Boa Vista, Acari, Rio Grande do Norte"
+date: 02-05-2024
 created:
-  display_date: "Por volta de 1857"
+  date: 1857-01-01
+  qualifier: "c. "
+  display_date: "c. 1857"
 author: Eduarda Santana
 coverage:
   spatial:
