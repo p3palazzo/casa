@@ -1,5 +1,6 @@
 ---
 title: "Casa Borba Gato, Rua Borba Gato, 71 - Centro - CEP 34.505-830 - Sabará/MG"
+date: 02-05-2024
 created:
   date: "1826"
   qualifier: "c. "
