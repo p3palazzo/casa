@@ -1,8 +1,10 @@
 ---
 title: "Fazenda Ingá, Acari, Rio Grande do Norte"
+date: 02-05-2024
 created:
   date: 1820-01-01
-  display_date: "1820"
+  qualifier: "c. "
+  display_date: "c. 1820"
 author: Eduarda Santana
 coverage:
   spatial:
