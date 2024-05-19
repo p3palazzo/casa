@@ -1,5 +1,6 @@
 ---
 title: "Casa à Praça Osvaldo Cruz, n.278, Paraitinga, São Paulo"
+date: 02-05-2024
 created:
   date: 1835-01-01
   qualifier: "c. "
