@@ -1,5 +1,6 @@
 ---
 title: "Casas n. 187, 193, 199 da Rua do Carvalho, Paraitinga, São Paulo"
+date: 02-05-2024
 created:
   date: 1840-01-01
   qualifier: "c. "
