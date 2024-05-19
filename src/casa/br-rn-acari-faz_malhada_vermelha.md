@@ -1,5 +1,6 @@
 ---
 title: "Fazenda Malhada Vermelha, Acari, Rio Grande do Norte"
+date: 02-05-2024
 created:
   date: 1830-01-01
   qualifier: "c. "
