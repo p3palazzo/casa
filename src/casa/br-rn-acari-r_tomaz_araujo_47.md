@@ -1,5 +1,6 @@
 ---
 title: "Casa à rua Tomaz Araújo, 47, Acarí, Rio Grande do Norte"
+date: 02-05-2024
 created:
   date: 1880-01-01
   qualifier: "c. "
