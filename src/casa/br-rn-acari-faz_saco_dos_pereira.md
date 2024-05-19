@@ -1,8 +1,10 @@
 ---
 title: "Fazenda Saco dos Pereira, Acari, Rio Grande do Norte"
+date: 02-05-2024
 created:
   date: 1850-01-01
-  display_date: "1850"
+  qualifier: "c. "
+  display_date: "c. 1850"
 author: Eduarda Santana
 coverage:
   spatial:
