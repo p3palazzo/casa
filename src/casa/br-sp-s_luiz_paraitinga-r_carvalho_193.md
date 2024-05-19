@@ -11,7 +11,8 @@ coverage:
     location:
       lat : -23.221091
       long: -45.309668
-    area: 60 m²
+    area: 60 
+    unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0037
