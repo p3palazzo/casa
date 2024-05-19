@@ -11,7 +11,7 @@ coverage:
     location:
       lat : -23.221091
       long: -45.309668
-    area: Casa 187 - 50 m²; Casa 193 - 60 m²; Casa 199 - 55 m²
+    area: 55 m²
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0038
