@@ -1,5 +1,6 @@
 ---
 title: "Casa Q06.18, Praça Getúlio Vargas, n.66, São Francisco do Sul, SC"
+date: 02-05-2024
 created:
   date: 1890-01-01
   qualifier: "c. "
@@ -11,7 +12,7 @@ coverage:
       lat : -27.593316
       long: -48.547212
     extent:
-      size: 162,89
+      size: 162.89
       unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
