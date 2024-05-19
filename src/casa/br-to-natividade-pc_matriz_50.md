@@ -1,5 +1,6 @@
 ---
 title: "Casa à Praça da Matriz, nº50, Centro, Natividade, TO"
+date: 02-05-2024
 created:
   date: 1750-01-01
   qualifier: "c. "
@@ -11,7 +12,7 @@ coverage:
       lat : -11.706508
       long: -47.725890
     extent:
-      size: 236,88
+      size: 236.88
       unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
