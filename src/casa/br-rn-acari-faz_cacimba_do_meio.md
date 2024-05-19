@@ -1,8 +1,10 @@
 ---
 title: "Fazenda Cacimba do Meio, Acari, Rio Grande do Norte"
+date: 02-05-2024
 created:
   date: 1855-01-01
-  display_date: "1855"
+  qualifier: "c. "
+  display_date: "c. 1855"
 author: Eduarda Santana
 coverage:
   spatial:
