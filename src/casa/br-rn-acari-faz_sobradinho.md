@@ -1,7 +1,10 @@
 ---
 title: "Fazenda Sobradinho, Acari, Rio Grande do Norte"
+date: 02-05-2024
 created:
-  display_date: "c. 1820 - 1850"
+  date: 1835-01-01
+  qualifier: "c. "
+  display_date: "c. 1835"
 author: Eduarda Santana
 coverage:
   spatial:
