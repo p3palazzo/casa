@@ -1,5 +1,6 @@
 ---
 title: "Casa à rua Rua Padre Braz, Casa de Padre Braz, Pilar de Goiás, GO"
+date: 02-05-2024
 created:
   date: 1751-01-01
   qualifier: "c. "
