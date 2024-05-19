@@ -1,5 +1,6 @@
 ---
 title: "Casa à rua Rua Campo de lã, Pilar de Goiás, GO"
+date: 02-05-2024
 created:
   date: 1890-01-01
   qualifier: "c. "
@@ -11,7 +12,7 @@ coverage:
       lat : -14.766340
       long: -49.578860
     extent:
-      size: 114,08
+      size: 114.08
       unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
