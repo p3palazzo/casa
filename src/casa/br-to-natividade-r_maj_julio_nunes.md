@@ -1,5 +1,6 @@
 ---
 title: "Casa à rua Major Julio Nunes, Centro Natividade, TO"
+date: 02-05-2024
 created:
   date: 1890-01-01
   qualifier: "c. "
