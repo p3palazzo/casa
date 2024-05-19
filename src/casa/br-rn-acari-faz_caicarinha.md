@@ -1,5 +1,6 @@
 ---
 title: "Fazenda Caiçarinha, Acari, Rio Grande do Norte"
+date: 02-05-2024
 created:
   date: 1852-01-01
   qualifier: "c. "
