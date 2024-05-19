@@ -1,8 +1,10 @@
 ---
 title: "Casa à rua Tomaz Araújo, 39, Acarí, Rio Grande do Norte"
+date: 02-05-2024
 created:
   date: 1888-01-01
-  display_date: "1888"
+  qualifier: "c. "
+  display_date: "c. 1888"
 author: Edurada Santana
 coverage:
   spatial:
