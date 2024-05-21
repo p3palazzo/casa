@@ -1,5 +1,5 @@
 ---
-title: "Fazenda Boa Vista, Acari, Rio Grande do Norte"
+title: "Fazenda Boa Vista"
 created:
   display_date: "Por volta de 1857"
 author: Eduarda Santana
@@ -8,6 +8,12 @@ coverage:
     location:
       lat : -6.368960
       long: -36.569206
+      name: 
+        text: "Fazenda Boa Vista"
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 92

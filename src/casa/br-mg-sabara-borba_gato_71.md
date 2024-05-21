@@ -10,6 +10,14 @@ coverage:
     location:
       lat : -19.890484
       long: -43.809876
+      name:
+        text: |
+          Rua Borba Gato 71
+          34.505-830
+        type: "personal"
+      city: "Sabará"
+      state: "Minas Gerais"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 320
