@@ -1,6 +1,6 @@
 ---
 title: "Casa nº 76, localizada na Travessa Luiz Nery em Laguna/Santa Catarina"
-date: 02-05-2024
+date: 2024-05-02
 created:
   date: 1845-01-01
   qualifier: "c. "

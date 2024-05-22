@@ -1,6 +1,6 @@
 ---
 title: "Casa à rua Rua Campo de lã, Pilar de Goiás, GO"
-date: 02-05-2024
+date: 2024-05-02
 created:
   date: 1890-01-01
   qualifier: "c. "

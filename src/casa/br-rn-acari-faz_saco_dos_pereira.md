@@ -1,6 +1,6 @@
 ---
 title: "Fazenda Saco dos Pereira, Acari, Rio Grande do Norte"
-date: 02-05-2024
+date: 2024-05-02
 created:
   date: 1850-01-01
   qualifier: "c. "

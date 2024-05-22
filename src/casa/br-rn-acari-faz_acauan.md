@@ -1,6 +1,6 @@
 ---
 title: "Fazenda Acauã, Acari, Rio Grande do Norte"
-date: 02-05-2024
+date: 2024-05-02
 created:
   display_date: "Por volta de 1850"
 author: Eduarda Santana

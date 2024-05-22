@@ -1,6 +1,6 @@
 ---
 title: "Casa natal de Oswaldo Cruz, Monumento Nacional, sita à Rua Oswaldo Cruz, n.4, Paraitinga, São Paulo"
-date: 02-05-2024
+date: 2024-05-02
 created:
   date: 1834-01-01
   qualifier: "c. "

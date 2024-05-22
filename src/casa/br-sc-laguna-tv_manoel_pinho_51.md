@@ -1,6 +1,6 @@
 ---
 title: "Casa nº 51, localizada na Travessa Manoel Pinho em Laguna/Santa Catarina"
-date: 02-05-2024
+date: 2024-05-02
 created:
   date: 1845-01-01
   qualifier: "c. "

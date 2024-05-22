@@ -1,6 +1,6 @@
 ---
 title: "Casa à rua Rua Padre Braz, Casa de Padre Braz, Pilar de Goiás, GO"
-date: 02-05-2024
+date: 2024-05-02
 created:
   date: 1751-01-01
   qualifier: "c. "
@@ -13,7 +13,7 @@ coverage:
       long: -49.578897
     extent:
       - type: "area"
-        measurements: 193,61
+        measurements: 193.61
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"

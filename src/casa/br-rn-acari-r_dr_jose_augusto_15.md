@@ -1,6 +1,6 @@
 ---
 title: "Casa à rua Dr. José Augusto, 15, Acarí, Rio Grande do Norte"
-date: 02-05-2024
+date: 2024-05-02
 created:
   date: 1810-01-01
   qualifier: "c. "

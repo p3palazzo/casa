@@ -1,6 +1,6 @@
 ---
 title: "Casa à rua da Matriz, 44, Acarí, Rio Grande do Norte"
-date: 02-05-2024
+date: 2024-05-02
 created:
   date: 1830-01-01
   qualifier: "c. "

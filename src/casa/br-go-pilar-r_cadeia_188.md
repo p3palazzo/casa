@@ -1,6 +1,6 @@
 ---
 title: "Casa à rua da Cadeia, nº188, Pilar de Goiás, GO"
-date: 02-05-2024
+date: 2024-05-02
 created:
   date: 1890-01-01
   qualifier: "c. "
@@ -13,7 +13,7 @@ coverage:
       long: -49.578857
     extent:
       - type: "area"
-        measurements: 107,25
+        measurements: 107.25
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
