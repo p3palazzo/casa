@@ -1,6 +1,6 @@
 ---
 title: "casa cancelier rodovia anes gualberto (sc 446) – rio maior – urussanga/sc "
-date: 02-05-2024
+date: 2024-05-02
 created:
   date: 1880-01-01
   qualifier: "c. "
@@ -12,8 +12,9 @@ coverage:
       lat : -28.460075
       long: -49.312203
     extent:
-      size: 308.45
-      unit: "m²"
+      - type: "area"
+        measurements: 308.45
+        unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0002

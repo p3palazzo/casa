@@ -1,6 +1,6 @@
 ---
 title: "Casa à rua Coronel Deocleciano Nunesl nº78, Centro, Natividade - TO"
-date: 02-05-2024
+date: 2024-05-02
 created:
   date: 1750-01-01
   qualifier: "c. "
@@ -12,8 +12,9 @@ coverage:
       lat : -11.706504
       long: -47.725884
     extent:
-      size: 165.45
-      unit: "m²"
+      - type: "area"
+        measurements: 165.45
+        unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0039

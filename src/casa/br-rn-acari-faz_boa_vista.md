@@ -1,6 +1,6 @@
 ---
-title: "Fazenda Boa Vista, Acari, Rio Grande do Norte"
-date: 02-05-2024
+title: "Fazenda Boa Vista"
+date: 2024-05-02
 created:
   date: 1857-01-01
   qualifier: "c. "
@@ -11,9 +11,16 @@ coverage:
     location:
       lat : -6.368960
       long: -36.569206
+      name: 
+        text: "Fazenda Boa Vista"
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
-      size: 92
-      unit: "m²"
+      - type: "area"
+        measurements: 92
+        unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
     id    : 0006
