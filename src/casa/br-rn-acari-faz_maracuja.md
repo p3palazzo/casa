@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -6.444080
       long: -36.640751
+      name: 
+        text: 
+         Fazenda Maracujá
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 125
