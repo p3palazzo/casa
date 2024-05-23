@@ -11,7 +11,7 @@ coverage:
     location:
       lat : -23.222060
       long: -45.310842
-       name: 
+      name: 
         text: 
             Barão de Paraitinga, n.26 e 04
         type: "personal"
