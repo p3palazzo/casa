@@ -14,7 +14,7 @@ coverage:
       name: 
         text: 
          Antônio Basília, 57
-        type: "corporate"
+        type: "personal"
       city: "Acari"
       state: "Rio Grande do Norte"
       country: "BR"
