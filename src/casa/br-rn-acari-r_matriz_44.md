@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -6.437129
       long: -36.639187
+      name: 
+        text: 
+           Rua da Matriz, 44
+        type: "personal"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 160
