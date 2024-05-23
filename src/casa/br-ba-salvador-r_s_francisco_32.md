@@ -4,12 +4,19 @@ created:
   date: 1759-01-01
   qualifier: "c. "
   display_date: "c. 1759"
-author: Eduarda Santana
+author: Eduarda Santana     
 coverage:
   spatial:
     location:
       lat : -12.925848
       long: -38.494701
+      name:
+        text: |
+          rua São Francisco 32
+        type: "personal"
+      city: "Salvador"
+      state: "Bahia"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 329
