@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -14.766334
       long: -49.578897
+      name:
+        text: |
+          rua Rua Padre Braz
+        type: "personal"
+      city: "Goiás"
+      state: "Bahia"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 193.61
