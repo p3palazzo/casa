@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -6.435054
       long: -36.640890
+      name: 
+        text: 
+         Fazenda Caiçarinha
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 172
