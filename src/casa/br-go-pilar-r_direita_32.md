@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -14.766324
       long: -49.578872
+      name:
+        text: |
+          Rua Direita (Praça das Mães), nº32
+        type: "personal"
+      city: "Pilar de Goiás"
+      state: "Goiás"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 101.22
