@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -28.460075
       long: -49.312203
+      name: 
+        text: 
+           cancelier rodovia anes gualberto, 446
+        type: "personal"
+      city: "urussanga"
+      state: "Santa Catarina"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 308.45
