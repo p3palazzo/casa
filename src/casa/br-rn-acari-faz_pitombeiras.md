@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -6.498010
       long: -36.661203
+      name: 
+        text: 
+         Fazenda Pitombeiras
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 185
