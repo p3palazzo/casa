@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -6.420274
       long: -36.613573
+      name: 
+        text: 
+         Fazenda Saco dos Pereira
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 140
