@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -7.183696
       long: -42.021646
+      name: 
+        text: 
+         Fazenda Malhada Vermelha
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 126
