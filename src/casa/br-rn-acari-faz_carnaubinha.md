@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -6.525442
       long: -37.052143
+      name: 
+        text: 
+         Fazenda Carnaubinha
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 130
