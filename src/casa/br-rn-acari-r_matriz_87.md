@@ -11,7 +11,7 @@ coverage:
     location:
       lat : -6.442255
       long: -36.639651
-       name: 
+      name: 
         text: 
            Rua da Matriz, 87
         type: "personal"
