@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -23.221091
       long: -45.309668
+      name: 
+        text: 
+            Rua do Carvalho
+        type: "personal"
+      city: "Paraitinga"
+      state: "São Paulo"
+      country: "BR"
     area: 55  
     unit: "m²"
 identifier:
