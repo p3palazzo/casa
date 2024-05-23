@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -6.22585
       long: -36.34021
+      name: 
+        text: 
+         Fazenda SSobradinho
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 163
