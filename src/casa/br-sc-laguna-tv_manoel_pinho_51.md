@@ -13,7 +13,7 @@ coverage:
       long: -48.7815707
       name: 
         text: 
-           TTravessa Manoel Pinho, 51
+           Travessa Manoel Pinho, 51
         type: "personal"
       city: "Laguna"
       state: "Santa Catarina"
