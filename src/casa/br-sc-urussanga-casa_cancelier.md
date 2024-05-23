@@ -13,7 +13,7 @@ coverage:
       long: -49.312203
       name: 
         text: 
-           cancelier rodovia anes gualberto, 446
+           Cancelier rodovia anes gualberto, 446
         type: "personal"
       city: "urussanga"
       state: "Santa Catarina"
