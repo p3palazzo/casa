@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -11.706504
       long: -47.725884
+      name: 
+        text: 
+            Rua Coronel Deocleciano Nunesl, 78
+        type: "personal"
+      city: "Natividade"
+      state: "Tocantins"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 165.45
