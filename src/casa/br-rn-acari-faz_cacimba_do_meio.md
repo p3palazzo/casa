@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -6.368965
       long: -36.569208
+      name: 
+        text: 
+         Fazenda Cacimba do Meio
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 155
