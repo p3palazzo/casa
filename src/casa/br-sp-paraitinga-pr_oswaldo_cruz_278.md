@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -23.221705
       long: -45.310726
+      name: 
+        text: 
+            Rua Oswaldo Cruz, 278
+        type: "personal"
+      city: "Paraitinga"
+      state: "São Paulo"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 250
