@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -6.429678
       long: -36.641820
+       name: 
+        text: 
+         Fazenda Caiçarinha de baixo
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 139
