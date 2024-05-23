@@ -9,9 +9,9 @@ coverage:
     location:
       lat : -6.375379
       long: -36.569374
-       name:
+      name:
         text: |
-         Fazenda Acauã
+         Fazenda Acauã  
         type: "corporate"
       city: "Acari"
       state: "Rio Grande do Norte"
