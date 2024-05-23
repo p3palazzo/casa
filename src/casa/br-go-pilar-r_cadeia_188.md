@@ -13,7 +13,7 @@ coverage:
       long: -49.578857
       name:
         text: |
-          rua da Cadeia, nº188
+          Rua da Cadeia, nº188
         type: "personal"
       city: "Pilar de Goiás"
       state: "Goiás"
