@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -23.222060
       long: -45.310842
+       name: 
+        text: 
+            Barão de Paraitinga, n.26 e 04
+        type: "personal"
+      city: "Paraitinga"
+      state: "São Paulo"
+      country: "BR"
     area: Sobrado 01 - 280. Sobrado 02 - 210. Sobrado 03 - 210
     unit: "m²"
 identifier:
