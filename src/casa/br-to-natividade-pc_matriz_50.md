@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -11.706508
       long: -47.725890
+      name: 
+        text: 
+            Praça da Matriz, 50
+        type: "personal"
+      city: "Natividade"
+      state: "Tocantins"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 236.88
