@@ -13,7 +13,7 @@ coverage:
       long: -45.309295
       name: 
         text: 
-            Rua Oswaldo Cruz, n.4
+            Rua Oswaldo Cruz, 4
         type: "personal"
       city: "Paraitinga"
       state: "São Paulo"
