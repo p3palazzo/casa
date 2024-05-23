@@ -11,7 +11,7 @@ coverage:
     location:
       lat : -6.429678
       long: -36.641820
-       name: 
+      name: 
         text: 
          Fazenda Caiçarinha de baixo
         type: "corporate"
