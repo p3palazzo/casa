@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -11.709110
       long: -47.725175
+      name: 
+        text: 
+            Rua Rafael Xavier
+        type: "personal"
+      city: "Natividade"
+      state: "Tocantins"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 184.88
