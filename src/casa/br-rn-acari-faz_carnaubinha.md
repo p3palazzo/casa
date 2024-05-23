@@ -27,11 +27,6 @@ identifier:
     id    : 0010
 ---
 
-
-Área da Edificação: 
-Coordenada geográfica: , 
-Data: 
-
 Tradicional e típica casa de fazenda do vale do Acauã, atualmente desabitada e em estado de abandono, mantêm-se ainda em seu estado original, com seus elementos preservados. Como acontece em outras casas que possuem sótão, a escada que lhe dá acesso parte da sala de jantar. Em geral essas escadas não dispõem de degraus confortáveis, pois quase sempre se desenvolvem em espaço exíguo, como se observa neste caso, limitado pela existência da porta de um quarto.
 
 O quarto das moças, por vezes não é identificado pela sua localização e ligações com outros cômodos da casa, contudo, segundo a tradição, pode-se identifica-lo, como aquele quarto da casa que dispõe uma grade de madeira na janela, além da folha escura ou de segurança. Esse tipo de esquadria, embora encontrado em outros cômodos da casa como sala de jantar e cozinha, não ocorre nos outros quartos. Em seu alpendre, encontram-se exemplares típicos dos Pilares de madeira, confeccionados em aroeira, onde se observa a intenção plástica na sua feitura. A partir de uma peça de madeira, do tamanho do pé direito do alpendre, de seção quadrada, cujo lado mede aproximadamente 12cm, transforma-se seu trecho intermediário, de seção transversal quadrada, para octogonal, arrematando-o com chanfro.
