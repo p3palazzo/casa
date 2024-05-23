@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -6.437646
       long: -36.639066
+       name: 
+        text: 
+         Rua Dr. José Augusto, 15
+        type: "personal"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 174
