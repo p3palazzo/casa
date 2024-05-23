@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -23.222236
       long: -45.311417
+      name: 
+        text: 
+            Barão de Paraitinga, 34
+        type: "personal"
+      city: "Paraitinga"
+      state: "São Paulo"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 140
