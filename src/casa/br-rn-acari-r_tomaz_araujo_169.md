@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -6.438698
       long: -36.640658
+      name: 
+        text: 
+           rua Tomaz Araújo, 169
+        type: "personal"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 80
