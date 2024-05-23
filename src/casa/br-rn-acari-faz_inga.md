@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -6.479021
       long: -36.627854
+      name: 
+        text: 
+         Fazenda Ingá
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 165
