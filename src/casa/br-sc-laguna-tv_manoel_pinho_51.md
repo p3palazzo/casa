@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -28.484654
       long: -48.7815707
+      name: 
+        text: 
+           TTravessa Manoel Pinho, 51
+        type: "personal"
+      city: "Laguna"
+      state: "Santa Catarina"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 120
