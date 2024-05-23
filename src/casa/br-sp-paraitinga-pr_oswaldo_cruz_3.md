@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -23.2219089
       long: -45.3114217
+      name: 
+        text: 
+            Rua Oswaldo Cruz, 3
+        type: "personal"
+      city: "Paraitinga"
+      state: "São Paulo"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 345
