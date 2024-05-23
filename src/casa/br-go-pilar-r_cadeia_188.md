@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -14.766327
       long: -49.578857
+      name:
+        text: |
+          rua da Cadeia, nº188
+        type: "personal"
+      city: "Pilar de Goiás"
+      state: "Goiás"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 107.25
