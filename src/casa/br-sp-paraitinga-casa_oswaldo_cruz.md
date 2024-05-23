@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -23.223214
       long: -45.309295
+      name: 
+        text: 
+            Rua Oswaldo Cruz, n.4
+        type: "personal"
+      city: "Paraitinga"
+      state: "São Paulo"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 360
