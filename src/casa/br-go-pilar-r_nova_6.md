@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -14.7947220
       long: -49.7983238
+      name:
+        text: |
+          Rua Nova, nº 06
+        type: "personal"
+      city: "Pirenópolis"
+      state: "Goiás"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 198
