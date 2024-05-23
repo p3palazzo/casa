@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -27.593316
       long: -48.547212
+      name: 
+        text: 
+           Praça Getúlio Vargas, 66
+        type: "personal"
+      city: "São Francisco do Sul"
+      state: "Santa Catarina"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 162.89
