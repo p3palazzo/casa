@@ -13,7 +13,7 @@ coverage:
       long: -49.578860
       name:
         text: |
-          rua Rua Campo de lã
+          Rua Campo de lã
         type: "personal"
       city: "Pilar de Goiás"
       state: "Goiás"
