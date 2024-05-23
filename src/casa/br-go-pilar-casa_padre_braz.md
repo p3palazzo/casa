@@ -13,7 +13,7 @@ coverage:
       long: -49.578897
       name:
         text: |
-          rua Rua Padre Braz
+          Rua Padre Braz
         type: "personal"
       city: "Goiás"
       state: "Bahia"
