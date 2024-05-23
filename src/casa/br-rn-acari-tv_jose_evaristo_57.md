@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -6.437754
       long: -36.639650
+      name: 
+        text: 
+           Travessa José Evaristo, 57
+        type: "personal"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 233
