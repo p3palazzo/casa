@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -6.436809
       long: -36.640718
+      name: 
+        text: 
+         Antônio Basília, 57
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 150
