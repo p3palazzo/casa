@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -14.766340
       long: -49.578860
+      name:
+        text: |
+          rua Rua Campo de lã
+        type: "personal"
+      city: "Pilar de Goiás"
+      state: "Goiás"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 114.08
