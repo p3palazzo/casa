@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -11.709145
       long: -47.725180
+      name: 
+        text: 
+            Rua Major Julio Nunes
+        type: "personal"
+      city: "Natividade"
+      state: "Tocantins"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 332.76
