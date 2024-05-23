@@ -11,6 +11,13 @@ coverage:
     location:
       lat : -28.484150
       long: -48.779905
+      name: 
+        text: 
+           Travessa Luiz Nery, 76
+        type: "personal"
+      city: "Laguna"
+      state: "Santa Catarina"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 111
