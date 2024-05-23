@@ -11,7 +11,7 @@ coverage:
     location:
       lat : -6.437646
       long: -36.639066
-       name: 
+      name: 
         text: 
          Rua Dr. José Augusto, 15
         type: "personal"
