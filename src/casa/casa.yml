@@ -16,13 +16,16 @@
 # -------------------------------------------------------------------- #
 # Todos os blocos que começam com um hífen `-` são listas que podem    #
 # conter qualquer número de linhas ou blocos.                          #
+# -------------------------------------------------------------------- #
+# A ordem dos blocos não é importante, mas a hierarquia dentro de cada #
+# bloco e a indentação de dois espaços por nível hierárquico, sim.     #
+# O uso de espaços *antes* do `:` é meramente estético, mas é          #
+# obrigatório deixar um espaço *após* o `:`                            #
+# Por praticidade de leitura, é bom deixar o `title:` em primeiro.     #
 ########################################################################
 title             : "" # Se a obra não tiver título próprio, usar um título descritivo sucinto.
-date              : # Data de inclusão da ficha no nosso repositório no
-                    # formato AAAA-MM-DD. Não confundir como campo
-                    # `created` mais abaixo.
-author            : "" # Quem incluiu a ficha no repositório e preencheu esta
-                       # ficha. Não confundir com o campo `creator` abaixo.
+date              : # Data de inclusão da ficha no nosso repositório no formato AAAA-MM-DD. Não confundir como campo `created` mais abaixo.
+author            : "" # Quem incluiu a ficha no repositório e preencheu esta ficha. Não confundir com o campo `creator` abaixo.
 description: >- # Descrição sucinta para aparecer em listagens. Começar
 # na linha abaixo da legenda, deixando dois espaços em branco no início
 # de cada linha. O ideal é se ater a no máximo 3 linhas de 72 toques.
@@ -82,6 +85,8 @@ bibliographiCitation: # Fonte de autoridade para informações básicas sobre a 
 identifier:     # Cadastros em inventários, tombamento, etc.
   - source: ""  # Instituição.
     refid : ""  # Número de processo, cadastro ou publicação.
+    text  : ""  # Caso necessário para indicar livros do tombo, etc.
+    href  : ""  # Caso exista um link para uma ficha na instituição de origem.
 created:            # Data de criação da obra, não confundir com o campo `date` acima.
   date            : # Obrigatório, no formato ISO (AAAA-MM-DD). Os demais campos são opcionais
   qualifier       : "" # Ressalvas à data precisa, tais como 'c.', 'após', 'provavelmente', etc.

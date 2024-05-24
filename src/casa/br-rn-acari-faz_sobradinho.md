@@ -12,7 +12,7 @@ coverage:
       lat : -6.22585
       long: -36.34021
       name: 
-        text: "Fazenda SSobradinho"
+        text: "Fazenda Sobradinho"
         type: "corporate"
       city: "Acari"
       state: "Rio Grande do Norte"
