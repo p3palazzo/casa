@@ -4,8 +4,8 @@ date: 2024-05-02
 created:
   date: 1835-01-01
   qualifier: "c. "
-author: Eduarda Santana
   display_date: "c. 1835"
+author: Eduarda Santana
 coverage:
   spatial:
     location:
