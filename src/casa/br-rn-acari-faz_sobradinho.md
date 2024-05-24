@@ -1,19 +1,18 @@
 ---
-title: "Fazenda Sobradinho, Acari, Rio Grande do Norte"
+title: "Fazenda Sobradinho"
 date: 2024-05-02
 created:
   date: 1835-01-01
   qualifier: "c. "
-  display_date: "c. 1835"
 author: Eduarda Santana
+  display_date: "c. 1835"
 coverage:
   spatial:
     location:
       lat : -6.22585
       long: -36.34021
       name: 
-        text: 
-         Fazenda SSobradinho
+        text: "Fazenda SSobradinho"
         type: "corporate"
       city: "Acari"
       state: "Rio Grande do Norte"
@@ -24,7 +23,7 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0016
+    refid : 16
 ---
 
 Excetuando-se a reforma da cozinha, que teve seu tamanho diminuído, a construção de uma meia-parede dividindo a sala de visitas e de umaoutra, na face lateral esquerda do alpendre, a edificação mantém ainda sua feição original. A cozinha não fazia parte do corpo principal da edificação, situação essa também muito recorrente em outras casas aqui analisadas. Nessas casas, encontra-se, também, outra característica aqui verificada, que é a forma em arco abatido das vergas das portas e janelas.

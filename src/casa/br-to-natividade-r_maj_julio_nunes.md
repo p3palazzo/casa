@@ -1,5 +1,5 @@
 ---
-title: "Casa à rua Major Julio Nunes, Centro Natividade, TO"
+title: "Casa à rua Major Julio Nunes"
 date: 2024-05-02
 created:
   date: 1890-01-01
@@ -12,9 +12,7 @@ coverage:
       lat : -11.709145
       long: -47.725180
       name: 
-        text: 
-            Rua Major Julio Nunes
-        type: "personal"
+        text: "rua Major Julio Nunes"
       city: "Natividade"
       state: "Tocantins"
       country: "BR"
@@ -24,5 +22,5 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0043
+    refid : 43
 ---

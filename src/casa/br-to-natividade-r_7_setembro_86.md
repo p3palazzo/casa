@@ -1,5 +1,5 @@
 ---
-title: "Casa à Rua 07 de Setembro, n° 86, Centro Natividade, TO"
+title: "Casa à Rua Sete de Setembro, 86"
 date: 2024-05-02
 created:
   date: 1890-01-01
@@ -12,9 +12,7 @@ coverage:
       lat : -11.709111
       long: -47.725182
       name: 
-        text: 
-            Rua 07 de Setembro, 86
-        type: "personal"
+        text: "rua Sete de Setembro, 86"
       city: "Natividade"
       state: "Tocantins"
       country: "BR"
@@ -24,5 +22,5 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0041
+    refid : 41
 ---

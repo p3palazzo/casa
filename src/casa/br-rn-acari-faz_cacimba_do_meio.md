@@ -1,5 +1,5 @@
 ---
-title: "Fazenda Cacimba do Meio, Acari, Rio Grande do Norte"
+title: "Fazenda Cacimba do Meio"
 date: 2024-05-02
 created:
   date: 1855-01-01
@@ -12,8 +12,7 @@ coverage:
       lat : -6.368965
       long: -36.569208
       name: 
-        text: 
-         Fazenda Cacimba do Meio
+        text: "Fazenda Cacimba do Meio"
         type: "corporate"
       city: "Acari"
       state: "Rio Grande do Norte"
@@ -24,7 +23,7 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0007
+    refid : 7
 ---
 
 A casa-grande fazenda Cacimba do meio possui nas paredes, sequências de armadores testemunhando que a sala de jantar, além dos quartos, era utilizada como ambiente onde se dormia. Esses armadores eram feitos de mofumbo, madeira muito utilizada para esse fim. A porta principal é feita de cumaru, árvore nativa da região, que, pela fácil obtenção e durabilidade, teve emprego abundante na confecção de esquadrias e móveis em geral. Tem a carracterística de não ser atacada pelo cupim.

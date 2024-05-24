@@ -1,5 +1,5 @@
 ---
-title: "Fazenda Maracujá, Acari, Rio Grande do Norte"
+title: "Fazenda Maracujá"
 date: 2024-05-02
 created:
   date: 1835-01-01
@@ -12,8 +12,7 @@ coverage:
       lat : -6.444080
       long: -36.640751
       name: 
-        text: 
-         Fazenda Maracujá
+        text: "Fazenda Maracujá"
         type: "corporate"
       city: "Acari"
       state: "Rio Grande do Norte"
@@ -24,7 +23,7 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0013
+    refid : 13
 ---
 
 É a única casa-grande de fazenda dentre as aqui estudadas, que primitivamente não dispunha de alpendre, só construído posteriormente. Na fachada posterior da edificação, pode se observar a abertura, feita após sua construção, nota-se que essa parede posterior não é rebocada como outras paredes externas, provavelmente por se encontrar posicionada de maneira que não recebe água da chuva. A disposição da cozinha fora do corpo da casa, constituída por esse volume menor e mais baixo, é uma característica comum, encontrada também em outras edificações aqui analisadas.Na fachada lateral esquerda, pode-se observar, além da cozinha, um quarto, construído posteriormente. 

@@ -1,5 +1,5 @@
 ---
-title: "Três sobrados gêmeos, Barão de Paraitinga, n.26 e 04 e Praça Osvaldo Cruz"
+title: "Três sobrados gêmeos, Barão de Paraitinga, 26 e 4 e Praça Oswaldo Cruz"
 date: 2024-05-02
 created:
   date: 1870-01-01
@@ -12,17 +12,15 @@ coverage:
       lat : -23.222060
       long: -45.310842
       name: 
-        text: 
-            Barão de Paraitinga, n.26 e 04
-        type: "personal"
-      city: "Paraitinga"
+        text: "rua Barão de Paraitinga, 4"
+      city: "São Luiz do Paraitinga"
       state: "São Paulo"
       country: "BR"
-    area: Sobrado 01 - 280. Sobrado 02 - 210. Sobrado 03 - 210
+    area: 210
     unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0030
+    refid : 30
 ---
 
 Os três sobrados geminados, dois deles ainda na Rua Barão de Paraitinga, e o terceiro já fazendo frente para a Praça Osvaldo Cruz, que substituíram velhas casas no início da década de 1870. Neles se verifica de forma resumida o partido aqui descrito, quiçá pelo minguado da frontaria, apresentando.

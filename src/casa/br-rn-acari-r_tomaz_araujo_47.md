@@ -1,5 +1,5 @@
 ---
-title: "Casa à rua Tomaz Araújo, 47, Acarí, Rio Grande do Norte"
+title: "Casa à rua Tomaz Araújo, 47"
 date: 2024-05-02
 created:
   date: 1880-01-01
@@ -12,9 +12,7 @@ coverage:
       lat : -6.442345
       long: -36.638930
       name: 
-        text: 
-           Rua Tomaz Araújo, 47
-        type: "personal"
+        text: "rua Tomaz Araújo, 47"
       city: "Acari"
       state: "Rio Grande do Norte"
       country: "BR"
@@ -24,7 +22,7 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0027
+    refid : 27
 ---
 
 Casa de porta e janela com vergas em arco abatido e dispostas nas extremidades da fachada, denunciando sua antiguidade, também confirmada pelos elementos existentes em seu interior que ainda se mantêm preservados. Tem fachada com platibanda decorada com motivos variados e recortes de desenho em linhas curvas. É provável que a referida platibanda não seja contemporânea à fabrica original da casa, e que tenha sido construída em virtude de prescrições urbanísticas adotadas com frequência, a exemplo de outras cidades, no século XIX.

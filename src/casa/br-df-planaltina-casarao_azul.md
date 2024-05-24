@@ -41,7 +41,7 @@ coverage:
           headline: "Construção"
           text: "Período provável de construção do Casarão azul"
         media:
-          url: https://placehold.co/600x400
+          href: https://placehold.co/600x400
           caption: "Legenda"
           credit: "ArPDF"
           alt: "Foto em preto-e-branco de um casario com um jatobá no primeiro plano"
@@ -56,9 +56,9 @@ coverage:
           year: "2009"
 identifier: # Código IPHAN ou DGPC, por exemplo
   - source: "Inventário do Setor Tradicional de Planaltina"
-    id    : 563
+    refid : 563
   - source: "Documentário de casas tradicionais"
-    id    : 0051
+    refid : 51
 type: # Classificações
 dwg: # Documentação arquitetônica produzida neste projeto
 docs: # Fontes primárias e levantamentos de terceiros

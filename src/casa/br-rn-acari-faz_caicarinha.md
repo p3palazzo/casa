@@ -1,5 +1,5 @@
 ---
-title: "Fazenda Caiçarinha, Acari, Rio Grande do Norte"
+title: "Fazenda Caiçarinha"
 date: 2024-05-02
 created:
   date: 1852-01-01
@@ -12,8 +12,7 @@ coverage:
       lat : -6.435054
       long: -36.640890
       name: 
-        text: 
-         Fazenda Caiçarinha
+        text: "Fazenda Caiçarinha"
         type: "corporate"
       city: "Acari"
       state: "Rio Grande do Norte"
@@ -24,7 +23,7 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0008
+    refid : 8
 ---
 
 É uma das casas mais tradicionais Acari, já que pertenceu ao Coronel Silvino, influente líder político de Acari. Sofreu algumas modificações, como uma construção anexa, que ser ve de residência do “morador”, “puxadas” em sua fachada posterior, pilares e mureta no alpendre, além de um contraforte construído para dar maior estabilidade à parede da fachada lateral direita. Sua caixa mural, bem como seus ambientes, se mantêm fiéis à fábrica original. O espaço concebido para a sala de jantar é de uma riqueza singular e muito agradável, valorizado por ter pé direito duplo. É o ambiente de maior conectividade dentre os ambientes da edificação, pois, a partir dele, se tem acesso direto a seis outros compartimentos da casa. 

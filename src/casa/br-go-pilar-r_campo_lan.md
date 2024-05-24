@@ -1,5 +1,5 @@
 ---
-title: "Casa à rua Rua Campo de lã, Pilar de Goiás, GO"
+title: "Casa à rua Rua Campo de lã"
 date: 2024-05-02
 created:
   date: 1890-01-01
@@ -14,7 +14,6 @@ coverage:
       name:
         text: |
           Rua Campo de lã
-        type: "personal"
       city: "Pilar de Goiás"
       state: "Goiás"
       country: "BR"
@@ -24,5 +23,5 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0046
+    refid : 46
 ---

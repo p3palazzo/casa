@@ -1,5 +1,5 @@
 ---
-title: "Casa nº 76, localizada na Travessa Luiz Nery em Laguna/Santa Catarina"
+title: "Casa à travessa Luiz Nery, 76"
 date: 2024-05-02
 created:
   date: 1845-01-01
@@ -12,9 +12,7 @@ coverage:
       lat : -28.484150
       long: -48.779905
       name: 
-        text: 
-           Travessa Luiz Nery, 76
-        type: "personal"
+        text: "travessa Luiz Nery, 76"
       city: "Laguna"
       state: "Santa Catarina"
       country: "BR"
@@ -24,7 +22,7 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0004
+    refid : 4
 ---
 
 Imóvel está inserido na poligonal de tombamento do Centro Histórico de Laguna. Tombado pelo Iphan desde 1985 por seu valor Histórico e paisagístico (Processo Nº 1122-T—8).

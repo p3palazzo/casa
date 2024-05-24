@@ -1,5 +1,5 @@
 ---
-title: "Casa à rua São Francisco, 32, Salvador, BA"
+title: "Casa à rua São Francisco, 32"
 created:
   date: 1759-01-01
   qualifier: "c. "
@@ -12,18 +12,19 @@ coverage:
       long: -38.494701
       name:
         text: |
-          rua São Francisco 32
-        type: "personal"
+          rua São Francisco, 32
       city: "Salvador"
       state: "Bahia"
       country: "BR"
+      locationHistoric:
+        - "Travessa do Ximenes"
     extent:
       - type: "area"
         measurements: 329
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0050
+    refid : 50
 ---
 
 A casa situa-se próxima ao Centro Histórico e foi construída sobre um dos baluartes da primeira cinta defensiva da cidade. Tem, em consequência, uma posição dominante sobre a Baixa dos Sapateiros e segunda linha de colinas de Salvador. Em 1759 a casa pertencia à Cia. de Jesus e, com a expulsão de membros da ordem, foi levada a leilão e arrematada pelo Capitão de Cavalaria e armador, Antônio Elias da Fonseca Galvão. 

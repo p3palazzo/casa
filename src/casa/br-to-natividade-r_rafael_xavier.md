@@ -1,5 +1,5 @@
 ---
-title: "Casa à rua Rafael Xavier, sem número, Centro, Natividade, TO"
+title: "Casa à rua Rafael Xavier, sem número"
 date: 2024-05-02
 created:
   date: 1890-01-01
@@ -12,9 +12,7 @@ coverage:
       lat : -11.709110
       long: -47.725175
       name: 
-        text: 
-            Rua Rafael Xavier
-        type: "personal"
+        text: "rua Rafael Xavier, s/n"
       city: "Natividade"
       state: "Tocantins"
       country: "BR"
@@ -24,5 +22,5 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0042
+    refid : 42
 ---

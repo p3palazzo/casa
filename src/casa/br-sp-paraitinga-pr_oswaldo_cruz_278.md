@@ -12,10 +12,8 @@ coverage:
       lat : -23.221705
       long: -45.310726
       name: 
-        text: 
-            Rua Oswaldo Cruz, 278
-        type: "personal"
-      city: "Paraitinga"
+        text: "rua Oswaldo Cruz, 278"
+      city: "São Luiz do Paraitinga"
       state: "São Paulo"
       country: "BR"
     extent:
@@ -24,5 +22,5 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0035
+    refid : 35
 ---

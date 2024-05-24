@@ -23,7 +23,7 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0006
+    refid : 6
 ---
 
 A casa-grande da fazenda Boa Vista teve sua conclusão em 1857, segundo inscrição existente na parede da fachada lateral esquerda. Ao longo de sua existência sofreu modificações que são facilmente identificáveis através dos vestígios deixados. A mais recente sequer foi concluída. Trata-se de um acréscimo, contíguo à fachada lateral esquerda. Os atuais pilares do alpendre, em alvenaria, substituem os originais, que eram confeccionados em madeira.

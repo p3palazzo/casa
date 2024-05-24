@@ -1,5 +1,5 @@
 ---
-title: "Fazenda Saco dos Pereira, Acari, Rio Grande do Norte"
+title: "Fazenda Saco dos Pereira"
 date: 2024-05-02
 created:
   date: 1850-01-01
@@ -12,8 +12,7 @@ coverage:
       lat : -6.420274
       long: -36.613573
       name: 
-        text: 
-         Fazenda Saco dos Pereira
+        text: "Fazenda Saco dos Pereira"
         type: "corporate"
       city: "Acari"
       state: "Rio Grande do Norte"
@@ -24,7 +23,7 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0015
+    refid : 15
 ---
 
 É uma das mais tradicionais casas de fazenda de Acari. Algumas modificações e acréscimos, que nela foram incorporados, são facilmente detectados. Uma delas foi substituição do alpendre com pilares de madeira por outro, mais profundo, com pilares em alvenaria de tijolos. Outras modificações detectadas são relativas à construção de anexos, contíguos à fachada lateral esquerda, colocação de uma parede dividindo a sala de jantar, criando um quarto e tomando a sala de jantar menor; transferência da porta do primeiro quarto que dava acesso à sala de visita para outra parede, dando acesso ao corredor; abertura e fechamento de portas; assim como a construção de um alpendre na face posterior da edificação, utilizando os pilares de madeira e demais materiais em condições de reaproveitamento, retirados do alpendre frontal original. 

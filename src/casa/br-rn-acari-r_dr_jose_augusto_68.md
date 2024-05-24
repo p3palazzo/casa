@@ -1,5 +1,5 @@
 ---
-title: "Casa à rua Dr. José Augusto, 68, Acarí, Rio Grande do Norte"
+title: "Casa à rua Dr. José Augusto, 68"
 date: 2024-05-02
 created:
   date: 1835-01-01
@@ -12,9 +12,7 @@ coverage:
       lat : -6.438285
       long: -36.638584
       name: 
-        text: 
-         Rua Dr. José Augusto, 68
-        type: "personal"
+        text: "rua Dr. José Augusto, 68"
       city: "Acari"
       state: "Rio Grande do Norte"
       country: "BR"
@@ -24,7 +22,7 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0022
+    refid : 22
 ---
 
 Caso típico de uma residência urbana do século XIX, implantada no alinhamento da via pública, contando, na fachada, com uma porta e duas janelas em arco abatido e cercaduras de massa. Apresenta ainda uma platibanda elaborada, com cornijas, frisos e ornatos em massa. Lamentavelmente, no momento em que se processava esta pesquisa, a casa estava sendo modificada, ou praticamente sendo demolida, já que foi retirada toda sua cobertura, para ser refeita com alturas e inclinações diferentes. Sua platibanda foi completamente demolida, e provavelmente sua fachada receberá portas de ferro do tipo de enrolar, destruindo a porta e janelas ora existentes. Paredes internas serão demolidas para dar lugar a um grande ambiente de uso comercial.

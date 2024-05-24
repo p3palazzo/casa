@@ -1,5 +1,5 @@
 ---
-title: "Casas n. 187, 193, 199 da Rua do Carvalho, Paraitinga, São Paulo"
+title: "Casas à rua do Carvalho 187, 193, 199"
 date: 2024-05-02
 created:
   date: 1840-01-01
@@ -12,17 +12,15 @@ coverage:
       lat : -23.221091
       long: -45.309668
       name: 
-        text: 
-            Rua do Carvalho
-        type: "personal"
-      city: "Paraitinga"
+        text: "rua do Carvalho, 187"
+      city: "São Luiz do Paraitinga"
       state: "São Paulo"
       country: "BR"
     area: 50 
     unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0036
+    refid : 36
 ---
 
 As construções eram geminadas constituindo um conjunto uniforme e adaptado à topografia, coberto por telha cerâmica tipo capa-canal, com duas águas, cumeeira paralela ao alinhamento e beiral aparente. Nestas casas, também identificadas como populares, “a pobreza e a pouquidão de compartimentos não impõem uma complexidade maior na organização do espaço, tudo se resume, na prática, a duas salas do extremo anterior e posterior e mais um compartimento intermediário, cego, ventilado pela telha-vã”. 

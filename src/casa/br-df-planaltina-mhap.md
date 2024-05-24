@@ -17,9 +17,9 @@ coverage:
       country: "BR"
 identifier:
   - source: "Inventário do Setor Tradicional de Planaltina"
-    id    : 
+    refid : 
   - source: "Documentário de casas tradicionais"
-    id    : 0052
+    refid : 52
 ---
 
 <blockquote>
@@ -57,7 +57,7 @@ Histórico e Artístico de Planaltina". As providências foram tomadas a
 partir do processo 321.013/73 que criou o decreto de 09 de Novembro 1973
 declarando a utilidade Pública e de Interesse Social do bem.
 
-  <footer class="figure-caption col-md-8 offset-md-4">Texto reproduzido
+  <footer class="figure-caption">Texto reproduzido
   do <cite>Inventário do Setor Tradicional de Planaltina</cite>, IPHAN
   2012, redigido por Renata Braga Neves e Caroline Albergaria.</footer>
 </blockquote>

@@ -82,11 +82,19 @@ bibliographiCitation: # Fonte de autoridade para informações básicas sobre a 
 identifier:     # Cadastros em inventários, tombamento, etc.
   - source: ""  # Instituição.
     refid : ""  # Número de processo, cadastro ou publicação.
-########################################################################
-# Endereçamento e coordenadas para uso do mapa no plugin Leaflet.js    #
-########################################################################
+created:            # Data de criação da obra, não confundir com o campo `date` acima.
+  date            : # Obrigatório, no formato ISO (AAAA-MM-DD). Os demais campos são opcionais
+  qualifier       : "" # Ressalvas à data precisa, tais como 'c.', 'após', 'provavelmente', etc.
+  display_date    : # Representação textual complexa, caso necessário.
+  source:           # Fonte de autoridade para a data indicada.
+    citekey       : "" # Seguir as instruções do campo `bibliographicCitation` acima.
+    href          : ""
+    text          : ""
 coverage:
   spatial:    
+    ###################################################################
+    # Endereçamento e coordenadas para o mapa no plugin Leaflet.js    #
+    ###################################################################
     location:
       type            : "site" # site, formerSite, intended, other
       lat             :    # Em graus decimais, negativos para o Sul e Oeste.
@@ -94,7 +102,7 @@ coverage:
       alt             :    # Em metros acima do nível do mar.
       zoom            : "15" # Zoom padrão do mapa gerado pelo plugin Leaflet.js
       name:                # O campo `name` pode ser qualquer localidade nomeável, não precisa ser um endereço postal.
-        type          : "" # corporate, geographic, personal, other
+        type          : "personal" # corporate, geographic, personal (padrão), other
         text          : "" # Pode ter mais de uma linha.
       city            : "" # Cidade, estado e país devem usar os nomes atuais das localidades.
       state           : "" # Nome do estado por extenso!
@@ -102,14 +110,6 @@ coverage:
       locationHistoric:    # Escopos geográficos antigos
         - ""               # Se tiver mais de um item, representar em forma de lista.
   temporal:
-    created:            # Data de criação da obra, não confundir com o campo `date` acima.
-      date            : # Obrigatório, no formato ISO (AAAA-MM-DD). Os demais campos são opcionais
-      qualifier       : "" # Ressalvas à data precisa, tais como 'c.', 'após', 'provavelmente', etc.
-      display_date    : # Representação textual complexa, caso necessário.
-      source:           # Fonte de autoridade para a data indicada.
-        citekey       : "" # Seguir as instruções do campo `bibliographicCitation` acima.
-        href          : ""
-        text          : ""
     ####################################################################
     # Linha do tempo. Instruções de formatação:                        #
     # https://timeline.knightlab.com/docs/json-format.html             #

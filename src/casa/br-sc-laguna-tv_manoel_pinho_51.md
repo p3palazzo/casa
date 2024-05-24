@@ -1,5 +1,5 @@
 ---
-title: "Casa nº 51, localizada na Travessa Manoel Pinho em Laguna/Santa Catarina"
+title: "Casa à Travessa Manoel Pinho, 51"
 date: 2024-05-02
 created:
   date: 1845-01-01
@@ -12,9 +12,7 @@ coverage:
       lat : -28.484654
       long: -48.7815707
       name: 
-        text: 
-           Travessa Manoel Pinho, 51
-        type: "personal"
+        text: "travessa Manoel Pinho, 51"
       city: "Laguna"
       state: "Santa Catarina"
       country: "BR"
@@ -24,7 +22,7 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0003
+    refid : 3
 ---
 
 Imóvel está inserido na poligonal de tombamento do Centro Histórico de Laguna, tombado pelo Iphan desde 1985 por seu valor histórico e paisagístico 

@@ -1,5 +1,5 @@
 ---
-title: "Casa à rua Tomaz Araújo, 169, Acarí, Rio Grande do Norte"
+title: "Casa à rua Tomaz Araújo, 169"
 date: 2024-05-02
 created:
   date: 1810-01-01
@@ -12,9 +12,7 @@ coverage:
       lat : -6.438698
       long: -36.640658
       name: 
-        text: 
-           Rua Tomaz Araújo, 169
-        type: "personal"
+        text: "rua Tomaz Araújo, 169"
       city: "Acari"
       state: "Rio Grande do Norte"
       country: "BR"
@@ -24,7 +22,7 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0024
+    refid : 24
 ---
 
 Essa é provavelmente uma das mais antigas dentre as casas analisadas nessa pesquisa. Há referências históricas de que, no trecho onde a mesma se existiam casas que teriam pertencido ao então presidente da província, Sr.Tomaz Araujo Pereira, casa que contava com alpendre na frente, decorrendo, daí, a denominação de rua dos alpendres, atualmente rua Tomaz Araújo. Esta pode ser uma delas. Pode-se confirmar sua antiguidade pela modesta altura e avantajada espessura da parede de sua fachada principal. É também peculiar a uma construção pretérita a composição de sua fachada, com uma porta e uma janela de vergas niveladas, dispostas nas extremidades da mesma.

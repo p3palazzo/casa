@@ -12,10 +12,8 @@ coverage:
       lat : -23.2219089
       long: -45.3114217
       name: 
-        text: 
-            Rua Oswaldo Cruz, 3
-        type: "personal"
-      city: "Paraitinga"
+        text: "rua Oswaldo Cruz, 3"
+      city: "São Luiz do Paraitinga"
       state: "São Paulo"
       country: "BR"
     extent:
@@ -24,7 +22,7 @@ coverage:
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0033
+    refid : 33
 ---
 
 O edifício, localizado na praça em meio a outros sobrados, faz parte do conjunto arquitetônico mais significativo do núcleo histórico urbano. Em sua construção foram seguidas as normas estabelecidas pelas posturas de 1834 e 1854. O sobrado, em taipa de pilão e pau-a-pique sobre embasamento de pedra, possui piso e forro em tabuado e um belíssimo armário embutido, em madeira e vidro. 
