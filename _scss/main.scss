@@ -205,7 +205,7 @@ $pagination-active-bg: $primary;
 // @import "bootstrap/scss/badge";
 // @import "bootstrap/scss/alert";
 // @import "bootstrap/scss/progress";
-// @import "bootstrap/scss/list-group";
+@import "bootstrap/scss/list-group";
 @import "bootstrap/scss/close";
 // @import "bootstrap/scss/toasts";
 // @import "bootstrap/scss/modal"; // Requires transitions
@@ -474,6 +474,19 @@ small {
 .card-header,
 .page-footer {
   @extend .fw-medium;
+}
+
+.btn-outline-primary {
+  @media (prefers-color-scheme: dark) {
+    border-color: $blue-400;
+    color: $blue-400;
+  }
+}
+
+.btn-primary {
+  @media (prefers-color-scheme: dark) {
+    .background-color: $blue-400;
+  }
 }
 
 .page-footer {
