@@ -136,7 +136,7 @@ $color-mode-type: media-query;
 
 // Customize some defaults
 $body-color:          #111118;
-$body-bg:             #fffffc;
+$body-bg:             #fffff8;
 $border-radius:       .4rem;
 //$primary:             #282f6a;
 $primary:             $blue-800;
@@ -406,6 +406,7 @@ small {
 #hero {
   @extend .text-center;
   @extend .mb-5;
+  @extend .border-bottom;
   min-height: 50vh;
   background-size: cover;
   background-position: center;
@@ -420,7 +421,7 @@ small {
     color: $body-emphasis-color;
     text-shadow: 1px 1px 2px rgba($body-bg, 70%);
     @media (prefers-color-scheme: dark) {
-      color: $body-bg;
+      color: var(--bs-body-color);
       text-shadow: 1px 1px 2px rgba($body-bg-dark, 70%);
     }
   }
@@ -441,16 +442,34 @@ small {
   ul.nav {
     @extend .col-12;
     @extend .col-lg-auto;
-    @extend .me-lg-auto;
+    @extend .mx-lg-3;
+    @extend .justify-content-end;
+    @extend .fs-5;
+    li {
+      @extend .mx-auto;
+      @extend .mx-lg-0;
+      @include media-breakpoint-down(sm) {
+        width: 100%;
+        border-bottom: 0.5px dotted $secondary;
+      }
+    }
     a {
       @extend .link-secondary;
+      @include media-breakpoint-down(sm) {
+        padding-left: 0;
+      }
+    }
+    @include media-breakpoint-down(md) {
+      border-top: 1px solid $secondary;
+      border-bottom: 1px solid $secondary;
+      border-collapse: collapse;
     }
   }
   ul.nav,
   .site-title {
     @extend .d-flex;
     @extend .align-items-center;
-    @extend .mb-2;
+    @extend .mb-3;
     @extend .mb-lg-1;
     @extend .me-2;
   }
