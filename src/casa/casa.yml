@@ -113,7 +113,7 @@ coverage:
       state           : "" # Nome do estado por extenso!
       country         : "BR" # Código ISO.
       locationHistoric:    # Escopos geográficos antigos
-        - ""               # Se tiver mais de um item, representar em forma de lista.
+#       - ""               # Se tiver mais de um item, representar em forma de lista.
   temporal:
     ####################################################################
     # Linha do tempo. Instruções de formatação:                        #
@@ -122,29 +122,29 @@ coverage:
     # em geral.                                                        #
     ####################################################################
     events:                # Esta linha é só o cabeçalho da linha do tempo.
-      - text:              # Cada evento tem texto, mídia e data(s).
-          headline    : "" # O texto pode ser dividido em cabeçalho e conteúdo.
-          text        : ""
-        type          : "" # Tipos de datas permitidos conforme https://www.loc.gov/standards/vracore/schemas.html
-                           # alteration, broadcast, bulk, commission, creation, design,
-                           # destruction, discovery, exhibition, inclusive, performance,
-                           # publication, restoration, view, other
-                           # (o tipo de data não é usado pela linha do tempo)
-        start_date:        # Apenas a start_date é obrigatória... (VRA Core: earliestDate)
-          year        : "" # ...e dentro dela, apenas o ano é necessário.
-          month       : ""
-          day         : ""
-          display_date: "" # Para datas complexas, escrever por extenso aqui.
-        end_date:          # Opcional, mesmo formato de start_date (VRA Core latestDate)
-        media:             # Uma mídia por evento:
-          href        : "" # pode ser uma prévia da Wikipédia, imagem ou vídeo.
-          caption     : "" # Legenda.
-          credit      : "" # Créditos, se houver.
-          alt         : "" # Descrição sucinta da mídia para acessibilidade.
-        source:            # Fonte de autoridade para a data.
-          text        : ""
-          href        : ""
-          dataDate    : "" # Data em que a informação foi incluída.
+#     - text:              # Cada evento tem texto, mídia e data(s).
+#         headline    : "" # O texto pode ser dividido em cabeçalho e conteúdo.
+#         text        : ""
+#       type          : "" # Tipos de datas permitidos conforme https://www.loc.gov/standards/vracore/schemas.html
+#                          # alteration, broadcast, bulk, commission, creation, design,
+#                          # destruction, discovery, exhibition, inclusive, performance,
+#                          # publication, restoration, view, other
+#                          # (o tipo de data não é usado pela linha do tempo)
+#       start_date:        # Apenas a start_date é obrigatória... (VRA Core: earliestDate)
+#         year        : "" # ...e dentro dela, apenas o ano é necessário.
+#         month       : ""
+#         day         : ""
+#         display_date: "" # Para datas complexas, escrever por extenso aqui.
+#       end_date:          # Opcional, mesmo formato de start_date (VRA Core latestDate)
+#       media:             # Uma mídia por evento:
+#         href        : "" # pode ser uma prévia da Wikipédia, imagem ou vídeo.
+#         caption     : "" # Legenda.
+#         credit      : "" # Créditos, se houver.
+#         alt         : "" # Descrição sucinta da mídia para acessibilidade.
+#       source:            # Fonte de autoridade para a data.
+#         text        : ""
+#         href        : ""
+#         dataDate    : "" # Data em que a informação foi incluída.
   stylePeriod:  # https://www.loc.gov/standards/vracore/schemas.html
     - text            : "" # Usar vocabulário controlado se possível
       vocab           : "" # Caso use vocabulário controlado, preencher os...
