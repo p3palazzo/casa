@@ -2,7 +2,7 @@
 title : "Casarão Azul"
 date  : 2024-02-05 # Data do preenchimento da ficha
 author: Pedro Palazzo # Quem preencheu a ficha
-description: >- # Descrição sucinta para aparecer em listagens
+excerpt: >- # Descrição sucinta para aparecer em listagens
   Casa de morada inteira em adobe com fachada neoclássica em
   tijolo cozido. Construída em 1926 e descaracterizada em 2009.
 header:

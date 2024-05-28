@@ -29,7 +29,7 @@ coverage:
 creator: # Nome do fotógrafo ou artista quando conhecido, senão apagar
          # este item.
 created: 1995-09-01 # Omitir o mês e o dia se forem desconhecidos.
-description: > # Este campo será usado como a legenda da figura
+excerpt: > # Este campo será usado como a legenda da figura
   Casarão Azul à av. Salvador Coelho, Planaltina, 1921–26. Foto:
   autor desconhecido vinculado à equipe técnica do Departamento do
   Patrimônio Histórico e Artístico. Atualmente no arquivo da
