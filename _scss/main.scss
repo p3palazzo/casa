@@ -61,32 +61,32 @@ $pagination-active-bg: $primary;
 
 @font-face {
     font-family: 'Weiss Std'; // Weiss Std normal italic {{{2
-    src: url('/assets/fonts/weissstd-italic-webfont.woff2') format('woff2'),
-         url('/assets/fonts/weissstd-italic-webfont.woff') format('woff');
+    src: url('https://tradicional.arq.br/assets/fonts/weissstd-italic-webfont.woff2') format('woff2'),
+         url('https://tradicional.arq.br/assets/fonts/weissstd-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Weiss Std'; // Weiss Std bold {{{2
-    src: url('/assets/fonts/weissstd-bold-webfont.woff2') format('woff2'),
-         url('/assets/fonts/weissstd-bold-webfont.woff') format('woff');
+    src: url('https://tradicional.arq.br/assets/fonts/weissstd-bold-webfont.woff2') format('woff2'),
+         url('https://tradicional.arq.br/assets/fonts/weissstd-bold-webfont.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Weiss Std'; // Weiss Std extra bold {{{2
-    src: url('/assets/fonts/weissstd-extrabold-webfont.woff2') format('woff2'),
-         url('/assets/fonts/weissstd-extrabold-webfont.woff') format('woff');
+    src: url('https://tradicional.arq.br/assets/fonts/weissstd-extrabold-webfont.woff2') format('woff2'),
+         url('https://tradicional.arq.br/assets/fonts/weissstd-extrabold-webfont.woff') format('woff');
     font-weight: bolder;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Weiss Std'; // Weiss Std regular {{{2
-    src: url('/assets/fonts/weissstd-webfont.woff2') format('woff2'),
-         url('/assets/fonts/weissstd-webfont.woff') format('woff');
+    src: url('https://tradicional.arq.br/assets/fonts/weissstd-webfont.woff2') format('woff2'),
+         url('https://tradicional.arq.br/assets/fonts/weissstd-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -535,6 +535,10 @@ ul.nav {
   @media (prefers-color-scheme: dark) {
     .background-color: $blue-400;
   }
+}
+
+.ratio img {
+  @extend .object-fit-cover;
 }
 
 // Footer {{{3
