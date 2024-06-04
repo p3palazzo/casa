@@ -99,10 +99,5 @@ log:
 > profundas na cobertura, no interior e na fachada da edificação, tendo
 > sua obra embargada por não haver projeto aprovado junto à Administração
 > Regional. O casarão encontra-se atualmente desabitado e com a reforma
-> aparentemente inconclusa.
->
-> <footer class="figure-caption">Texto reproduzido
-> do <cite>Inventário do Setor Tradicional de Planaltina</cite>, IPHAN
-> 2012, redigido por Renata Braga Neves, Pedro P. Palazzo e Caroline
-> Albergaria</footer>
+> aparentemente inconclusa. [@iphan:2012inventario]
 
