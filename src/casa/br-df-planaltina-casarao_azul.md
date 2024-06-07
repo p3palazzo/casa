@@ -16,7 +16,7 @@ alternative: # Outros nomes ou designações antigas
 categories:
   - Neoclassicismo
 bibliographicCitation:
-  citekey: "iphan:2012inventario"
+  citekey: "@iphan:2012inventario"
 contributor: # Agentes envolvidos
   - name: "Hosannah Pinheiro Guimarães"
     role: "antigo proprietário"
@@ -37,7 +37,8 @@ coverage:
         - "Goiás"
   temporal:
     events:
-      - text:
+      - type: "creation"
+        text:
           headline: "Construção"
           text: "Período provável de construção do Casarão azul"
         media:
@@ -50,7 +51,8 @@ coverage:
         end_date:
           year: "1926"
         display_date: "c. 1921–26"
-      - text:
+      - type: "other"
+        text:
           headline: "Venda da casa"
         start_date:
           year: "2009"
@@ -99,10 +101,5 @@ log:
 > profundas na cobertura, no interior e na fachada da edificação, tendo
 > sua obra embargada por não haver projeto aprovado junto à Administração
 > Regional. O casarão encontra-se atualmente desabitado e com a reforma
-> aparentemente inconclusa.
->
-> <footer class="figure-caption">Texto reproduzido
-> do <cite>Inventário do Setor Tradicional de Planaltina</cite>, IPHAN
-> 2012, redigido por Renata Braga Neves, Pedro P. Palazzo e Caroline
-> Albergaria</footer>
+> aparentemente inconclusa. [@iphan:2012inventario]
 
