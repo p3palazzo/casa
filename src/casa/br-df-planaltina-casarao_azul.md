@@ -16,7 +16,7 @@ alternative: # Outros nomes ou designações antigas
 categories:
   - Neoclassicismo
 bibliographicCitation:
-  citekey: "iphan:2012inventario"
+  citekey: "@iphan:2012inventario"
 contributor: # Agentes envolvidos
   - name: "Hosannah Pinheiro Guimarães"
     role: "antigo proprietário"
@@ -37,7 +37,8 @@ coverage:
         - "Goiás"
   temporal:
     events:
-      - text:
+      - type: "creation"
+        text:
           headline: "Construção"
           text: "Período provável de construção do Casarão azul"
         media:
@@ -50,7 +51,8 @@ coverage:
         end_date:
           year: "1926"
         display_date: "c. 1921–26"
-      - text:
+      - type: "other"
+        text:
           headline: "Venda da casa"
         start_date:
           year: "2009"
