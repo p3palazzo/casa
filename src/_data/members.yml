@@ -33,7 +33,7 @@ Pedro Palazzo:
       icon: "bi bi-github"
       url: "https://github.com/p3palazzo"
 
-Eduarda Viana:
+Eduarda Santana:
   name      : "Eduarda de Sousa Viana de Santana"
   givenName : "Eduarda de Sousa"
   familyName: "Viana de Santana"
@@ -49,4 +49,17 @@ Eduarda Toscano:
   avatar    : "https://estrategias-construcao.tradicional.arq.br/assets/media/avatar-eduarda-toscano.jpg"
   lattes    : "http://lattes.cnpq.br/7412720893793734"
   orcid     : "https://orcid.org/0009-0001-1800-4830"
+
+Constanza Manzochi:
+  name    : "Constanza Ceschin Manzochi"
+  bio     : "Mestrado 2024–2025"
+  avatar  : "/assets/media/avatar-constanza-manzochi.jpg"
+  location: "Universidade de Brasília"
+  email   : "constanza.manzochi@aluno.unb.br"
+  orcid: "https://orcid.org/0009-0007-0073-6658"
+  lattes: "http://lattes.cnpq.br/5835823170035695"
+  links:
+  - label: "Instagram"
+    icon : "bi bi-instagram"
+    url  : "https://instagram.com/cons_marceneira"
 
