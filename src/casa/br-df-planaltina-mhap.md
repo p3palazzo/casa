@@ -6,6 +6,8 @@ excerpt: >
   Casa de morada com frente comercial construída em 1899 e convertida
   em casa–museu histórica em 1974.
 teaser: "https://placehold.co/600x400"
+bibliographicCitation:
+  citekey: "@iphan:2012planaltina"
 coverage:
   spatial:
     location:
@@ -22,7 +24,8 @@ identifier:
     refid : 52
 ---
 
-<blockquote>
+<figure>
+<blockquote class="blockquote">
 
 O imóvel, antigamente uma residência, foi construído por Afonso Coelho
 Silva Campos e vendida ao Coronel Salviano Monteiro Guimarães, primeiro
@@ -61,4 +64,4 @@ declarando a utilidade Pública e de Interesse Social do bem.
   do <cite>Inventário do Setor Tradicional de Planaltina</cite>, IPHAN
   2012, redigido por Renata Braga Neves e Caroline Albergaria.</footer>
 </blockquote>
-
+</figure>
