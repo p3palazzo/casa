@@ -417,7 +417,7 @@ h3.card-title,
 }
 
 .card-text {
-  font-family: $font-family-unb;
+  @extend .fw-medium;
   @extend .text-secondary;
 }
 
