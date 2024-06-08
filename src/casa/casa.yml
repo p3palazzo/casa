@@ -34,24 +34,24 @@ excerpt: >- # Descrição sucinta para aparecer em listagens. Começar
 # Os agentes listados nos campos abaixo podem ser pessoas, grupos de   #
 # pessoas tratados coletivamente, ou instituições.                     #
 ########################################################################
-creator:            # Quem criou a própria obra, não confundir com o campo `author` acima e nem com o autor de representações iconográficas (por exemplo, autor de um levantamento do exitente).
-  - name          : ""
-    type          : "" # personal, corporate, family, other
-    attribution   : "" # atribuição, escola de, baseado em, cópia de, etc.
-    vocab         : "" # Caso seja usado um vocabulário controlado para padronizar...
-    refid         : "" # ...nomes de agentes, preencher as linhas `vocab` e `refid`.
-    href          : "" # Em vez de vocabulário controlado, pode-se usar um link para
-                    # identificar o agente. Caso o agente não possua site
-                    # institucional próprio, verificar se há um registro de
-                    # autoridade no Wikidata ou no vocabulário Getty.
-contributor:        # Lista de outros envolvidos no ciclo de vida da obra.
-  - name          : "" # Seguir as mesmas instruções que o campo `creator`.
-    type          : ""
-    role          : "" # Usar mesmos tipos que as datas?
-    attribution   : ""
-    vocab         : ""
-    refid         : ""
-    href          : ""
+#creator:            # Quem criou a própria obra, não confundir com o campo `author` acima e nem com o autor de representações iconográficas (por exemplo, autor de um levantamento do exitente).
+#  - name          : ""
+#    type          : "" # personal, corporate, family, other
+#    attribution   : "" # atribuição, escola de, baseado em, cópia de, etc.
+#    vocab         : "" # Caso seja usado um vocabulário controlado para padronizar...
+#    refid         : "" # ...nomes de agentes, preencher as linhas `vocab` e `refid`.
+#    href          : "" # Em vez de vocabulário controlado, pode-se usar um link para
+#                    # identificar o agente. Caso o agente não possua site
+#                    # institucional próprio, verificar se há um registro de
+#                    # autoridade no Wikidata ou no vocabulário Getty.
+#contributor:        # Lista de outros envolvidos no ciclo de vida da obra.
+#  - name          : "" # Seguir as mesmas instruções que o campo `creator`.
+#    type          : ""
+#    role          : "" # Usar mesmos tipos que as datas?
+#    attribution   : ""
+#    vocab         : ""
+#    refid         : ""
+#    href          : ""
 type:
   name            : "physicalObject" # https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/
   worktype: # Classe de objetos à qual a obra pertence
@@ -59,25 +59,25 @@ type:
       vocab       : "TAM"
       refid       : "04.2"
 format:
-  extent: # https://www.loc.gov/standards/vracore/schemas.html
-    - type        : "area" # area, base, circumference, count, depth, diameter, distanceBetween, height, length, width, other
-      measurements: # apenas o valor numérico, se necessário com ponto decimal
-      unit        : "m²"
-  medium: # Usar vocabulários controlados sempre que possível.
-    material:
-      - type      : "" # medium (default), support, other
-        text      : "" # Usar vocabulário controlado se possível
-        vocab     : "" # Caso use vocabulário controlado, preencher os...
-        refid     : "" # ...campos `vocab` e `refid`.
-    technique: # Processos, técnicas e métodos de produção ou restauro
-      - text      : "" # Usar vocabulário controlado se possível
-        vocab     : "" # Caso use vocabulário controlado, preencher os...
-        refid     : "" # ...campos `vocab` e `refid`.
-  inscription:
-    - author  : ""
-      position: ""
-      text    : ""
-      type    : "" # signature, mark, caption, date, text, translation, other (default)
+#  extent: # https://www.loc.gov/standards/vracore/schemas.html
+#    - type        : "area" # area, base, circumference, count, depth, diameter, distanceBetween, height, length, width, other
+#      measurements: # apenas o valor numérico, se necessário com ponto decimal
+#      unit        : "m²"
+#  medium: # Usar vocabulários controlados sempre que possível.
+#    material:
+#      - type      : "" # medium (default), support, other
+#        text      : "" # Usar vocabulário controlado se possível
+#        vocab     : "" # Caso use vocabulário controlado, preencher os...
+#        refid     : "" # ...campos `vocab` e `refid`.
+#    technique: # Processos, técnicas e métodos de produção ou restauro
+#      - text      : "" # Usar vocabulário controlado se possível
+#        vocab     : "" # Caso use vocabulário controlado, preencher os...
+#        refid     : "" # ...campos `vocab` e `refid`.
+#  inscription:
+#    - author  : ""
+#      position: ""
+#      text    : ""
+#      type    : "" # signature, mark, caption, date, text, translation, other (default)
 bibliographiCitation: # Fonte de autoridade para informações básicas sobre a obra. Não exclui a citação a outras fontes no texto da ficha.
   citekey : ""  # No formato iphan:2012inventario, conforme cadastrado no Zotero/Better BibLaTeX.
   href    : ""  # Conforme o caso, ambos os campos citekey e href podem ser preenchidos, ou apenas um deles.
@@ -102,26 +102,26 @@ coverage:
     ###################################################################
     location:
       type            : "site" # site, formerSite, intended, other
-      lat             :    # Em graus decimais, negativos para o Sul e Oeste.
-      long            :    # Separar os decimais com ponto em vez de vírgula.
-      alt             :    # Em metros acima do nível do mar.
+#      lat             :    # Em graus decimais, negativos para o Sul e Oeste.
+#      long            :    # Separar os decimais com ponto em vez de vírgula.
+#      alt             :    # Em metros acima do nível do mar.
       zoom            : "15" # Zoom padrão do mapa gerado pelo plugin Leaflet.js
       name:                # O campo `name` pode ser qualquer localidade nomeável, não precisa ser um endereço postal.
         type          : "personal" # corporate, geographic, personal (padrão), other
         text          : "" # Pode ter mais de uma linha.
-      city            : "" # Cidade, estado e país devem usar os nomes atuais das localidades.
-      state           : "" # Nome do estado por extenso!
+#      city            : "" # Cidade, estado e país devem usar os nomes atuais das localidades.
+#      state           : "" # Nome do estado por extenso!
       country         : "BR" # Código ISO.
-      locationHistoric:    # Escopos geográficos antigos
+#     locationHistoric:    # Escopos geográficos antigos
 #       - ""               # Se tiver mais de um item, representar em forma de lista.
-  temporal:
-    ####################################################################
-    # Linha do tempo. Instruções de formatação:                        #
-    # https://timeline.knightlab.com/docs/json-format.html             #
-    # As categorias abaixo referenciam recursos externos a este site,  #
-    # em geral.                                                        #
-    ####################################################################
-    events:                # Esta linha é só o cabeçalho da linha do tempo.
+#  temporal:
+#    ####################################################################
+#    # Linha do tempo. Instruções de formatação:                        #
+#    # https://timeline.knightlab.com/docs/json-format.html             #
+#    # As categorias abaixo referenciam recursos externos a este site,  #
+#    # em geral.                                                        #
+#    ####################################################################
+#    events:                # Esta linha é só o cabeçalho da linha do tempo.
 #     - text:              # Cada evento tem texto, mídia e data(s).
 #         headline    : "" # O texto pode ser dividido em cabeçalho e conteúdo.
 #         text        : ""
@@ -145,19 +145,19 @@ coverage:
 #         text        : ""
 #         href        : ""
 #         dataDate    : "" # Data em que a informação foi incluída.
-  stylePeriod:  # https://www.loc.gov/standards/vracore/schemas.html
-    - text            : "" # Usar vocabulário controlado se possível
-      vocab           : "" # Caso use vocabulário controlado, preencher os...
-      refid           : "" # ...campos `vocab` e `refid`.
-  culturalContext:
-    - text            : ""
-      vocab           : ""
-      refid           : ""
-subject: # Refere-se ao conteúdo da obra, conforme https://www.loc.gov/standards/vracore/schemas.html
-  - type              : "" # conceptTopic, descriptiveTopic, iconographicTopic, otherTopic, builtworkPlace, geographicPlace, otherPlace, corporateName, familyName, personalName, scientificName, otherName
-    text              : ""
-    vocab             : "" # Caso use vocabulário controlado, preencher os...
-    refid             : "" # ...campos `vocab` e `refid`.
+#  stylePeriod:  # https://www.loc.gov/standards/vracore/schemas.html
+#    - text            : "" # Usar vocabulário controlado se possível
+#      vocab           : "" # Caso use vocabulário controlado, preencher os...
+#      refid           : "" # ...campos `vocab` e `refid`.
+#  culturalContext:
+#    - text            : ""
+#      vocab           : ""
+#      refid           : ""
+#subject: # Refere-se ao conteúdo da obra, conforme https://www.loc.gov/standards/vracore/schemas.html
+#  - type              : "" # conceptTopic, descriptiveTopic, iconographicTopic, otherTopic, builtworkPlace, geographicPlace, otherPlace, corporateName, familyName, personalName, scientificName, otherName
+#    text              : ""
+#    vocab             : "" # Caso use vocabulário controlado, preencher os...
+#    refid             : "" # ...campos `vocab` e `refid`.
 conformsTo : "https://schema.org/LandmarksOrHistoricalBuildings"
 drawings:
   - refid             : "" # O nome do arquivo sem a extensão.
