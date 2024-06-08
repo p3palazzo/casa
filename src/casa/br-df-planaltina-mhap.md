@@ -2,7 +2,7 @@
 title: "Museu Histórico e Artístico de Planaltina"
 author: Pedro Palazzo
 date: 2024-02-08
-excerpt: >
+excerpt: >-
   Casa de morada com frente comercial construída em 1899 e convertida
   em casa–museu histórica em 1974.
 teaser: "https://placehold.co/600x400"
@@ -17,6 +17,9 @@ coverage:
       city   : "Planaltina"
       state  : "Distrito Federal"
       country: "BR"
+      locationHistoric:
+        - "Mestre d'Armas"
+        - "Goiás"
 identifier:
   - source: "Inventário do Setor Tradicional de Planaltina"
     refid : 

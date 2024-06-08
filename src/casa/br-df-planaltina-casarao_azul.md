@@ -33,7 +33,7 @@ coverage:
       city   : "Planaltina"
       state  : "Distrito Federal"
       country: "BR" # Código ISO
-      locationHistoric: # Escopos geográficos antigos
+      locationHistoric:
         - "Mestre d'Armas"
         - "Goiás"
   temporal:
