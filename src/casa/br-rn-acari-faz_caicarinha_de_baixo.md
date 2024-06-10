@@ -1,20 +1,29 @@
 ---
-title: "Fazenda Caiçarinha de baixo, Acari, Rio Grande do Norte"
+title: "Fazenda Caiçarinha de baixo"
+date: 2024-05-02
 created:
-  display_date: "1890-1895"
+  date: 1890-01-01
+  qualifier: "c. "
+  display_date: "c. 1890"
 author: Eduarda Santana
 coverage:
   spatial:
     location:
       lat : -6.429678
       long: -36.641820
+      name: 
+        text: "Fazenda Caiçarinha de baixo"
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 139
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0009
+    refid : 9
 ---
 
 Foi concluída em 1895, segundo inscrição existente na parede da fachada lateral esquerda, e ampliada em 1923, com a incorporação de novos cômodos contíguos à esta mesma. Em 1934 foi criado o sótão. Ora encontra-se desabitada e abandonada, com trechos da cozinha em estado de ruínas. Lamentavelmente não há indícios de que volte a ser habitada.Os pilares do alpendre, a exemplo de outras casas-grandes de fazenda, eram de madeira e foram substituídos por esses que lá se apresentam, em alvenaria.

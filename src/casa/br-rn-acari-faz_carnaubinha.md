@@ -1,5 +1,6 @@
 ---
-title: "Fazenda Carnaubinha, Acari, Rio Grande do Norte"
+title: "Fazenda Carnaubinha"
+date: 2024-05-02
 created:
   date: 1820-01-01
   qualifier: "c. "
@@ -10,19 +11,20 @@ coverage:
     location:
       lat : -6.525442
       long: -37.052143
+      name: 
+        text: "Fazenda Carnaubinha"
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 130
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0010
+    refid : 10
 ---
-
-
-Área da Edificação: 
-Coordenada geográfica: , 
-Data: 
 
 Tradicional e típica casa de fazenda do vale do Acauã, atualmente desabitada e em estado de abandono, mantêm-se ainda em seu estado original, com seus elementos preservados. Como acontece em outras casas que possuem sótão, a escada que lhe dá acesso parte da sala de jantar. Em geral essas escadas não dispõem de degraus confortáveis, pois quase sempre se desenvolvem em espaço exíguo, como se observa neste caso, limitado pela existência da porta de um quarto.
 

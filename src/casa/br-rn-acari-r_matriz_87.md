@@ -1,20 +1,28 @@
 ---
-title: "Casa à rua da Matriz, 87, Acarí, Rio Grande do Norte"
+title: "Casa à rua da Matriz, 87"
+date: 2024-05-02
 created:
-  display_date: "c. 1820-1850"
+  date: 1835-01-01
+  qualifier: "c. "
+  display_date: "c. 1835"
 author: Eduarda Santana
 coverage:
   spatial:
     location:
       lat : -6.442255
       long: -36.639651
+      name: 
+        text: "rua da Matriz, 87"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 208
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0019
+    refid : 19
 ---
 
 Foi construída no então alinhamento da rua, porém recuada com relação à sua fachada lateral direita. Atualmente, apresentando um jardim frontal, oriundo da mudança do traçado da rua, que se afastou da edificação E uma casa urbana, mas, em sua forma, nada a diferencia de uma casa de fazenda, com seu “telhado de arrasto”, de inclinação acentuada e pé-direito alto, permitindo a existência de um sótão constituído de três cômodos.

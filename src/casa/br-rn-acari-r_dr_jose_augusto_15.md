@@ -1,20 +1,28 @@
 ---
-title: "Casa à rua Dr. José Augusto, 15, Acarí, Rio Grande do Norte"
+title: "Casa à rua Dr. José Augusto, 15"
+date: 2024-05-02
 created:
-  display_date: "c. 1800-1820"
+  date: 1810-01-01
+  qualifier: "c. "
+  display_date: "c. 1810"
 author: Eduarda Santana
 coverage:
   spatial:
     location:
       lat : -6.437646
       long: -36.639066
+      name: 
+        text: "rua Dr. José Augusto, 15"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 174
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0020
+    refid : 20
 ---
 
 É uma das mais antigas residências de Acari que ainda mantém, inalteradas, muitas das características de sua fábrica original. Em 1900, nessa casa, situada na então rua dos Pereira, atual Dr. José Augusto, morreu, aos 83 anos, Aninha do Ingá, mulher muito influente, sogra do Coronel Silvino Bezerra e avó do Dr. José Augusto, que foi governador do Estado na década de 1920 e deu o nome que a rua atualmente tem. Está implantada no alinhamento da rua, num lote comprido, que vai até uma outra rua, estreita, que tinha a função precípua e exclusiva de acesso de serviço aos quintais das residências, já que era por ali que esta casa era abastecida com água, lenha e outros produtos, que chegavam transportados em lombos de animais.

@@ -1,20 +1,29 @@
 ---
-title: "Fazenda Boa Vista, Acari, Rio Grande do Norte"
+title: "Fazenda Boa Vista"
+date: 2024-05-02
 created:
-  display_date: "Por volta de 1857"
+  date: 1857-01-01
+  qualifier: "c. "
+  display_date: "c. 1857"
 author: Eduarda Santana
 coverage:
   spatial:
     location:
       lat : -6.368960
       long: -36.569206
+      name: 
+        text: "Fazenda Boa Vista"
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 92
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0006
+    refid : 6
 ---
 
 A casa-grande da fazenda Boa Vista teve sua conclusão em 1857, segundo inscrição existente na parede da fachada lateral esquerda. Ao longo de sua existência sofreu modificações que são facilmente identificáveis através dos vestígios deixados. A mais recente sequer foi concluída. Trata-se de um acréscimo, contíguo à fachada lateral esquerda. Os atuais pilares do alpendre, em alvenaria, substituem os originais, que eram confeccionados em madeira.

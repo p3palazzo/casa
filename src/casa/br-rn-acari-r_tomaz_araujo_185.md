@@ -1,5 +1,6 @@
 ---
-title: "Casa à rua Tomaz Araújo, 185, Acarí, Rio Grande do Norte"
+title: "Casa à rua Tomaz Araújo, 185"
+date: 2024-05-02
 created:
   date: 1800-01-01
   qualifier: "c. "
@@ -10,13 +11,18 @@ coverage:
     location:
       lat : -6.438702
       long: -36.640798
+      name: 
+        text: "rua Tomaz Araújo, 185"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 86
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0025
+    refid : 25
 ---
 
 Construção modesta, implantada na primeira rua existente na cidade, com o fundo do lote voltado para o rio. É provável que se constitua em uma das últimas remanescentes de um conjunto de casas construídas nesse trecho da rua, contemporâneo à origem do povoamento. Seu baixo pé-direito, a excessiva espessura da parede de sua fachada, sua porta e janela em vergas retas, são fortes indícios que induzem à comprovação dessa hipótese. 

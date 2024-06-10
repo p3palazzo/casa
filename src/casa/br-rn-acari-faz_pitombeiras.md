@@ -1,20 +1,29 @@
 ---
-title: "Fazenda Pitombeiras, Acari, Rio Grande do Norte"
+title: "Fazenda Pitombeiras"
+date: 2024-05-02
 created:
-  display_date: "c. 1820 - 1850"
+  date: 1835-01-01
+  qualifier: "c. "
+  display_date: "c. 1835"
 author: Eduarda Santana
 coverage:
   spatial:
     location:
       lat : -6.498010
       long: -36.661203
+      name: 
+        text: "Fazenda Pitombeiras"
+        type: "corporate"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 185
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0014
+    refid : 14
 ---
 
 Esta casa constitui um belo exemplar de uma casa de fazenda típica do Seridó, contudo, lamentavelmente, pelo que se pode observar, está decretado seu desaparecimento, já que não mais dispõe de uma única folha de porta ou janela, não por terem se acabado, mas por haverem sido retiradas Encontra-se desabitada e abandonada, porém, guardando ainda as características de sua construção original, mantendo seu “telhado de arrasto”, com acentuada inclinação, e os esbeltos e graciosos pilares de madeira, que sustentam o telhado do alpendre.

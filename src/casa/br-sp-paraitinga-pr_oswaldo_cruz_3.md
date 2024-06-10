@@ -1,5 +1,6 @@
 ---
 title: "Sobrado à Praça Osvaldo Cruz, n.3, Paraitinga, São Paulo"
+date: 2024-05-02
 created:
   date: 1830-01-01
   qualifier: "c. "
@@ -10,13 +11,18 @@ coverage:
     location:
       lat : -23.2219089
       long: -45.3114217
+      name: 
+        text: "rua Oswaldo Cruz, 3"
+      city: "São Luiz do Paraitinga"
+      state: "São Paulo"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 345
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0033
+    refid : 33
 ---
 
 O edifício, localizado na praça em meio a outros sobrados, faz parte do conjunto arquitetônico mais significativo do núcleo histórico urbano. Em sua construção foram seguidas as normas estabelecidas pelas posturas de 1834 e 1854. O sobrado, em taipa de pilão e pau-a-pique sobre embasamento de pedra, possui piso e forro em tabuado e um belíssimo armário embutido, em madeira e vidro. 

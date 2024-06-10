@@ -1,20 +1,28 @@
 ---
-title: "Casa à rua Dr. José Augusto, 76, Acarí, Rio Grande do Norte"
+title: "Casa à rua Dr. José Augusto, 76"
+date: 2024-05-02
 created:
-  display_date: "c. 1820-1850"
+  date: 1835-01-01
+  qualifier: "c. "
+  display_date: "c. 1835"
 author: Eduarda Santana
 coverage:
   spatial:
     location:
       lat : -6.435045
       long: -36.640953
+      name: 
+        text: "rua Dr. José Augusto, 76"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 140
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0023
+    refid : 23
 ---
 
 Construída no alinhamento da rua, conjugada com suas vizinhas, apresenta fachada de composição simétrica, com duas portas dispostas em suas extremidades, intercaladas por duas janelas, todas em verga de arco abatido. Sua platibanda é constituída por dois frontões triangulares, com graciosos elementos decorativos dispostos nas suas extremidades. A porta do lado direito da edificação dá acesso a uma saleta que não tinha ligação com o interior da casa. Só posteriormente, foi aberta uma porta que liga a referida saleta à sala de visita. Não obstante estas alterações, encontra-se bem preservada e em bom estado de conservação.

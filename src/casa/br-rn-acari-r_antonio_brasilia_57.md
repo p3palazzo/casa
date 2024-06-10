@@ -1,20 +1,28 @@
 ---
-title: "Casa à rua Antônio Basília, 57, Acarí, Rio Grande do Norte"
+title: "Casa à rua Antônio Basília, 57"
+date: 2024-05-02
 created:
-  display_date: "c. 1820-1850"
+  date: 1835-01-01
+  qualifier: "c. "
+  display_date: "c. 1835"
 author: Eduarda Santana
 coverage:
   spatial:
     location:
       lat : -6.436809
       long: -36.640718
+      name: 
+        text: "rua Antônio Basília, 57"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 150
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0017
+    refid : 17
 ---
 
 

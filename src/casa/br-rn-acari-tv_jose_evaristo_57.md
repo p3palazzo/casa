@@ -1,20 +1,28 @@
 ---
-title: "Casa à travessa José Evaristo, 57, Acarí, Rio Grande do Norte"
+title: "Casa à travessa José Evaristo, 57"
+date: 2024-05-02
 created:
-  display_date: "c. 1820-1850"
+  date: 1835-01-01
+  qualifier: "c. "
+  display_date: "c. 1835"
 author: Eduarda Santana
 coverage:
   spatial:
     location:
       lat : -6.437754
       long: -36.639650
+      name: 
+        text: "travessa José Evaristo, 57"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 233
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0028
+    refid : 28
 ---
 
 Esta era a casa do Coronel Silvino Bezerra, líder político do município. Apesar de ter sido construída com esmerados elementos decorativos, identificados pelos detalhes e ornatos que possui, trata-se basicamente de uma edificação urbana variante da casa de fazenda, com seu sótão, tão de acordo com o gosto da época. Foi construída num lote do esquina com sua fechada lateral esquerda no alinhamento da rua e a direita voltada para um terreno. Há algum tempo, este terreno foi ocupado por uma construção em dois pavimentos, a cujo pavimento superior se tem acesso através do sótão da referida casa. 

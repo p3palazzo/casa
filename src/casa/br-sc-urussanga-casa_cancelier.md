@@ -1,5 +1,6 @@
 ---
-title: "casa cancelier rodovia anes gualberto (sc 446) – rio maior – urussanga/sc "
+title: "Casa Ivanir Cancelier"
+date: 2024-05-02
 created:
   date: 1880-01-01
   qualifier: "c. "
@@ -10,13 +11,26 @@ coverage:
     location:
       lat : -28.460075
       long: -49.312203
+      name: 
+        text: |
+           rodovia Anes Gualberto (SC–446), km 12<br />
+           Rio Maior
+      city: "Urussanga"
+      state: "Santa Catarina"
+      country: "BR"
     extent:
       - type: "area"
-        measurements: 308,45
+        measurements: 308.45
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0002
+    refid : 2
+  - source: "Fundação Catarinense de Cultura"
+    refid : "Processo 196/2000, Decreto 3.464, de 23/11/2001"
+  - source: "Instituto de Patrimônio Histórico e Artístico Nacional"
+    refid : "Processo 1548-T-2007"
+  - source: "iPatrimonio"
+    href  : "https://www.ipatrimonio.org/urussanga-casa-de-ivanir-cancelier/"
 ---
 
 O imóvel conhecido como Casa Ivanir Cancelier, localizado o bairro Rio Maior na cidade de Urussanga é um exemplar da cultura do imigrante Italiano que se fixou na região por volta de 1880. A edificação é tombada pelo IPHAN desde de 2007. 

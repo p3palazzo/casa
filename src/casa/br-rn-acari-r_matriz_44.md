@@ -1,20 +1,28 @@
 ---
-title: "Casa à rua da Matriz, 44, Acarí, Rio Grande do Norte"
+title: "Casa à rua da Matriz, 44"
+date: 2024-05-02
 created:
-  display_date: "c. 1820-1840"
+  date: 1830-01-01
+  qualifier: "c. "
+  display_date: "c. 1830"
 author: Eduarda Santana
 coverage:
   spatial:
     location:
       lat : -6.437129
       long: -36.639187
+      name: 
+        text: "rua da Matriz, 44"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 160
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0018
+    refid : 18
 ---
 
 Casa construída no alinhamento da rua, geminada com sua vizinha da direita, porém mantendo recuo com relação ao outro limite lateral do lote, por onde se dá o acesso à mesma. Dispõe em sua fachada, de duas janelas, com cercaduras em massa, além da platibanda, em forma de frontão triangular, encobrindo pouco do telhado, de inclinação acentuada. 

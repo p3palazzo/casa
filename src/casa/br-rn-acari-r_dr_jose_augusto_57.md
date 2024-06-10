@@ -1,20 +1,28 @@
 ---
-title: "Casa à rua Dr. José Augusto, 57, Acarí, Rio Grande do Norte"
+title: "Casa à rua Dr. José Augusto, 57"
+date: 2024-05-02
 created:
-  display_date: "c. 1820-1850"
+  date: 1835-01-01
+  qualifier: "c. "
+  display_date: "c. 1835"
 author: Eduarda Santana
 coverage:
   spatial:
     location:
       lat : -6.438249
       long: -36.637145
+      name: 
+        text: "rua Dr. José Augusto, 57"
+      city: "Acari"
+      state: "Rio Grande do Norte"
+      country: "BR"
     extent:
       - type: "area"
         measurements: 189
         unit: "m²"
 identifier:
   - source: "Documentário de casas tradicionais"
-    id    : 0021
+    refid : 21
 ---
 
 Edificação integrante do correr de casas que começa com a de n.° 15 desta rua, tem, como as demais, implantação no alinhamento do lote, com sua lateral direita geminada, e apresentando recuo em relação à lateral esquerda, para onde se abrem janelas. Em virtude de a rua onde está localizada apresentar declive, e por manter sua cumeeira num nível somente um pouco mais baixo do nível da cumeeira das demais casas do conjunto, que se encontram situadas na parte mais elevada da rua, gerou-se uma distância considerável entre seu piso e sua cumeeira, que possibilitou a existência do sótão, ambiente não encontrado nas demais casas do referido conjunto, mesmo porque essas são conjugadas com suas vizinhas, não permitindo aberturas em suas fachadas laterais.
