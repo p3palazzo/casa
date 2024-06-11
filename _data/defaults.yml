@@ -2,6 +2,7 @@ from: markdown
 to: html
 data-dir: _data
 fail-if-warnings: false
+section-divs: true
 shift-heading-level-by: 1
 filters:
   - pandoc-crossref
@@ -9,7 +10,15 @@ filters:
   - pandoc-sidenote
 metadata:
   bibliography: _data/biblio.yaml
-  csl: _data/chicago-fullnote-bibliography.csl
-  lang: pt-BR
-  crossrefYaml: _data/pandoc-crossref.yaml
+  csl: _data/chicago-note-bibliography.csl
+  lang: pt-PT
+  link-citations: true
   reference-section-title: "Referências"
+  # pandoc-crossref metadata
+  ccsLabelSep: "&nbsp;&ndash;&nbsp;"
+  figureTitle: Figura
+  subfigureRefIndexTemplate: $$i$$$$suf$$ [$$s$$]
+  tableTitle: Tabela
+  tblPrefix:
+    - tab.
+    - tabs.
