@@ -274,6 +274,13 @@ references:
   contributor:
     - family: Ábaco Arquitetura & Design Ambiental
       given: ''
+  editor:
+    - family: Laterza
+      given: Ana
+    - family: Gallizio
+      given: Alessio
+    - family: Palazzo
+      given: Pedro P.
   event-place: Brasília
   issued:
     - year: 2012

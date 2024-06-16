@@ -9,7 +9,7 @@ filters:
   - pandoc-sidenote
 metadata:
   bibliography: _data/biblio.yaml
-  csl: _data/chicago-fullnote-bibliography.csl
+  csl: _data/chicago-note-bibliography.csl
   lang: pt-BR
   crossrefYaml: _data/pandoc-crossref.yaml
   reference-section-title: "Referências"
