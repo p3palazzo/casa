@@ -52,12 +52,6 @@ excerpt: >- # Descrição sucinta para aparecer em listagens. Começar
 #    vocab         : ""
 #    refid         : ""
 #    href          : ""
-type:
-  name            : "physicalObject" # https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/
-  worktype: # Classe de objetos à qual a obra pertence
-    - text        : "edificação"
-      vocab       : "TAM"
-      refid       : "04.2"
 format:
 #  extent: # https://www.loc.gov/standards/vracore/schemas.html
 #    - type        : "area" # area, base, circumference, count, depth, diameter, distanceBetween, height, length, width, other
@@ -82,11 +76,11 @@ bibliographiCitation: # Fonte de autoridade para informações básicas sobre a 
   citekey : ""  # No formato iphan:2012inventario, conforme cadastrado no Zotero/Better BibLaTeX.
   href    : ""  # Conforme o caso, ambos os campos citekey e href podem ser preenchidos, ou apenas um deles.
   text    : ""  # Descrição da fonte. Só precisa ser preenchido se não existir `citekey`.
-identifier:     # Cadastros em inventários, tombamento, etc.
-  - source: ""  # Instituição.
-    refid : ""  # Número de processo, cadastro ou publicação.
-    text  : ""  # Caso necessário para indicar livros do tombo, etc.
-    href  : ""  # Caso exista um link para uma ficha na instituição de origem.
+# identifier:     # Cadastros em inventários, tombamento, etc.
+#   - source: ""  # Instituição.
+#     refid : ""  # Número de processo, cadastro ou publicação.
+#     text  : ""  # Caso necessário para indicar livros do tombo, etc.
+#     href  : ""  # Caso exista um link para uma ficha na instituição de origem.
 created:            # Data de criação da obra, não confundir com o campo `date` acima.
   date            : # Obrigatório, no formato ISO (AAAA-MM-DD). Os demais campos são opcionais
   qualifier       : "" # Ressalvas à data precisa, tais como 'c.', 'após', 'provavelmente', etc.
@@ -158,7 +152,6 @@ coverage:
 #    text              : ""
 #    vocab             : "" # Caso use vocabulário controlado, preencher os...
 #    refid             : "" # ...campos `vocab` e `refid`.
-conformsTo : "https://schema.org/LandmarksOrHistoricalBuildings"
 drawings:
   - refid             : "" # O nome do arquivo sem a extensão.
     filetype          : "" # A extensão do nome do arquivo sem o ponto. Se omitido, o padrão é "svg".
@@ -192,7 +185,7 @@ drawings:
 # `modelIs` devem ser cadastradas na ficha da OBRA e não da mídia.     #
 ########################################################################
 relation:
-  - type              : "depictedIn" # Tipos usados no VRA Core:
+# - type              : "depictedIn" # Tipos usados no VRA Core:
     # cartoonFor, cartoonIs, componentOf, componentIs, copyAfter, copyIs,
     # counterProofFor, counterProofIs, depicts, depictedIn,
     # derivedFrom [DCMI: source], sourceFor, designedFor, contextIs,
@@ -210,9 +203,9 @@ relation:
     # Os campos seguintes do DublinCore não têm equivalente no VRA Core
     # mas podem ser mapeados para o bloco stateEdition:
     # replaces, isReplacedBy
-    relids : "" # Referência do objeto relacionado (nome de arquivo da ficha)
-    text   : "" # Legenda da imagem
-    href   : "" # Link direto para a imagem, no caso de arquivos hospedados em outro servidor.
+#   relids : "" # Referência do objeto relacionado (nome de arquivo da ficha)
+#   text   : "" # Legenda da imagem
+#   href   : "" # Link direto para a imagem, no caso de arquivos hospedados em outro servidor.
 ########################################################################
 # Os campos abaixo referem-se a informações de formatação da ficha.    #
 ########################################################################
@@ -229,6 +222,13 @@ log:
 # As linhas abaixo são usadas como padrão e não precisam ser copiadas  #
 # para a ficha de cada mídia.                                          #
 ########################################################################
+conformsTo : "https://schema.org/LandmarksOrHistoricalBuildings"
+type:
+  name            : "physicalObject" # https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/
+  worktype: # Classe de objetos à qual a obra pertence
+    - text        : "edificação"
+      vocab       : "TAM"
+      refid       : "04.2"
 layout: "layouts/obra.njk"
 tags: [ "casa", "edificio" ]
 css: [ "/assets/leaflet/leaflet.css" ]
