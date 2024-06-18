@@ -25,4 +25,4 @@ identifier:
     refid : 39
 ---
 
-A residência da Rua Coronel Deocleciano Nunes, nº78 é um exemplar da arquitetura civil marcado pela simplicidade de soluções arquitetõnicas que constitjii o harmonioso conjunto. Possui estrutura de cobertura em madeira, telha capa e canal com beiral, estrutur:l de paredes e vedação em adobe e fundações em pedra canga.
+A residência da Rua Coronel Deocleciano Nunes, nº78 é um exemplar da arquitetura civil marcado pela simplicidade de soluções arquitetõnicas que constitjii o harmonioso conjunto. Possui estrutura de cobertura em madeira, telha capa e canal com beiral, estrutur:l de paredes e vedação em adobe e fundações em pedra canga. [@iphanCasasAoCentro2023]
