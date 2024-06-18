@@ -26,4 +26,4 @@ identifier:
 ---
 
 Imóvel está inserido na poligonal de tombamento do Centro Histórico de Laguna, tombado pelo Iphan desde 1985 por seu valor histórico e paisagístico 
-(Processo Nº 1122-T—8).
+(Processo Nº 1122-T—8). [@iphanCasaNo512023]
