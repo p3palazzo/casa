@@ -36,4 +36,4 @@ O banheiro original ficava localizado a cerca de 20 metros da casa, no
 fundo do lote, e hoje foi substituído por uma edícula mais próxima à
 casa, mas descolada da estrutura original. Por volta de 2007, a
 proprietária trocou as janelas e portas da fachada principal. Foram
-trocados também o madeiramento do telhado e as telhas.
+trocados também o madeiramento do telhado e as telhas. [@iphanCasasEmPilar2023]
