@@ -1,5 +1,5 @@
 ---
-title: "Casas à rua do Carvalho 187, 193, 199"
+title: "Casas à rua do Carvalho 193"
 date: 2024-05-02
 created:
   date: 1840-01-01
