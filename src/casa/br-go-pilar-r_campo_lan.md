@@ -24,6 +24,5 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 46
-[@iphanCasasEmPilar2023]  
 ---
-
+[@iphanCasasEmPilar2023]
