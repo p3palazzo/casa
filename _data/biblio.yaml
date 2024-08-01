@@ -10,13 +10,13 @@ references:
   ISBN: 978-85-8039-178-7
   issued:
     - year: 2017
-  language: pt
+  language: por
   publisher: Blucher
   publisher-place: São Paulo
   source: Open WorldCat
   title: >-
     Ensaio sobre a casa brasileira do século <span
-    smallcaps="smallcaps">XIX</span>
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XIX</span>
   type: book
 
 - id: borges:2015vernaculares
@@ -82,7 +82,7 @@ references:
     - year: 2015
       month: 4
       day: 30
-  language: pt
+  language: por
   license: Acesso Aberto
   number-of-pages: '152'
   publisher: Universidade Federal do Rio Grande do Norte, Centro de Tecnologia
@@ -90,11 +90,62 @@ references:
   source: repositorio.ufrn.br
   title: >-
     Vernaculares: a casa de fazenda seridoense do século <span
-    smallcaps="smallcaps">XIX</span> como exemplo de adaptação ao clima
-    semiárido
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XIX</span> como
+    exemplo de adaptação ao clima semiárido
   title-short: Vernaculares
   type: thesis
   URL: https://repositorio.ufrn.br/handle/123456789/21171
+
+- id: casas:2023
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  archive: Processo nº 01422.000545/2022-31
+  archive_location: Processo nº 01422.000545/2022-31
+  author:
+    - family: Iphan
+      given: Instituto do Patrimônio Histórico e Artistico Nacional
+  citation-key: casas:2023
+  event-place: TO
+  genre: Processo
+  issued:
+    - literal: 23/20/2023
+  language: por
+  number: 01422.000545/2022-31
+  publisher: IPHAN
+  publisher-place: TO
+  title: Casas ao Centro de Natividade/TO
+  type: report
+  URL: Processo nº 01422.000545/2022-31
+
+- id: casimiro:2011casa
+  abstract: Levantamento da Casa borba Gato
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  archive: IPHAN
+  archive_location: Processo nº 01447.000080/2022-31
+  author:
+    - family: Casimiro
+      given: Renata
+  citation-key: casimiro:2011casa
+  edition: SEI 1966765
+  event-place: MG
+  issued:
+    - year: 2011
+      month: 5
+      day: 10
+  language: por
+  publisher: Renata Carleial de Casimiro
+  publisher-place: MG
+  scale: Indicada
+  title: Casa Borba Gato/Museu do ouro
+  title-short: Casa Borba Gato
+  type: map
+  URL: >-
+    https://www.gov.br/museus/pt-br/acesso-a-informacao/licitacoes-e-contratos/licitacoes/licitacoes-e-contratos-2022-e-2023/pregao-eletronico-n9_2023-edital-e-anexos.pdf
 
 - id: feijo:2002arquitetura
   abstract: >-
@@ -142,10 +193,65 @@ references:
   publisher-place: Natal
   source: repositorio.ufrn.br
   title: >-
-    A arquitetura tradicional de Acari no século XIX: estudo comparativo entre a
-    casa-grande de fazenda e a casa urbana
+    A arquitetura tradicional de Acari no século <span
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XIX</span>: estudo
+    comparativo entre a casa-grande de fazenda e a casa urbana
   title-short: A arquitetura tradicional de Acari no século XIX
   type: thesis
+  URL: https://repositorio.ufrn.br/handle/123456789/48279
+
+- id: feijo:2002arquiteturaa
+  abstract: >-
+    O acervo arquitetônico existente em Acari, constituído por casas grandes de
+    fazenda e casas urbanas construídas no século XIX, pode ser considerado como
+    um dos mais representativos e bem preservados do Rio Grande do Norte,
+    contudo observa-se que atualmente, esse acervo encontra-se em processo de
+    grandes modificações e ameaçado de iminente desaparecimento. Em virtude
+    disso, e considerando-se de fundamental importância o conhecimento dessas
+    edificações, foi elaborada esta dissertação, que trata do estudo comparativo
+    entre a casa grande de fazenda e a casa urbana e visa responder às seguintes
+    questões: (1) se o acervo remanescente delineia um partido arquitetural
+    específico, passível de ser definido a partir da investigação de um conjunto
+    recorrente de categoriais formais e construtivas; e (2) se esse conjunto de
+    categorias delineia tipos distintos de arquitetura rural e urbana. Do
+    universo das edificações remanescentes, foram utilizadas como amostragem
+    para análise, vinte e quatro exemplares, (sendo doze casas- grandes de
+    fazenda e doze casas urbanas), registradas e investigadas a partir de um
+    conjunto de categorias analíticas formais e construtivas. Os registros
+    incluíram: levantamentos arquitetônicos pormenorizados, dados históricos
+    (quando disponíveis), e cobertura fotográfica extensiva de elementos
+    remanescentes. A análise incluiu: implantações; formas plásticas das caixas
+    murais e elementos componentes; programa de necessidades, arranjo dos
+    ambientes e configuração espacial; materiais e técnicas construtivas
+    empregadas. Ao final deste estudo, constata-se que, apesar da existência de
+    características específicas, encontradas somente em casas-grandes de fazenda
+    ou exclusivamente em casas urbanas, características comuns prevalecem,
+    podendo-se concluir que tanto as casas grandes de fazenda quanto as casas
+    urbanas apresentam partidos arquitetônicos semelhantes, os mesmos materiais
+    e as mesmas técnicas construtivas.
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  archive: >-
+    A arquitetura tradicional de Acari no século XIX: estudo comparativo entre a
+    casa-grande de fazenda e a casa urbana
+  author:
+    - family: Feijó
+      given: Paulo Heider Forte
+  citation-key: feijo:2002arquiteturaa
+  issued:
+    - year: 2002
+      month: 12
+      day: 19
+  language: por
+  title: >-
+    A arquitetura tradicional de Acari no século XIX: estudo comparativo entre a
+    casa-grande de fazenda e a casa urbana
+  title-short: >-
+    A arquitetura tradicional de Acari no século XIX: estudo comparativo entre a
+    casa-grande de fazenda e a casa urbana
+  type: book
   URL: https://repositorio.ufrn.br/handle/123456789/48279
 
 - id: freitas:2005lar
@@ -256,7 +362,7 @@ references:
     - year: 2016
       month: 5
       day: 19
-  language: pt
+  language: por
   publisher: Universidade de São Paulo, Faculdade de Arquitetura e Urbanismo
   publisher-place: São Paulo
   source: teses.usp.br
@@ -266,6 +372,53 @@ references:
   title-short: Casario imperial
   type: thesis
   URL: http://www.teses.usp.br/teses/disponiveis/16/16133/tde-20122016-142726/
+
+- id: iphan:2010dossie1
+  abstract: >-
+    o centro histórico de São Luiz do Paraitinga, então objeto 
+
+    de estudos visando encaminhar a solicitação de tomba mento ao Conselho do
+    IPHAN, foi atingido em conse quência das fortes chuvas e da cheia do Rio
+    Paraitinga desde o final 
+
+    de dezembro de 2009, culminando com o dia 1º de janeiro de 2010. 
+
+    Nessa data, ocorreu a inundação de parte considerável daquela área 
+
+    histórica, danos físicos em inúmeros imóveis, alguns dos quais his tóricos,
+    e a interrupção da vida social da cidade.
+
+    Desde então, órgãos de preservação do patrimônio cultural em 
+
+    níveis federal, estadual e municipal têm prestado acompanhamento 
+
+    quanto a ações e medidas de salvaguarda do patrimônio edificado 
+
+    remanescente, por meio das quais obras emergenciais como servi-
+
+    ços de limpeza e seleção de escombros, escoramentos, proteção de 
+
+    ruínas e consolidação.
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  archive: Dossiê São Luiz do  Paraitinga
+  author:
+    - family: Iphan
+      given: Instituto do Patrimônio Histórico e Artistico Nacional
+  citation-key: iphan:2010dossie1
+  issued:
+    - year: 2010
+      month: 3
+  language: por
+  number-of-pages: '90'
+  publisher: IPHAN
+  title: Dossiê São Luiz do  Paraitinga
+  title-short: Dossiê São Luiz do  Paraitinga
+  type: book
+  URL: >-
+    https://casadopatrimoniovp.wordpress.com/wp-content/uploads/2014/09/dossie-sc3a3o-luiz-do-paraitinga-iphan.pdf
 
 - id: iphan:2012planaltina
   author:
@@ -284,7 +437,7 @@ references:
   event-place: Brasília
   issued:
     - year: 2012
-  language: pt
+  language: por
   license: Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)
   publisher: Superintendência do Iphan no Distrito Federal
   publisher-place: Brasília
@@ -292,6 +445,172 @@ references:
   title: Inventário do Setor Tradicional de Planaltina
   title-short: Inventário de Planaltina
   type: book
+
+- id: iphan:2022casa
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  archive: Processo nº 01422.000619/2020-78
+  archive_location: Processo nº 01422.000619/2020-78
+  author:
+    - family: Iphan
+      given: Instituto do Patrimônio Histórico e Artistico Nacional
+  citation-key: iphan:2022casa
+  collection-title: Processo nº 01422.000619/2020-78
+  event-place: Processo nº 01422.000619/2020-78
+  genre: Processo
+  issued:
+    - year: 2022
+      month: 11
+      day: 17
+  language: por
+  number: Processo nº 01422.000619/2020-78
+  publisher-place: Processo nº 01422.000619/2020-78
+  title: Casa à Rua Coronel Deocleciano Nunes, n°78
+  title-short: Casa à Rua Coronel Deocleciano Nunes, n°78
+  type: report
+  URL: Processo nº 01422.000619/2020-78
+
+- id: iphan:2023casa
+  abstract: Levantamento da casa nº 51 na Travessa Manoel Pinho
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  archive: Processo nº 01510.000340/2023-48
+  archive_location: Processo nº 01510.000340/2023-48
+  author:
+    - family: Iphan
+      given: Instituto do Patrimônio Histórico e Artistico Nacional
+  citation-key: iphan:2023casa
+  collection-title: Casa nº 51 na Travessa Manoel Pinho
+  edition: 1510.000340/2023-48
+  event-place: Processo nº 01510.000340/2023-48
+  genre: Levantamento
+  issued:
+    - literal: Abril/2023
+  language: por
+  publisher: Escritório Técnico Laguna
+  publisher-place: Processo nº 01510.000340/2023-48
+  scale: Indicada
+  source: Processo nº 01510.000340/2023-48
+  title: Casa nº 51 na Travessa Manoel Pinho
+  type: map
+  URL: >-
+    https://www.gov.br/iphan/pt-br/acesso-a-informacao/licitacoes-e-contratos/iphan-sc_uasg-343011/licitacoes/concorrencia/2023/arquivos/edital-e-anexos_concorrencia-eletronica-012023-uasg-343011-iphan-sc.zip
+
+- id: iphan:2023casaa
+  abstract: Levantamento da casa nº76, Travessa Luiz Nery/SC
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  archive: Processo nº 01510.000340/2023-48
+  archive_location: Processo nº 01510.000340/2023-48
+  author:
+    - family: Iphan
+      given: Instituto do Patrimônio Histórico e Artistico Nacional
+  citation-key: iphan:2023casaa
+  collection-title: Casa nº76, Travessa Luiz Nery/SC
+  edition: 1510.000340/2023-48
+  event-place: Processo nº 01510.000340/2023-48
+  genre: Levantamento
+  issued:
+    - year: 2023
+      month: 4
+  language: por
+  publisher: Escritório Técnico Laguna
+  publisher-place: Processo nº 01510.000340/2023-48
+  scale: Indicada
+  source: Processo nº 01510.000340/2023-48
+  title: Casa nº76, Travessa Luiz Nery/SC
+  title-short: Casa nº76, Travessa Luiz Nery/SC
+  type: map
+  URL: >-
+    https://www.gov.br/iphan/pt-br/acesso-a-informacao/licitacoes-e-contratos/iphan-sc_uasg-343011/licitacoes/concorrencia/2023/arquivos/edital-e-anexos_concorrencia-eletronica-012023-uasg-343011-iphan-sc.zip
+
+- id: iphan:2023casab
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  archive: Processo nº 01510.000189/2022-67
+  archive_location: Processo nº 01510.000189/2022-67
+  author:
+    - family: Iphan
+      given: Instituto do Patrimônio Histórico e Artistico Nacional
+  citation-key: iphan:2023casab
+  collection-title: Processo nº 01510.000189/2022-67
+  event-place: RS
+  genre: Processo
+  issued:
+    - year: 2023
+      month: 11
+      day: 1
+  language: por
+  number: 01510.000189/2022-67
+  publisher: IPHAN
+  publisher-place: RS
+  source: Processo nº 01510.000189/2022-67
+  title: Casa Q06.18, Praça Getúlio Vargas, n.66, São Francisco do Sul, SC
+  title-short: Casa Q06.18, Praça Getúlio Vargas, n.66, São Francisco do Sul, SC
+  type: report
+  URL: Processo nº 01510.000189/2022-67
+
+- id: iphan:2023casas
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  archive: Processo Administrativo n° 01516.000354/2023-10
+  archive_location: Processo Administrativo n° 01516.000354/2023-10
+  author:
+    - family: Iphan
+      given: Instituto do Patrimônio Histórico e Artistico Nacional
+  citation-key: iphan:2023casas
+  collection-title: Processo Administrativo n° 01516.000354/2023-10
+  event-place: GO
+  genre: Processo Administrativo
+  issued:
+    - year: 2023
+      month: 12
+      day: 13
+  language: por
+  number: 01516.000354/2023-10
+  publisher: IPHAN
+  publisher-place: GO
+  title: Casas em Pilar de Goiás
+  title-short: Casas em Pilar de Goiás
+  type: report
+  URL: Processo Administrativo n° 01516.000354/2023-10
+
+- id: jougueri:2023projeto
+  abstract: Projeto de restauração da casa Cancelier
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  archive_location: Processo nº 01510.000418/2023-24
+  author:
+    - family: Jougueri
+      given: Ana Paula
+  citation-key: jougueri:2023projeto
+  collection-title: Projeto de restauração da casa Cancelier
+  edition: Processo nº 01510.000418/2023-24
+  genre: Projeto de restauração
+  issued:
+    - year: 2023
+      month: 10
+      day: 10
+  language: por
+  publisher: Ana Paula Jougueri
+  scale: Indicada
+  title: Projeto de restauração da casa Cancelier
+  title-short: Casa Cancelier
+  type: map
+  URL: >-
+    https://www.gov.br/iphan/pt-br/acesso-a-informacao/licitacoes-e-contratos/iphan-sc_uasg-343011/licitacoes/concorrencia/2023/concorrencia-no-02-2023
 
 - id: kluppel:2017casa
   abstract: >-
@@ -383,17 +702,32 @@ references:
     - year: 2017
       month: 12
       day: 21
-  language: pt
+  language: por
   publisher: Faculdade de Arquitetura
   publisher-place: Salvador
   source: repositorio.ufba.br
   title: >-
     A casa e o clima: (trans)formações da arquitetura habitacional no Brasil
-    (século <span smallcaps="smallcaps">XVII</span>–século <span
-    smallcaps="smallcaps">XIX</span>)
+    (século <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">XVII</span>–século <span
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XIX</span>)
   title-short: A casa e o clima
   type: thesis
   URL: http://repositorio.ufba.br/ri/handle/ri/24902
+
+- id: kohlsdorf:1996apreensao
+  author:
+    - family: Kohlsdorf
+      given: Maria Elaine
+  citation-key: kohlsdorf:1996apreensao
+  event-place: Brasília
+  issued:
+    - year: 1996
+  language: por
+  publisher: Editora UnB
+  publisher-place: Brasília
+  title: A apreensão da forma da cidade
+  type: book
 
 - id: malta:2013casas
   citation-key: malta:2013casas
@@ -406,8 +740,10 @@ references:
   ISBN: 978-85-87145-58-1
   issued:
     - year: 2013
-  language: pt
-  publisher: Editora <span smallcaps="smallcaps">UFRJ</span>
+  language: por
+  publisher: >-
+    Editora <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">UFRJ</span>
   publisher-place: Rio de Janeiro
   source: Open WorldCat
   title: Casas senhoriais Rio-Lisboa e seus interiores
@@ -424,12 +760,15 @@ references:
   ISBN: 978-85-7506-021-6
   issued:
     - year: 2001
-  language: pt
+  language: por
   number-of-pages: '317'
   publisher: 'Humanitas : Edusp'
   publisher-place: São Paulo
   source: Library of Congress ISBN
-  title: 'Através da rótula: sociedade e arquitetura no Brasil, séculos XVII a XX'
+  title: >-
+    Através da rótula: sociedade e arquitetura no Brasil, séculos <span
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XVII a <span
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XX</span></span>
   title-short: Através da rótula
   type: book
 
@@ -445,7 +784,7 @@ references:
   ISBN: 978-85-7010-014-6
   issued:
     - year: 1986
-  language: pt
+  language: por
   publisher: Pool Editorial
   publisher-place: Recife
   source: Open WorldCat
@@ -468,7 +807,7 @@ references:
   issue: '1'
   issued:
     - year: 2001
-  language: pt
+  language: por
   page: 55-76
   source: SciELO
   title: >-
@@ -559,13 +898,14 @@ references:
   ISBN: 978-85-7448-170-8 85-7448-170-X
   issued:
     - year: 2009
-  language: pt
+  language: por
   publisher: Estação Liberdade
   publisher-place: São Paulo
   source: Open WorldCat
   title: >-
-    Uma história do patrimônio no Ocidente, séculos XVIII-XXI: do documento aos
-    valores
+    Uma história do patrimônio no Ocidente, séculos <span
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XVIII-XXI</span>:
+    do documento aos valores
   title-short: Uma história do patrimônio no Ocidente
   type: book
 
@@ -592,7 +932,7 @@ references:
     - year: 2016
       month: 7
       day: 11
-  language: pt
+  language: por
   license: openAcces
   medium: text
   publisher: Universidade Federal do Espírito Santo
@@ -647,14 +987,15 @@ references:
     - year: 2019
       month: 12
       day: 20
-  language: pt
+  language: por
   license: Acesso Aberto
   publisher: Universidade Federal de Minas Gerais
   publisher-place: Belo Horizonte
   source: repositorio.ufmg.br
   title: >-
     Morada de casas : cultura material, domesticidades e mudanças sociais (Minas
-    Gerais, Sabará - século <span smallcaps="smallcaps">XVIII</span>)
+    Gerais, Sabará - século <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">XVIII</span>)
   title-short: Morada de casas
   type: thesis
   URL: https://repositorio.ufmg.br/handle/1843/35148
@@ -669,7 +1010,7 @@ references:
   genre: Tese de Doutorado em História
   issued:
     - year: 2005
-  language: pt
+  language: por
   publisher: Universidade Federal Fluminense
   publisher-place: Niterói
   title: 'A casa carioca: estudo sobre as formas de morar no Rio de Janeiro, 1750–1850'
@@ -715,15 +1056,16 @@ references:
     - year: 2011
       month: 2
       day: 28
-  language: pt
+  language: por
   license: Acesso Aberto
   publisher: Universidade Federal de Minas Gerais
   publisher-place: Belo Horizonte
   source: repositorio.ufmg.br
   title: >-
-    A casa brasileira do século <span smallcaps="smallcaps">XIX</span> e seus
-    desdobramentos na produção residencial de Belo Horizonte: influência dos
-    antecedentes coloniais e o papel do neoclassicismo e do ecletismo
+    A casa brasileira do século <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">XIX</span> e seus desdobramentos na produção
+    residencial de Belo Horizonte: influência dos antecedentes coloniais e o
+    papel do neoclassicismo e do ecletismo
   title-short: >-
     A casa brasileira do século <span smallcaps="smallcaps">XIX</span> e seus
     desdobramentos na produção residencial de Belo Horizonte
@@ -767,16 +1109,110 @@ references:
     - year: 2013
       month: 11
       day: 5
-  language: Portuguese
+  language: por
   license: openAccess
   publisher: Universidade do Porto, Faculdade de Arquitectura
   publisher-place: Porto
   source: repositorio-aberto.up.pt
   title: >-
-    A acessibilidade nas casas burguesas do Porto. Tipificações de propostas de
+    A acessibilidade nas casas burguesas do Porto: Tipificações de propostas de
     intervenção
+  title-short: A acessibilidade nas casas burguesas do Porto
   type: thesis
   URL: https://repositorio-aberto.up.pt/handle/10216/80313
+
+- id: teixeira:2009arquitectura
+  abstract: >-
+    O caso em estudo visa aprofundar e adquirir conhecimentos teóricos sobre a 
+
+    arquitectura popular tradicional da ilha da Madeira e desenvolver
+    capacidades e competências 
+
+    na área da reabilitação do património rural. 
+
+    Este trabalho constitui assim, um momento de análise e reflexão sobre a
+    arquitectura 
+
+    frequentemente apelidada de “anónima”, tendo como objectivo principal a
+    proposta de algumas 
+
+    medidas de reabilitação, que nos conduzem inevitavelmente a desafios ao
+    nível: da estrutura, 
+
+    comportamento e conservação dos materiais; do máximo aproveitamento de
+    espaços exíguos; 
+
+    da compatibilidade de soluções construtivas, e acima de tudo o desafio de
+    apontar soluções de 
+
+    reabilitação que reúnam a ecologia, a sustentabilidade e a economia. 
+
+    A elaboração do trabalho está compreendida em cinco fases. Na primeira,
+    abordam-se 
+
+    conceitos, de arquitectura vernacular, de identidade e cultura dos povos, e
+    a análise e definição 
+
+    da casa e do habitar. Na segunda fase, efectua-se uma breve retrospectiva no
+    tempo, para 
+
+    explicar a razão de ser de algumas tipologias habitacionais – fortemente
+    influenciadas pela 
+
+    geografia, materiais autóctones, economia e modo de vida dos habitantes da
+    ilha. Na terceira 
+
+    fase, decompõe-se a arquitectura popular tradicional madeirense, analisando
+    as vertentes: 
+
+    funcional, estrutural e estética. Concluída esta etapa, passamos ao estudo
+    de caso, onde é 
+
+    realizado um levantamento de cinco casas de uma localidade – Camacha. A
+    última fase reúne 
+
+    a catalogação das anomalias de uma das habitações analisadas, sendo também
+    apresentadas 
+
+    algumas medidas de reabilitação, para fazer corresponder a habitação às
+    necessidades e 
+
+    expectativas de uma sociedade moderna. 
+
+    Esta investigação permitiu dar um pequeno avanço, no que diz respeito ao 
+
+    conhecimento ainda que num plano teórico, de um modelo económico e
+    sustentável que pode 
+
+    ser aplicado na reabilitação da arquitectura popular tradicional madeirense
+    e que permite em 
+
+    simultâneo manter a identidade e cultura locais.
+  accessed:
+    - year: 2024
+      month: 6
+      day: 16
+  author:
+    - family: Teixeira
+      given: Cláudia Rubina Quintal
+  citation-key: teixeira:2009arquitectura
+  event-place: Covilhã
+  genre: masterThesis
+  issued:
+    - year: 2009
+      month: 6
+  language: por
+  license: openAccess
+  number-of-pages: '132'
+  publisher: Universidade da Beira Interior
+  publisher-place: Covilhã
+  source: ubibliorum.ubi.pt
+  title: >-
+    A arquitectura vernacular da Madeira: tradição, identidade e
+    sustentabilidade
+  title-short: A arquitectura vernacular da Madeira
+  type: thesis
+  URL: https://ubibliorum.ubi.pt/handle/10400.6/1746
 
 - id: vaz:2003casa
   author:
@@ -793,9 +1229,9 @@ references:
   ISBN: 978-85-7103-186-9
   issued:
     - year: 2003
-  language: pt
+  language: por
   number-of-pages: '257'
-  publisher: Editora <span smallcaps="smallcaps">ucg</span>
+  publisher: Editora <A acessibilidade nas casas burguesas do Porto>UCG
   publisher-place: Goiânia
   source: Library of Congress ISBN
   title: 'A casa goiana: documentação arquitetônica'
