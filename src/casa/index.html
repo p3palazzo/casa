@@ -6,9 +6,27 @@ excerpt: >
 pagination:
   data: collections.casa
   reverse: true
-  size: 24
+  size: 20
   alias: posts
 templateEngineOverride: njk
 eleventyExcludeFromCollections: true
 ---
 
+<script src="/assets/leaflet/leaflet.js"></script>
+<div id="map"
+     itemprop="hasMap"
+     class="card-img-top mx-auto img-thumbnail"
+     style="max-width: 90vh; width: 100%; height: auto; aspect-ratio: 5 / 4;"
+     >
+ </div>
+
+<!--Leaflet map generator-->
+<script>
+  var map = L.map('map').setView([0, -23], 3);
+  // Add markers here.
+  const tiles = L.tileLayer('https://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+  }).addTo(map);
+</script>
+<!--/Leaflet map generator-->
