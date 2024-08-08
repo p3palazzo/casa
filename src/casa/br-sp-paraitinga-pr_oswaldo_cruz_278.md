@@ -1,5 +1,5 @@
 ---
-title: "Casa à Praça Osvaldo Cruz, n.278, Paraitinga, São Paulo"
+title: "Casa à praça Oswaldo Cruz, 278"
 date: 2024-05-02
 created:
   date: 1835-01-01
@@ -12,7 +12,7 @@ coverage:
       lat : -23.221705
       long: -45.310726
       name: 
-        text: "rua Oswaldo Cruz, 278"
+        text: "praça Oswaldo Cruz, 278"
       city: "São Luiz do Paraitinga"
       state: "São Paulo"
       country: "BR"

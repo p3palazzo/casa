@@ -99,7 +99,7 @@ coverage:
 #      lat             :    # Em graus decimais, negativos para o Sul e Oeste.
 #      long            :    # Separar os decimais com ponto em vez de vírgula.
 #      alt             :    # Em metros acima do nível do mar.
-      zoom            : "15" # Zoom padrão do mapa gerado pelo plugin Leaflet.js
+      zoom            : "16" # Zoom padrão do mapa gerado pelo plugin Leaflet.js
       name:                # O campo `name` pode ser qualquer localidade nomeável, não precisa ser um endereço postal.
         type          : "personal" # corporate, geographic, personal (padrão), other
         text          : "" # Pode ter mais de uma linha.
