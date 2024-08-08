@@ -15,15 +15,18 @@ eleventyExcludeFromCollections: true
 <script src="/assets/leaflet/leaflet.js"></script>
 <div id="map"
      itemprop="hasMap"
-     class="card-img-top mx-auto img-thumbnail"
-     style="max-width: 90vh; width: 100%; height: auto; aspect-ratio: 5 / 4;"
+     class="mx-auto img-thumbnail"
      >
- </div>
+</div>
 
 <!--Leaflet map generator-->
 <script>
   var map = L.map('map').setView([0, -23], 3);
-  // Add markers here.
+  {% set i = 0 %}
+  {% for casa in collections.casa %}
+  const casa{{ i }} = L.marker([{{ casa.data.coverage.spatial.location.lat }}, {{ casa.data.coverage.spatial.location.long }}]).addTo(map).bindPopup('<div class="popover-header"><a href="{{ casa.url }}">{{ casa.data.title }}</a></div> <div class="popover-body">{% if casa.data.coverage.spatial.location.country %} <span aria-label="{{ ui_text.country[casa.data.coverage.spatial.location.country] }}"> {{ casa.data.coverage.spatial.location.country | countryEmoji }} </span> {% endif %} {% if casa.data.coverage.spatial.location.state %} {{ casa.data.coverage.spatial.location.state }} <i class="bi bi-chevron-compact-right" aria-hidden="true"></i> {% endif %} {% if casa.data.coverage.spatial.location.city %} {{ casa.data.coverage.spatial.location.city }} {% endif %}</div>');
+    {% set i = i + 1 %}
+  {% endfor %}
   const tiles = L.tileLayer('https://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
