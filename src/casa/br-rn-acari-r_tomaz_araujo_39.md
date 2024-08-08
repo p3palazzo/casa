@@ -5,7 +5,7 @@ created:
   date: 1888-01-01
   qualifier: "c. "
   display_date: "c. 1888"
-author: Edurada Santana
+author: Eduarda Santana
 coverage:
   spatial:
     location:
