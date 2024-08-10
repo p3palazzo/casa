@@ -24,6 +24,11 @@
 # Por praticidade de leitura, é bom deixar o `title:` em primeiro.     #
 ########################################################################
 title             : "" # Se a obra não tiver título próprio, usar um título descritivo sucinto.
+titleType         : "owner" # brandName, cited, creator, descriptive, former, inscribed, owner, popular, repository, translated, other
+# titles:           # Outros nomes para a mesma obra
+#   - type        : # brandName, cited, creator, descriptive, former, inscribed, owner, popular, repository, translated, other
+#     text        :
+#     pref        : false, true
 date              : # Data de inclusão da ficha no nosso repositório no formato AAAA-MM-DD. Não confundir como campo `created` mais abaixo.
 author            : "" # Quem incluiu a ficha no repositório e preencheu esta ficha. Não confundir com o campo `creator` abaixo.
 excerpt: >- # Descrição sucinta para aparecer em listagens. Começar
@@ -73,7 +78,7 @@ format:
 #      text    : ""
 #      type    : "" # signature, mark, caption, date, text, translation, other (default)
 bibliographiCitation: # Fonte de autoridade para informações básicas sobre a obra. Não exclui a citação a outras fontes no texto da ficha.
-  citekey : ""  # No formato iphan:2012inventario, conforme cadastrado no Zotero/Better BibLaTeX.
+  citekey : ""  # No formato "@iphan:2012inventario", conforme cadastrado no Zotero/Better BibLaTeX.
   href    : ""  # Conforme o caso, ambos os campos citekey e href podem ser preenchidos, ou apenas um deles.
   text    : ""  # Descrição da fonte. Só precisa ser preenchido se não existir `citekey`.
 # identifier:     # Cadastros em inventários, tombamento, etc.
