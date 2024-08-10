@@ -3,6 +3,11 @@ title: "Lista de casas"
 layout: "layouts/archive.njk"
 excerpt: >
   Todas as casas cadastradas neste projeto de pesquisa.
+header:
+  actions:
+    - href: '/casa/mapa/'
+      label: "Ver no mapa"
+      btn_class: "btn-outline-primary btn-lg px-5 py-3 w-25 mt-5"
 pagination:
   data: collections.casa
   reverse: true
@@ -12,24 +17,3 @@ templateEngineOverride: njk
 eleventyExcludeFromCollections: true
 ---
 
-<script src="/assets/leaflet/leaflet.js"></script>
-<div id="map"
-     itemprop="hasMap"
-     class="mx-auto img-thumbnail"
-     >
-</div>
-
-<!--Leaflet map generator-->
-<script>
-  var map = L.map('map').setView([0, -23], 3);
-  {% set i = 0 %}
-  {% for casa in collections.casa %}
-  const casa{{ i }} = L.marker([{{ casa.data.coverage.spatial.location.lat }}, {{ casa.data.coverage.spatial.location.long }}]).addTo(map).bindPopup('<div class="popover-header"><a href="{{ casa.url }}">{{ casa.data.title }}</a></div> <div class="popover-body">{% if casa.data.coverage.spatial.location.country %} <span aria-label="{{ ui_text.country[casa.data.coverage.spatial.location.country] }}"> {{ casa.data.coverage.spatial.location.country | countryEmoji }} </span> {% endif %} {% if casa.data.coverage.spatial.location.state %} {{ casa.data.coverage.spatial.location.state }} <i class="bi bi-chevron-compact-right" aria-hidden="true"></i> {% endif %} {% if casa.data.coverage.spatial.location.city %} {{ casa.data.coverage.spatial.location.city }} {% endif %}</div>');
-    {% set i = i + 1 %}
-  {% endfor %}
-  const tiles = L.tileLayer('https://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-  }).addTo(map);
-</script>
-<!--/Leaflet map generator-->
