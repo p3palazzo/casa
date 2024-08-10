@@ -1,5 +1,5 @@
 ---
-title: "Sobrado à Praça Osvaldo Cruz, n.3, Paraitinga, São Paulo"
+title: "Sobrado à Praça Oswaldo Cruz, 3"
 date: 2024-05-02
 created:
   date: 1830-01-01
