@@ -487,6 +487,48 @@ references:
   title-short: A casa corrente de 40 palmos
   type: chapter
 
+- id: silva:2022panorama
+  abstract: >-
+    Esta tese busca ordenar e sistematizar parte da arquitetura realizada em
+    Goiás durante os séculos XVIII, XIX e XX. Um panorama uniformizado
+    graficamente, contemplando sobreposições de conceitos e estilos através do
+    olhar sobre duzentos e dez edifícios. Organiza‐se assim uma crônica da
+    transformação da região por meio de suas edificações, demonstrando como
+    foram espelho de um ideal político, social e arquitetônico que permeou a
+    produção local. Para tal tarefa utilizo duas ferramentas: o levantamento e
+    registro dos exemplares mais significativos e a disposição do conhecimento
+    dos diferentes períodos da historiografia goiana. Com isso explicita‐se uma
+    síntese da arquitetura realizada em Goiás, oferecendo estrutura estável que
+    permita aos interessados formular conjecturas diversas ao analisar esse
+    acervo.
+  accessed:
+    - year: 2022
+      month: 9
+      day: 12
+  author:
+    - family: Silva Neto
+      given: Eurípedes Afonso
+      dropping-particle: da
+  citation-key: silva:2022panorama
+  event-place: Brasília
+  genre: Tese de Doutorado em Arquitetura e Urbanismo
+  issued:
+    - year: 2022
+      month: 1
+      day: 21
+  language: por
+  license: Acesso Aberto
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  source: repositorio.unb.br
+  title: >-
+    Panorama da arquitetura em Goiás : séculos <span
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XVIII, XIX</span>
+    e <span style="font-variant:all-small-caps" smallcaps="smallcaps">XX</span>
+  title-short: Panorama da arquitetura em Goiás
+  type: thesis
+  URL: https://repositorio.unb.br/handle/10482/43399
+
 - id: ramalho:2016casa
   accessed:
     - year: 2020

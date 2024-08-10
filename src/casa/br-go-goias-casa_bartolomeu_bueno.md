@@ -1,5 +1,10 @@
 ---
 title: "Casa de Bartolomeu Bueno"
+titles:
+  - type: "owner"
+    text: "Residência de Leonardo Lacerda"
+    source:
+      citekey: "@silva:2022panorama"
 author: "Eduarda Toscano"
 identifier:
   - source: "Documentário de casas tradicionais"
@@ -7,15 +12,18 @@ identifier:
 coverage:
   spatial:
     location:
-      lat    :
-      long   :
+      lat    : -15.930222
+      long   : -50.138583
+      alt    : 494
       name   :
-        text: |
-          Buenolândia
+        text : "rua Bartolomeu Bueno, 30"
       city   : "Goiás"
       state  : "Goiás"
       country: "BR"
-      locationHistoric:
-        - "Arraial da Barra"
+---
+
+---
+nocite: >
+  @silva:2022panorama
 ---
 
