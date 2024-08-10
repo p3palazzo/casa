@@ -1,21 +1,25 @@
 ---
 title : "Casarão Azul"
-date  : 2024-02-05 # Data do preenchimento da ficha
-author: "Pedro Palazzo" # Quem preencheu a ficha
-excerpt: >- # Descrição sucinta para aparecer em listagens
+date  : 2024-02-05
+author: "Pedro Palazzo"
+excerpt: >-
   Casa de morada inteira em adobe com fachada neoclássica em
   tijolo cozido. Construída em 1926 e descaracterizada em 2009.
 header:
   teaser       : "https://i.pinimg.com/564x/31/20/c4/3120c4b86f94ed8f7d2d33f56d38cc0a.jpg"
   overlay_image: "https://i.pinimg.com/originals/31/20/c4/3120c4b86f94ed8f7d2d33f56d38cc0a.jpg"
   caption      : "Foto: arquivo da Supac/SEC–DF, 01/09/1995"
-alternative: # Outros nomes ou designações antigas
+alternative:
   - "Casa do médico Hosannah Pinheiro Guimarães"
   - "Hotel Ouro Verde"
   - "Hotel Ouro Fino"
 bibliographicCitation:
   citekey: "@iphan:2012planaltina"
-contributor: # Agentes envolvidos
+  text: >-
+    Instituto do Patrimônio Histórico e Artistico Nacional, Inventário do Setor
+    Tradicional de Planaltina, org. Ana Laterza, Alessio Gallizio, e Pedro P.
+    Palazzo (Brasília: Superintendência do Iphan no Distrito Federal, 2012).
+contributor:
   - name: "Hosannah Pinheiro Guimarães"
     role: "antigo proprietário"
 coverage:
@@ -32,7 +36,7 @@ coverage:
           73.330
       city   : "Planaltina"
       state  : "Distrito Federal"
-      country: "BR" # Código ISO
+      country: "BR"
       locationHistoric:
         - "Mestre d'Armas"
         - "Goiás"
@@ -57,17 +61,14 @@ coverage:
           headline: "Venda da casa"
         start_date:
           year: "2009"
-identifier: # Código IPHAN ou DGPC, por exemplo
+identifier:
   - source: "Inventário do Setor Tradicional de Planaltina"
-    refid : 563
+    refid : "563"
   - source: "Documentário de casas tradicionais"
-    refid : 51
-type: # Classificações
-dwg: # Documentação arquitetônica produzida neste projeto
-docs: # Fontes primárias e levantamentos de terceiros
-relation: # Iconografia
+    refid : "51"
+relation:
   - type: "depictedIn"
-    href: "media/br-df-planaltina-casarao_azul-depha-950901"
+    href: "/media/br-df-planaltina-casarao_azul-depha-950901/"
 log:
   - date: 2024-06-07
     text: "Corrige campos conforme modelo atualizado"
