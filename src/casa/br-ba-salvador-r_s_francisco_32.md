@@ -21,7 +21,10 @@ coverage:
   temporal:
     events:
       - type: "creation"
-        start_date: 1759-01-01
+        text:
+          headline: "Construção"
+        start_date:
+          year: "1759"
         qualifier: "c. "
         display_date: "c. 1759"
 identifier:

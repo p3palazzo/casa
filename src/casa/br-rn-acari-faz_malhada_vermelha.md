@@ -11,6 +11,7 @@ coverage:
     location:
       lat : -7.183696
       long: -42.021646
+      zoom: 9
       name: 
         text: "Fazenda Malhada Vermelha"
         type: "corporate"

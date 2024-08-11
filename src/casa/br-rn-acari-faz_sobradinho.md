@@ -11,6 +11,7 @@ coverage:
     location:
       lat : -6.22585
       long: -36.34021
+      zoom: 9
       name: 
         text: "Fazenda Sobradinho"
         type: "corporate"

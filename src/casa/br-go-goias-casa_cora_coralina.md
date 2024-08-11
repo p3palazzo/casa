@@ -1,18 +1,69 @@
 ---
 title: "Casa de Cora Coralina"
+titleType: "owner"
 author: "Eduarda Toscano"
+bibliographicCitation:
+  citekey : "@silva:2022panorama"
+  href    : "https://repositorio.unb.br/handle/10482/43399"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 65
 coverage:
   spatial:
     location:
-      lat    :
-      long   :
+      lat    : -15.932278
+      long   : -50.140194
+      alt    : 490
       name   :
-        text:
+        text : "rua D. Cândido, 22"
       city   : "Goiás"
       state  : "Goiás"
       country: "BR"
+  temporal:
+    events:
+      - type        : "creation"
+        text:
+          headline  : "Construção"
+          text: >-
+            Casa construída por Antônio de Souza Telles, juiz da Câmara
+            e capitão-mor da Vila Boa de Goiás.
+        start_date:
+          year      : "1770"
+        qualifier   : "c."
+        display_date: "c. 1770"
+      - type: "other"
+        text:
+          headline  : "Propriedade"
+          text: >-
+            Propriedade do cônego Manuel José do Couto
+            Guimarães, tio de Cora Coralina.
+        start_date:
+          year: "1854"
+        display_date: "1854"
+      - type: "other"
+        text:
+          headline  : "Propriedade"
+          text: >-
+            Morte da proprietária Ana Lins dos Guimarães Peixoto Bretas,
+            conhecida como Cora Coralina.
+        start_date:
+          year: "1985"
+        display_date: "1985"
+creator:
+  - name: "Antônio de Souza Telles de Menezes"
+    type: "personal"
+    role: "commission"
+contributor:
+  - name: "Manuel José do Couto Guimarães"
+    type: "personal"
+    role: "owner"
+  - name: "Ana Lins dos Guimarães Peixoto Bretas"
+    type: "personal"
+    role: "owner"
+---
+
+---
+nocite: >
+  @silva:2022panorama
 ---
 

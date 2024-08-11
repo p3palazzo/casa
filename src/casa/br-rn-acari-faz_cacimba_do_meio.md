@@ -11,6 +11,7 @@ coverage:
     location:
       lat : -6.368965
       long: -36.569208
+      zoom: 9
       name: 
         text: "Fazenda Cacimba do Meio"
         type: "corporate"

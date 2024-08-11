@@ -11,6 +11,7 @@ coverage:
     location:
       lat : -6.498010
       long: -36.661203
+      zoom: 9
       name: 
         text: "Fazenda Pitombeiras"
         type: "corporate"

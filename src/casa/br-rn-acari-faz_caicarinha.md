@@ -11,6 +11,7 @@ coverage:
     location:
       lat : -6.435054
       long: -36.640890
+      zoom: 9
       name: 
         text: "Fazenda Caiçarinha"
         type: "corporate"

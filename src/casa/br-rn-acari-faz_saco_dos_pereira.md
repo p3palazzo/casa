@@ -11,6 +11,7 @@ coverage:
     location:
       lat : -6.420274
       long: -36.613573
+      zoom: 9
       name: 
         text: "Fazenda Saco dos Pereira"
         type: "corporate"

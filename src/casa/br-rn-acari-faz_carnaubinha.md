@@ -11,6 +11,7 @@ coverage:
     location:
       lat : -6.525442
       long: -37.052143
+      zoom: 11
       name: 
         text: "Fazenda Carnaubinha"
         type: "corporate"

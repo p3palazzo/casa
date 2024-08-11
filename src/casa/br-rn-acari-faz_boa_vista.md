@@ -11,6 +11,7 @@ coverage:
     location:
       lat : -6.368960
       long: -36.569206
+      zoom: 9
       name: 
         text: "Fazenda Boa Vista"
         type: "corporate"

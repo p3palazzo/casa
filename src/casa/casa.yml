@@ -26,9 +26,8 @@
 title             : "" # Se a obra não tiver título próprio, usar um título descritivo sucinto.
 titleType         : "owner" # brandName, cited, creator, descriptive, former, inscribed, owner, popular, repository, translated, other
 # titles:           # Outros nomes para a mesma obra
-#   - type        : # brandName, cited, creator, descriptive, former, inscribed, owner, popular, repository, translated, other
+#   - type        : # Como titleType acima.
 #     text        :
-#     pref        : false, true
 date              : # Data de inclusão da ficha no nosso repositório no formato AAAA-MM-DD. Não confundir como campo `created` mais abaixo.
 author            : "" # Quem incluiu a ficha no repositório e preencheu esta ficha. Não confundir com o campo `creator` abaixo.
 excerpt: >- # Descrição sucinta para aparecer em listagens. Começar
@@ -52,7 +51,7 @@ excerpt: >- # Descrição sucinta para aparecer em listagens. Começar
 #contributor:        # Lista de outros envolvidos no ciclo de vida da obra.
 #  - name          : "" # Seguir as mesmas instruções que o campo `creator`.
 #    type          : ""
-#    role          : "" # Usar mesmos tipos que as datas?
+#    role          : "" # Usar mesmos tipos que as datas e direitos
 #    attribution   : ""
 #    vocab         : ""
 #    refid         : ""
@@ -86,14 +85,6 @@ bibliographiCitation: # Fonte de autoridade para informações básicas sobre a 
 #     refid : ""  # Número de processo, cadastro ou publicação.
 #     text  : ""  # Caso necessário para indicar livros do tombo, etc.
 #     href  : ""  # Caso exista um link para uma ficha na instituição de origem.
-created:            # Data de criação da obra, não confundir com o campo `date` acima.
-  date            : # Obrigatório, no formato ISO (AAAA-MM-DD). Os demais campos são opcionais
-  qualifier       : "" # Ressalvas à data precisa, tais como 'c.', 'após', 'provavelmente', etc.
-  display_date    : # Representação textual complexa, caso necessário.
-  source:           # Fonte de autoridade para a data indicada.
-    citekey       : "" # Seguir as instruções do campo `bibliographicCitation` acima.
-    href          : ""
-    text          : ""
 coverage:
   spatial:    
     ###################################################################

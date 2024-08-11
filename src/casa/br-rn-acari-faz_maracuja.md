@@ -11,6 +11,7 @@ coverage:
     location:
       lat : -6.444080
       long: -36.640751
+      zoom: 9
       name: 
         text: "Fazenda Maracujá"
         type: "corporate"

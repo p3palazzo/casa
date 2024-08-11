@@ -11,6 +11,7 @@ coverage:
     location:
       lat : -6.479021
       long: -36.627854
+      zoom: 9
       name: 
         text: "Fazenda Ingá"
         type: "corporate"

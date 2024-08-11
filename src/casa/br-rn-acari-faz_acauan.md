@@ -11,6 +11,7 @@ coverage:
     location:
       lat : -6.375379
       long: -36.569374
+      zoom: 9
       name:
         text: "Fazenda Acauã"
         type: "corporate"
