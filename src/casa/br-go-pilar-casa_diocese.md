@@ -3,7 +3,8 @@ title: "Casa da diocese"
 titles:
   - type: "former"
     text: "Casa de Dona Otília"
-author: "Eduarda Toscano"
+author: Eduarda Toscano
+date: 2022-09-26
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 75

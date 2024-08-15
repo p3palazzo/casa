@@ -1,6 +1,7 @@
 ---
 title: "Biblioteca Antônio Torres"
-author: "Eduarda Toscano"
+author: Eduarda Toscano
+date: 2022-09-26
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 84

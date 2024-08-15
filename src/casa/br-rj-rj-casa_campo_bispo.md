@@ -1,6 +1,7 @@
 ---
 title: "Casa do campo do Bispo"
-author: "Eduarda Toscano"
+author: Eduarda Toscano
+date: 2022-09-26
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 95

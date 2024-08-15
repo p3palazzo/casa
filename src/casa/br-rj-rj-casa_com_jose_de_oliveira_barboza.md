@@ -1,6 +1,7 @@
 ---
 title: "Casa do comendador José de Oliveira Barboza"
-author: "Eduarda Toscano"
+author: Eduarda Toscano
+date: 2022-09-26
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 96

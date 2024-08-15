@@ -1,7 +1,8 @@
 ---
 title: "Casa de Cora Coralina"
 titleType: "owner"
-author: "Eduarda Toscano"
+author: Eduarda Toscano
+date: 2022-09-26
 bibliographicCitation:
   citekey : "@silva:2022panorama"
   href    : "https://repositorio.unb.br/handle/10482/43399"

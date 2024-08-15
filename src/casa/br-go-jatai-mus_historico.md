@@ -4,7 +4,8 @@ titleType : "brandName"
 titles:
   - type  : "former"
     text  : "Residência Francisco Honório de Campos"
-author    : "Eduarda Toscano"
+author: Eduarda Toscano
+date: 2022-09-26
 bibliographicCitation:
   citekey : "@silva:2022panorama"
   href    : "https://repositorio.unb.br/handle/10482/43399"

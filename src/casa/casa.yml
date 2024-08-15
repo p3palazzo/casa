@@ -237,4 +237,7 @@ type:
       refid       : "04.2"
 layout: "layouts/obra.njk"
 tags: [ "casa", "edificio" ]
-css: [ "/assets/leaflet/leaflet.css" ]
+css:
+  - "/assets/leaflet/leaflet.css"
+  - "/assets/timelinejs/css/timeline.css"
+toc: true
