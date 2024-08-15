@@ -27,7 +27,7 @@ coverage:
           rua Morais Filho, 270<br />
           Campinas
       city   : "Goiânia"
-      state  : "Goiás"
+      state  : BR-GO
       country: "BR"
       locationHistoric:
         - "Campinas"

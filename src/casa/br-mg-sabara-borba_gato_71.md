@@ -16,7 +16,7 @@ coverage:
           Rua Borba Gato, 71<br />
           34.505-830
       city: "Sabará"
-      state: "Minas Gerais"
+      state: BR-MG
       country: "BR"
     extent:
       - type: "area"

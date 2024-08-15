@@ -14,7 +14,7 @@ coverage:
       name: 
         text: "rua Sete de Setembro, 86"
       city: "Natividade"
-      state: "Tocantins"
+      state: BR-TO
       country: "BR"
     extent:
       - type: "area"

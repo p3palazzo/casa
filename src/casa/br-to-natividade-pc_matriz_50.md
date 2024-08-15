@@ -14,7 +14,7 @@ coverage:
       name: 
         text: "praça da Matriz, 50"
       city: "Natividade"
-      state: "Tocantins"
+      state: BR-TO
       country: "BR"
     extent:
       - type: "area"

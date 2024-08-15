@@ -12,7 +12,7 @@ coverage:
       name   :
         text:
       city   : "Planaltina"
-      state  : "Distrito Federal"
+      state  : BR-DF
       country: "BR"
 ---
 

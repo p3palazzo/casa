@@ -14,7 +14,7 @@ coverage:
       name: 
         text: "rua Oswaldo Cruz, 3"
       city: "São Luiz do Paraitinga"
-      state: "São Paulo"
+      state: BR-SP
       country: "BR"
     extent:
       - type: "area"

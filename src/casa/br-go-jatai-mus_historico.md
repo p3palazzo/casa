@@ -40,7 +40,7 @@ coverage:
       name:
         text : "rua José Manuel Villela, 286"
       city   : "Jataí"
-      state  : "Goiás"
+      state  : BR-GO
       country: "BR"
       locationHistoric:
         - "Jatahy"

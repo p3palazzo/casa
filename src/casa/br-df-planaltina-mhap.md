@@ -19,7 +19,7 @@ coverage:
       long   : -47.661444
       alt    : 948.16
       city   : "Planaltina"
-      state  : "Distrito Federal"
+      state  : BR-DF
       country: "BR"
       locationHistoric:
         - "Mestre d'Armas"

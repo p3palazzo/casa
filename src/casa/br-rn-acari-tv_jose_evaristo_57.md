@@ -14,7 +14,7 @@ coverage:
       name: 
         text: "travessa José Evaristo, 57"
       city: "Acari"
-      state: "Rio Grande do Norte"
+      state: BR-RN
       country: "BR"
     extent:
       - type: "area"

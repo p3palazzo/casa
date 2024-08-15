@@ -14,7 +14,7 @@ coverage:
       name: 
         text: "travessa Luiz Nery, 76"
       city: "Laguna"
-      state: "Santa Catarina"
+      state: BR-SC
       country: "BR"
     extent:
       - type: "area"

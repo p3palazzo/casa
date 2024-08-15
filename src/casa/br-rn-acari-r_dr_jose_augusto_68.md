@@ -14,7 +14,7 @@ coverage:
       name: 
         text: "rua Dr. José Augusto, 68"
       city: "Acari"
-      state: "Rio Grande do Norte"
+      state: BR-RN
       country: "BR"
     extent:
       - type: "area"

@@ -12,7 +12,7 @@ coverage:
       name   :
         text:
       city   : "Pirenópolis"
-      state  : "Goiás"
+      state  : BR-GO
       country: "BR"
 ---
 

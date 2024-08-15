@@ -12,7 +12,7 @@ coverage:
       name   :
         text:
       city   : "Arraias"
-      state  : "Goiás"
+      state  : BR-GO
       country: "BR"
 ---
 

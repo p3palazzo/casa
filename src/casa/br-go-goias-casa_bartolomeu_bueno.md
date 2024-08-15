@@ -10,6 +10,11 @@ author: "Eduarda Toscano"
 bibliographicCitation:
   citekey : "@silva:2022panorama"
   href    : "https://repositorio.unb.br/handle/10482/43399"
+contributor:
+  - type  : "owner"
+    name  : "Leonardo Lacerda"
+  - type  : "formerOwner"
+    name  : "Bartolomeu Bueno da Silva II"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 64
@@ -22,7 +27,7 @@ coverage:
       name   :
         text : "rua Bartolomeu Bueno, 30"
       city   : "Goiás"
-      state  : "Goiás"
+      state  : BR-GO
       country: "BR"
   temporal:
     events:

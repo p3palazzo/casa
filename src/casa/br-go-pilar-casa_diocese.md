@@ -19,7 +19,7 @@ coverage:
       name:
         text: "Rua da Matriz s/n"
       city   : "Pilar"
-      state  : "Goiás"
+      state  : BR-GO
       country: "BR"
   temporal:
     events:

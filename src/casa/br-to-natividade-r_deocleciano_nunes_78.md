@@ -14,7 +14,7 @@ coverage:
       name: 
         text: "rua Coronel Deocleciano Nunesl, 78"
       city: "Natividade"
-      state: "Tocantins"
+      state: BR-TO
       country: "BR"
     extent:
       - type: "area"

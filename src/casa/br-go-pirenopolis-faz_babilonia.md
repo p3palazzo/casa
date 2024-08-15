@@ -35,7 +35,7 @@ coverage:
       name:
         text : "Rodovia GO–431, km 3"
       city   : "Pirenópolis"
-      state  : "Goiás"
+      state  : BR-GO
       country: "BR"
       locationHistoric:
         - "Meia Ponte"

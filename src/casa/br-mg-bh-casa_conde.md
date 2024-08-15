@@ -12,7 +12,7 @@ coverage:
       name   :
         text:
       city   : "Belo Horizonte"
-      state  : "Minas Gerais"
+      state  : BR-MG
       country: "BR"
 ---
 

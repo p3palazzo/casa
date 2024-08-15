@@ -16,7 +16,7 @@ coverage:
         text: "Fazenda Malhada Vermelha"
         type: "corporate"
       city: "Acari"
-      state: "Rio Grande do Norte"
+      state: BR-RN
       country: "BR"
     extent:
       - type: "area"

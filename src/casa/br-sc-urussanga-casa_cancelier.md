@@ -16,7 +16,7 @@ coverage:
            rodovia Anes Gualberto (SC–446), km 12<br />
            Rio Maior
       city: "Urussanga"
-      state: "Santa Catarina"
+      state: BR-SC
       country: "BR"
     extent:
       - type: "area"

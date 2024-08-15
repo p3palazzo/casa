@@ -14,7 +14,7 @@ coverage:
       name: 
         text: "praça Getúlio Vargas, 66"
       city: "São Francisco do Sul"
-      state: "Santa Catarina"
+      state: BR-SC
       country: "BR"
     extent:
       - type: "area"

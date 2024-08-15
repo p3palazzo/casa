@@ -12,7 +12,7 @@ coverage:
       name   :
         text:
       city   : "Ouro Preto"
-      state  : "Minas Gerais"
+      state  : BR-MG
       country: "BR"
 ---
 

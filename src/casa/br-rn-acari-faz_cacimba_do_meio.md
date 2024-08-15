@@ -16,7 +16,7 @@ coverage:
         text: "Fazenda Cacimba do Meio"
         type: "corporate"
       city: "Acari"
-      state: "Rio Grande do Norte"
+      state: BR-RN
       country: "BR"
     extent:
       - type: "area"

@@ -14,7 +14,7 @@ coverage:
       name: 
         text: "rua Barão de Paraitinga, 26"
       city: "São Luiz do Paraitinga"
-      state: "São Paulo"
+      state: BR-SP
       country: "BR"
     area: 280
     unit: "m²"

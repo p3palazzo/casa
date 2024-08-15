@@ -12,7 +12,7 @@ coverage:
       name   :
         text:
       city   : "Taguatinga"
-      state  : "Goiás"
+      state  : BR-GO
       country: "BR"
 ---
 

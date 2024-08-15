@@ -12,7 +12,7 @@ coverage:
       name   :
         text:
       city   : "Monte Alegre"
-      state  : "Goiás"
+      state  : BR-GO
       country: "BR"
 ---
 

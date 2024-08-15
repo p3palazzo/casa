@@ -30,7 +30,7 @@ coverage:
       name   :
         text : "rua Nova, 29"
       city   : "Pirenópolis"
-      state  : "Goiás"
+      state  : BR-GO
       country: "BR"
       locationHistoric:
         - "Meia Ponte"

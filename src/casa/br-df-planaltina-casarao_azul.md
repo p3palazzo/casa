@@ -35,7 +35,7 @@ coverage:
           Setor Tradicional<br />
           73.330
       city   : "Planaltina"
-      state  : "Distrito Federal"
+      state  : BR-DF
       country: "BR"
       locationHistoric:
         - "Mestre d'Armas"

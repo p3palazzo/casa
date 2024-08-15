@@ -14,7 +14,7 @@ coverage:
       name: 
         text: "travessa Manoel Pinho, 51"
       city: "Laguna"
-      state: "Santa Catarina"
+      state: BR-SC
       country: "BR"
     extent:
       - type: "area"

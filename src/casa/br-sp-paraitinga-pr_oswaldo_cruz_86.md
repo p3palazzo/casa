@@ -14,7 +14,7 @@ coverage:
       name: 
         text: "praça Oswaldo Cruz, 86"
       city: "São Luiz do Paraitinga"
-      state: "São Paulo"
+      state: BR-SP
       country: "BR"
     area: 210
     unit: "m²"

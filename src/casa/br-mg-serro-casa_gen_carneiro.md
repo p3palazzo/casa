@@ -12,7 +12,7 @@ coverage:
       name   :
         text:
       city   : "Serro"
-      state  : "Minas Gerais"
+      state  : BR-MG
       country: "BR"
       locationHistoric:
         - "Serro Frio"

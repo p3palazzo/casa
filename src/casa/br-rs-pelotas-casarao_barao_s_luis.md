@@ -12,7 +12,7 @@ coverage:
       name   :
         text:
       city   : "Pelotas"
-      state  : "Rio Grande do Sul"
+      state  : BR-RS
       country: "BR"
 ---
 

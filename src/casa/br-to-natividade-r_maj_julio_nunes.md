@@ -14,7 +14,7 @@ coverage:
       name: 
         text: "rua Major Julio Nunes"
       city: "Natividade"
-      state: "Tocantins"
+      state: BR-TO
       country: "BR"
     extent:
       - type: "area"

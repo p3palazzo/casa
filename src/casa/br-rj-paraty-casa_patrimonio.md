@@ -12,7 +12,7 @@ coverage:
       name   :
         text:
       city   : "Paraty"
-      state  : "Rio de Janeiro"
+      state  : BR-RJ
       country: "BR"
 ---
 

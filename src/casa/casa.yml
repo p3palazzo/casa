@@ -25,9 +25,10 @@
 ########################################################################
 title             : "" # Se a obra não tiver título próprio, usar um título descritivo sucinto.
 titleType         : "owner" # brandName, cited, creator, descriptive, former, inscribed, owner, popular, repository, translated, other
-# titles:           # Outros nomes para a mesma obra
+# alternative:      # Outros nomes pelos quais a obra é conhecida.
 #   - type        : # Como titleType acima.
 #     text        :
+#     source:       # usar campos como bibliographicCitation abaixo.
 date              : # Data de inclusão da ficha no nosso repositório no formato AAAA-MM-DD. Não confundir como campo `created` mais abaixo.
 author            : "" # Quem incluiu a ficha no repositório e preencheu esta ficha. Não confundir com o campo `creator` abaixo.
 excerpt: >- # Descrição sucinta para aparecer em listagens. Começar
@@ -38,10 +39,11 @@ excerpt: >- # Descrição sucinta para aparecer em listagens. Começar
 # Os agentes listados nos campos abaixo podem ser pessoas, grupos de   #
 # pessoas tratados coletivamente, ou instituições.                     #
 ########################################################################
-#creator:            # Quem criou a própria obra, não confundir com o campo `author` acima e nem com o autor de representações iconográficas (por exemplo, autor de um levantamento do exitente).
+#creator:            # Quem criou ou alterou a própria obra, não confundir com o campo `author` acima e nem com o autor de representações iconográficas (por exemplo, autor de um levantamento do exitente).
 #  - name          : ""
 #    type          : "" # personal, corporate, family, other
 #    attribution   : "" # atribuição, escola de, baseado em, cópia de, etc.
+#    role          : "" # creation, design, alteration, restoration
 #    vocab         : "" # Caso seja usado um vocabulário controlado para padronizar...
 #    refid         : "" # ...nomes de agentes, preencher as linhas `vocab` e `refid`.
 #    href          : "" # Em vez de vocabulário controlado, pode-se usar um link para
@@ -51,7 +53,15 @@ excerpt: >- # Descrição sucinta para aparecer em listagens. Começar
 #contributor:        # Lista de outros envolvidos no ciclo de vida da obra.
 #  - name          : "" # Seguir as mesmas instruções que o campo `creator`.
 #    type          : ""
-#    role          : "" # Usar mesmos tipos que as datas e direitos
+#    role          : "" # Usar mesmos tipos que temporal:events:type e spatial:location:type
+                        # creation, discovery, exhibition, formerOwner,
+                        # formerRepository, formerSite, installation,
+                        # intended, owner, performance, publication,
+                        # repository, site, other
+                        # alteration, broadcast, bulk, commission,
+                        # creation, design, destruction, discovery,
+                        # exhibition, inclusive, performance,
+                        # publication, restoration, view, other
 #    attribution   : ""
 #    vocab         : ""
 #    refid         : ""

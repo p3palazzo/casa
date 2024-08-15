@@ -17,7 +17,7 @@ coverage:
       name   :
         text : "rua D. Cândido, 22"
       city   : "Goiás"
-      state  : "Goiás"
+      state  : BR-GO
       country: "BR"
   temporal:
     events:

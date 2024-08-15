@@ -10,7 +10,7 @@ coverage:
         text: |
           rua São Francisco, 32
       city: "Salvador"
-      state: "Bahia"
+      state: BR-BA
       country: "BR"
       locationHistoric:
         - "Travessa do Ximenes"

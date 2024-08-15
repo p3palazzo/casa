@@ -17,7 +17,7 @@ coverage:
       name   :
         text : "rua Vigário Álvares da Silva, 63"
       city   : "Jaraguá"
-      state  : "Goiás"
+      state  : BR-GO
       country: "BR"
   temporal:
     events:

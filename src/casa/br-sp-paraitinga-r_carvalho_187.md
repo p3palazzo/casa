@@ -14,7 +14,7 @@ coverage:
       name: 
         text: "rua do Carvalho, 187"
       city: "São Luiz do Paraitinga"
-      state: "São Paulo"
+      state: BR-SP
       country: "BR"
     area: 50 
     unit: "m²"

@@ -14,7 +14,7 @@ coverage:
       name: 
         text: "rua Barão de Paraitinga, 34"
       city: "São Luiz do Paraitinga"
-      state: "São Paulo"
+      state: BR-SP
       country: "BR"
     extent:
       - type: "area"

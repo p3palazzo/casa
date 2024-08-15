@@ -12,7 +12,7 @@ coverage:
       name   :
         text:
       city   : "São Cristóvão"
-      state  : "Sergipe"
+      state  : BR-SE
       country: "BR"
 ---
 

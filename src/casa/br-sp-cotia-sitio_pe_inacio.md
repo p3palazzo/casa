@@ -12,7 +12,7 @@ coverage:
       name   :
         text:
       city   : "Cotia"
-      state  : "São Paulo"
+      state  : BR-SP
       country: "BR"
 ---
 

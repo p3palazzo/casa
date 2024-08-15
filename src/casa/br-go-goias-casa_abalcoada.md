@@ -1,7 +1,7 @@
 ---
 title     : "Casa abalcoada"
 titleType : "popular"
-titles:
+alternative:
   - type  : "owner"
     text  : "Residência Gustavo Neiva e Milena d'Ayala"
   - type  : "former"
@@ -12,6 +12,13 @@ author    : "Eduarda Toscano"
 bibliographicCitation:
   citekey : "@silva:2022panorama"
   href    : "https://repositorio.unb.br/handle/10482/43399"
+contributor:
+  - name  : "Gustavo Neiva Coelho"
+    type  : "personal"
+    role  : "owner"
+  - name  : "Milena d'Ayala"
+    type  : "personal"
+    role  : "owner"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 63
@@ -24,7 +31,7 @@ coverage:
       name   :
         text : "rua da Carioca, s/n"
       city   : "Goiás"
-      state  : "Goiás"
+      state  : BR-GO
       country: "BR"
   temporal:
     events:

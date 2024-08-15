@@ -14,7 +14,7 @@ coverage:
       name: 
         text: "rua Barão de Paraitinga, 4"
       city: "São Luiz do Paraitinga"
-      state: "São Paulo"
+      state: BR-SP
       country: "BR"
     area: 210
     unit: "m²"

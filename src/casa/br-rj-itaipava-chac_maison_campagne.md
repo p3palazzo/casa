@@ -12,7 +12,7 @@ coverage:
       name   :
         text:
       city   : "Itaipava"
-      state  : "Rio de Janeiro"
+      state  : BR-RJ
       country: "BR"
 ---
 

@@ -30,7 +30,7 @@ coverage:
       name:
         text : "rua Félix Curado, 143"
       city   : "Corumbá"
-      state  : "Goiás"
+      state  : BR-GO
       country: "BR"
   temporal:
     events:

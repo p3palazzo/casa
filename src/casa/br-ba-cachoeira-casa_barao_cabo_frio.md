@@ -12,6 +12,6 @@ coverage:
       name   :
         text:
       city   : "Cachoeira"
-      state  : "Bahia"
+      state  : BR-BA
       country: "BR"
 ---
