@@ -1,10 +1,6 @@
 ---
 title: "Casa à rua Tomaz Araújo, 185"
 date: 2024-05-02
-created:
-  date: 1800-01-01
-  qualifier: "c. "
-  display_date: "c. 1800"
 author: Eduarda Santana
 coverage:
   spatial:
@@ -20,6 +16,15 @@ coverage:
       - type: "area"
         measurements: 86
         unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1800
+        qualifier: "c."
+        display_date: "c. 1800"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 25

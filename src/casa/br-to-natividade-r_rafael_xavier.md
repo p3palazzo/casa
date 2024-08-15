@@ -1,10 +1,6 @@
 ---
 title: "Casa à rua Rafael Xavier, sem número"
 date: 2024-05-02
-created:
-  date: 1890-01-01
-  qualifier: "c. "
-  display_date: "c. 1890"
 author: Eduarda Santana
 coverage:
   spatial:
@@ -20,6 +16,10 @@ coverage:
       - type: "area"
         measurements: 184.88
         unit: "m²"
+  created:
+    date: 1890-01-01
+    qualifier: "c. "
+    display_date: "c. 1890"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 42

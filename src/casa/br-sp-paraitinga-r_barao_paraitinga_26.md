@@ -1,10 +1,6 @@
 ---
 title: "Três sobrados gêmeos, Barão de Paraitinga, 26 e 4 e praça Oswaldo Cruz"
 date: 2024-05-02
-created:
-  date: 1870-01-01
-  qualifier: "c. "
-  display_date: "c. 1870"
 author: Eduarda Santana
 coverage:
   spatial:
@@ -18,6 +14,15 @@ coverage:
       country: "BR"
     area: 280
     unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1870
+        qualifier: "c."
+        display_date: "c. 1870"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 29

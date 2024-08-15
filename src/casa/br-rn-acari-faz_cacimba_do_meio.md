@@ -1,10 +1,6 @@
 ---
 title: "Fazenda Cacimba do Meio"
 date: 2024-05-02
-created:
-  date: 1855-01-01
-  qualifier: "c. "
-  display_date: "c. 1855"
 author: Eduarda Santana
 coverage:
   spatial:
@@ -22,6 +18,15 @@ coverage:
       - type: "area"
         measurements: 155
         unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1855
+        qualifier: "c."
+        display_date: "c. 1855"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 7

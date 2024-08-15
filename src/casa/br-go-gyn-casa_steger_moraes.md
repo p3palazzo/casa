@@ -1,5 +1,5 @@
 ---
-title     : "Residência Karl Bartolome Steger e Barbara da Silva Moraes"
+title     : "Residência Karl Bartolomeo Steger e Barbara da Silva Moraes"
 titleType : "owner"
 author    : "Pedro Palazzo"
 date      : 2024-08-09

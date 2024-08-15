@@ -1,10 +1,6 @@
 ---
 title: "Fazenda Caiçarinha"
 date: 2024-05-02
-created:
-  date: 1852-01-01
-  qualifier: "c. "
-  display_date: "c. 1852"
 author: Eduarda Santana
 coverage:
   spatial:
@@ -22,6 +18,15 @@ coverage:
       - type: "area"
         measurements: 172
         unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1852
+        qualifier: "c."
+        display_date: "c. 1852"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 8

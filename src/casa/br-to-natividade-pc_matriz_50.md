@@ -1,10 +1,6 @@
 ---
 title: "Casa à Praça da Matriz, 50"
 date: 2024-05-02
-created:
-  date: 1750-01-01
-  qualifier: "c. "
-  display_date: "c. 1750"
 author: Eduarda Santana
 coverage:
   spatial:
@@ -20,6 +16,15 @@ coverage:
       - type: "area"
         measurements: 236.88
         unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1750
+        qualifier: "c."
+        display_date: "c. 1750"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 40

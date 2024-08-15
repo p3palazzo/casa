@@ -1,10 +1,6 @@
 ---
 title: "Fazenda Caiçarinha de baixo"
 date: 2024-05-02
-created:
-  date: 1890-01-01
-  qualifier: "c. "
-  display_date: "c. 1890"
 author: Eduarda Santana
 coverage:
   spatial:
@@ -22,6 +18,15 @@ coverage:
       - type: "area"
         measurements: 139
         unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1890
+        qualifier: "c."
+        display_date: "c. 1890"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 9
