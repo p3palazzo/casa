@@ -47,7 +47,7 @@ coverage:
           headline: "Construção"
           text: "Período provável de construção do Casarão azul"
         media:
-          href: https://placehold.co/600x400
+          url: https://placehold.co/600x400
           caption: "Legenda"
           credit: "ArPDF"
           alt: "Foto em preto-e-branco de um casario com um jatobá no primeiro plano"
