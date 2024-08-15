@@ -15,7 +15,7 @@ coverage:
         text: |
           Rua da Cadeia, 188
       city: "Pilar de Goiás"
-      state: "Goiás"
+      state: BR-GO
       country: "BR"
     extent:
       - type: "area"

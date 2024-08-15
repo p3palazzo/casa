@@ -1,26 +1,32 @@
 ---
 title: "Fazenda Acauã"
 date: 2024-05-02
-created:
-  date: 1850-01-01
-  qualifier: "c."
-  display_date: "c. 1850"
 author: Eduarda Santana
 coverage:
   spatial:
     location:
       lat : -6.375379
       long: -36.569374
+      zoom: 9
       name:
         text: "Fazenda Acauã"
         type: "corporate"
       city: "Acari"
-      state: "Rio Grande do Norte"
+      state: BR-RN
       country: "BR"
     extent:
       - type: "area"
         measurements: 104
         unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1850
+        qualifier: "c."
+        display_date: "c. 1850"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 5

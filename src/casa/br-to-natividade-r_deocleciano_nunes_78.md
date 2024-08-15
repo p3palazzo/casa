@@ -1,10 +1,6 @@
 ---
 title: "Casa à rua Coronel Deocleciano Nunes, 78"
 date: 2024-05-02
-created:
-  date: 1750-01-01
-  qualifier: "c. "
-  display_date: "c. 1750"
 author: "Eduarda Santana"
 coverage:
   spatial:
@@ -14,12 +10,21 @@ coverage:
       name: 
         text: "rua Coronel Deocleciano Nunesl, 78"
       city: "Natividade"
-      state: "Tocantins"
+      state: BR-TO
       country: "BR"
     extent:
       - type: "area"
         measurements: 165.45
         unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1750
+        qualifier: "c."
+        display_date: "c. 1750"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 39

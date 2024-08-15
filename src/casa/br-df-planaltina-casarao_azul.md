@@ -35,7 +35,7 @@ coverage:
           Setor Tradicional<br />
           73.330
       city   : "Planaltina"
-      state  : "Distrito Federal"
+      state  : BR-DF
       country: "BR"
       locationHistoric:
         - "Mestre d'Armas"
@@ -47,7 +47,7 @@ coverage:
           headline: "Construção"
           text: "Período provável de construção do Casarão azul"
         media:
-          href: https://placehold.co/600x400
+          url: https://placehold.co/600x400
           caption: "Legenda"
           credit: "ArPDF"
           alt: "Foto em preto-e-branco de um casario com um jatobá no primeiro plano"

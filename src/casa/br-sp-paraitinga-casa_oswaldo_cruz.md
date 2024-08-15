@@ -1,10 +1,6 @@
 ---
 title: "Casa natal de Oswaldo Cruz"
 date: 2024-05-02
-created:
-  date: 1834-01-01
-  qualifier: "c. "
-  display_date: "c. 1834"
 author: Eduarda Santana
 coverage:
   spatial:
@@ -14,12 +10,21 @@ coverage:
       name: 
         text: "Rua Oswaldo Cruz, 4"
       city: "São Luiz do Paraitinga"
-      state: "São Paulo"
+      state: BR-SP
       country: "BR"
     extent:
       - type: "area"
         measurements: 360
         unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1834
+        qualifier: "c."
+        display_date: "c. 1834"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 32

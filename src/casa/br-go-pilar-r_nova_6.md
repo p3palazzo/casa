@@ -15,7 +15,7 @@ coverage:
         text: |
           Rua Nova, 6
       city: "Pirenópolis"
-      state: "Goiás"
+      state: BR-GO
       country: "BR"
     extent:
       - type: "area"

@@ -1,10 +1,6 @@
 ---
 title: "Casa à Travessa Manoel Pinho, 51"
 date: 2024-05-02
-created:
-  date: 1845-01-01
-  qualifier: "c. "
-  display_date: "c. 1845"
 author: Eduarda Santana
 coverage:
   spatial:
@@ -14,12 +10,21 @@ coverage:
       name: 
         text: "travessa Manoel Pinho, 51"
       city: "Laguna"
-      state: "Santa Catarina"
+      state: BR-SC
       country: "BR"
     extent:
       - type: "area"
         measurements: 120
         unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1845
+        qualifier: "c."
+        display_date: "c. 1845"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 3

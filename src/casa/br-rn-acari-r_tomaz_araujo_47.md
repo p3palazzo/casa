@@ -1,10 +1,6 @@
 ---
 title: "Casa à rua Tomaz Araújo, 47"
 date: 2024-05-02
-created:
-  date: 1880-01-01
-  qualifier: "c. "
-  display_date: "c. 1880"
 author: Eduarda Santana
 coverage:
   spatial:
@@ -14,12 +10,21 @@ coverage:
       name: 
         text: "rua Tomaz Araújo, 47"
       city: "Acari"
-      state: "Rio Grande do Norte"
+      state: BR-RN
       country: "BR"
     extent:
       - type: "area"
         measurements: 139
         unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1880
+        qualifier: "c."
+        display_date: "c. 1880"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 27

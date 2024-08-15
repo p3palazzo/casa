@@ -15,7 +15,7 @@ coverage:
         text: |
           Rua Direita (Praça das Mães), 32
       city: "Pilar de Goiás"
-      state: "Goiás"
+      state: BR-GO
       country: "BR"
     extent:
       - type: "area"

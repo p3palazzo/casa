@@ -1,10 +1,6 @@
 ---
 title: "Casa à rua Tomaz Araújo, 169"
 date: 2024-05-02
-created:
-  date: 1810-01-01
-  qualifier: "c. "
-  display_date: "c. 1810"
 author: Eduarda Santana
 coverage:
   spatial:
@@ -14,12 +10,21 @@ coverage:
       name: 
         text: "rua Tomaz Araújo, 169"
       city: "Acari"
-      state: "Rio Grande do Norte"
+      state: BR-RN
       country: "BR"
     extent:
       - type: "area"
         measurements: 80
         unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1810
+        qualifier: "c."
+        display_date: "c. 1810"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 24

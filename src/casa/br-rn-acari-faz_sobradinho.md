@@ -1,26 +1,32 @@
 ---
 title: "Fazenda Sobradinho"
 date: 2024-05-02
-created:
-  date: 1835-01-01
-  qualifier: "c. "
-  display_date: "c. 1835"
 author: Eduarda Santana
 coverage:
   spatial:
     location:
       lat : -6.22585
       long: -36.34021
+      zoom: 9
       name: 
         text: "Fazenda Sobradinho"
         type: "corporate"
       city: "Acari"
-      state: "Rio Grande do Norte"
+      state: BR-RN
       country: "BR"
     extent:
       - type: "area"
         measurements: 163
         unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1835
+        qualifier: "c."
+        display_date: "c. 1835"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 16

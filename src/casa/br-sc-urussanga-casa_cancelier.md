@@ -1,10 +1,6 @@
 ---
 title: "Casa Ivanir Cancelier"
 date: 2024-05-02
-created:
-  date: 1880-01-01
-  qualifier: "c. "
-  display_date: "c. 1880"
 author: Eduarda Santana
 coverage:
   spatial:
@@ -16,12 +12,21 @@ coverage:
            rodovia Anes Gualberto (SC–446), km 12<br />
            Rio Maior
       city: "Urussanga"
-      state: "Santa Catarina"
+      state: BR-SC
       country: "BR"
     extent:
       - type: "area"
         measurements: 308.45
         unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1880
+        qualifier: "c."
+        display_date: "c. 1880"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 2

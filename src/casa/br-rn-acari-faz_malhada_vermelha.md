@@ -1,26 +1,32 @@
 ---
 title: "Fazenda Malhada Vermelha"
 date: 2024-05-02
-created:
-  date: 1830-01-01
-  qualifier: "c. "
-  display_date: "c. 1830"
 author: Eduarda Santana
 coverage:
   spatial:
     location:
       lat : -7.183696
       long: -42.021646
+      zoom: 9
       name: 
         text: "Fazenda Malhada Vermelha"
         type: "corporate"
       city: "Acari"
-      state: "Rio Grande do Norte"
+      state: BR-RN
       country: "BR"
     extent:
       - type: "area"
         measurements: 126
         unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1830
+        qualifier: "c."
+        display_date: "c. 1830"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 12

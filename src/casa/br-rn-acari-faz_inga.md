@@ -1,26 +1,32 @@
 ---
 title: "Fazenda Ingá"
 date: 2024-05-02
-created:
-  date: 1820-01-01
-  qualifier: "c. "
-  display_date: "c. 1820"
 author: Eduarda Santana
 coverage:
   spatial:
     location:
       lat : -6.479021
       long: -36.627854
+      zoom: 9
       name: 
         text: "Fazenda Ingá"
         type: "corporate"
       city: "Acari"
-      state: "Rio Grande do Norte"
+      state: BR-RN
       country: "BR"
     extent:
       - type: "area"
         measurements: 165
         unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1820
+        qualifier: "c."
+        display_date: "c. 1820"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 11

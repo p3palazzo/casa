@@ -1,26 +1,32 @@
 ---
 title: "Fazenda Boa Vista"
 date: 2024-05-02
-created:
-  date: 1857-01-01
-  qualifier: "c. "
-  display_date: "c. 1857"
 author: Eduarda Santana
 coverage:
   spatial:
     location:
       lat : -6.368960
       long: -36.569206
+      zoom: 9
       name: 
         text: "Fazenda Boa Vista"
         type: "corporate"
       city: "Acari"
-      state: "Rio Grande do Norte"
+      state: BR-RN
       country: "BR"
     extent:
       - type: "area"
         measurements: 92
         unit: "m²"
+  temporal:
+    events:
+      - type: "creation"
+        start_date:
+          year: 1857
+        qualifier: "c."
+        display_date: "c. 1857"
+        text:
+          headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 6
