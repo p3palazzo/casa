@@ -657,7 +657,7 @@ references:
     - year: 2003
   language: por
   number-of-pages: '257'
-  publisher: Editora <A acessibilidade nas casas burguesas do Porto>UCG
+  publisher: Editora <span font-variant="all-small-caps">UCG</span>
   publisher-place: Goiânia
   source: Library of Congress ISBN
   title: 'A casa goiana: documentação arquitetônica'
@@ -1103,8 +1103,8 @@ references:
   event-place: MG
   issued:
     - year: 2011
-      month: 10
-      day: 5
+      month: 5
+      day: 10
   language: por
   publisher: Renata Carleial de Casimiro
   publisher-place: MG
@@ -1278,5 +1278,24 @@ references:
   publisher: Editora UnB
   publisher-place: Brasília
   title: A apreensão da forma da cidade
+  type: book
+
+- id: vasconcellos:2011vila
+  author:
+    - family: Vasconcellos
+      given: Sylvio
+      dropping-particle: de
+  citation-key: vasconcellos:2011vila
+  collection-number: '100'
+  collection-title: Debates
+  edition: '2'
+  event-place: São Paulo
+  ISBN: 978-85-273-0923-3
+  issued:
+    - year: 2011
+  language: por
+  publisher: Perspectiva
+  publisher-place: São Paulo
+  title: Vila Rica
   type: book
 ...
