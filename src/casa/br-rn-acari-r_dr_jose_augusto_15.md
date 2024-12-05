@@ -2,6 +2,20 @@
 title: "Casa à rua Dr. José Augusto, 15"
 date: 2024-05-02
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@feijo:2002arquitetura"
+  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
+  text: >-
+    Feijó, Paulo Heider Forte.
+    <cite>«A arquitetura tradicional de Acari no século
+    <span style="font-variant:all-small-caps">XIX</span>:
+    estudo comparativo entre a casa-grande de fazenda e a casa
+    urbana».</cite>
+    Dissertação de Mestrado em Arquitetura e Urbanismo,
+    Universidade Federal do Rio Grande do Norte, 2002.
+    &lt;<a target="_blank"
+    href="https://repositorio.ufrn.br/handle/123456789/48279">
+    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
 coverage:
   spatial:
     location:
@@ -44,4 +58,4 @@ Esta casa é parte integrante de um conjunto de casas conjugadas, que mantêm su
 
 A platibanda, provavelmente introduzida na edificação posteriormente à sua febrica original, de composição elaborada, apresenta elementos aplicados, assim como trechos com caprichosos recortes. A cobertura mantém uma inclinação bastante acentuada, de aproximadamente 50%, construída nos padrões adotados naquela região à época, onde a madeira utilizada era extraída nas proximidades da construção. As peças de madeira, constituídas por brabos, terças, frechais e pontaletes são confeccionadas em aroeira lavrada à enxó, e em geral têm seção quadrada. 
 
-Os caibros são roliços, de pereiro, sendo que parte deles foi substituída por caibros serrados, de seção retangular. As ripas são também de seção retangular. As esquadrias são confeccionadas em cedro, recebendo dobradiças de cachimbo e fechaduras de grandes dimensões, seguindo modelo muito utilizado nas edificações de então. A porta da fachada principal, que dá acesso à saleta, é composta de três partes: a folha inferior e a superior,sendo esta, subdividida em outras duas. Embora não se constituindo num elemento de uso corrente, mas como uma excepcionalidade, há um cabide composto por um chifre de gado, engastado na parede.
+Os caibros são roliços, de pereiro, sendo que parte deles foi substituída por caibros serrados, de seção retangular. As ripas são também de seção retangular. As esquadrias são confeccionadas em cedro, recebendo dobradiças de cachimbo e fechaduras de grandes dimensões, seguindo modelo muito utilizado nas edificações de então. A porta da fachada principal, que dá acesso à saleta, é composta de três partes: a folha inferior e a superior,sendo esta, subdividida em outras duas. Embora não se constituindo num elemento de uso corrente, mas como uma excepcionalidade, há um cabide composto por um chifre de gado, engastado na parede. [@feijo:2002arquitetura]

@@ -2,6 +2,20 @@
 title: "Casa à rua Antônio Basília, 57"
 date: 2024-05-02
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@feijo:2002arquitetura"
+  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
+  text: >-
+    Feijó, Paulo Heider Forte.
+    <cite>«A arquitetura tradicional de Acari no século
+    <span style="font-variant:all-small-caps">XIX</span>:
+    estudo comparativo entre a casa-grande de fazenda e a casa
+    urbana».</cite>
+    Dissertação de Mestrado em Arquitetura e Urbanismo,
+    Universidade Federal do Rio Grande do Norte, 2002.
+    &lt;<a target="_blank"
+    href="https://repositorio.ufrn.br/handle/123456789/48279">
+    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
 coverage:
   spatial:
     location:
@@ -39,4 +53,4 @@ Na sala de visita, como elemento da estrutura da cobertura, encontra-se um brabo
 
 Nesta casa, na sala de jantar, observa-se a emenda de uma terça recaindo fora do seu ponto de apoio, com ensambladura conhecida como dente de lobo. Na despensa, podem ser encontrados cabides de madeira serrada e armadores de rede, feitos de galhos de mofumbo. Como se pôde observar, esse armador de mofumbo, amplamente utilizado nas casas rurais, tem seu emprego bastante disseminado também nas casas urbanas analisadas.
 
-A dobradiça utilizada em sua porta principal é do tipo cachimbo, que se constitui de duas partes: a que é fixada no marco da porta ou janela recebe a denominação de cachimbo, enquanto a outra, que se fixa na folha da esquadria, denomina-se leme. Essas dobradiças eram confeccionadas uma a uma, manualmente, por ferreiros, e tinham aplicação corrente nas edificações em estudo. Neste caso, o leme é fixado à esquadria através de cravos.
+A dobradiça utilizada em sua porta principal é do tipo cachimbo, que se constitui de duas partes: a que é fixada no marco da porta ou janela recebe a denominação de cachimbo, enquanto a outra, que se fixa na folha da esquadria, denomina-se leme. Essas dobradiças eram confeccionadas uma a uma, manualmente, por ferreiros, e tinham aplicação corrente nas edificações em estudo. Neste caso, o leme é fixado à esquadria através de cravos. [@feijo:2002arquitetura]

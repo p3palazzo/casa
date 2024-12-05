@@ -2,6 +2,20 @@
 title: "Fazenda Acauã"
 date: 2024-05-02
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@feijo:2002arquitetura"
+  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
+  text: >-
+    Feijó, Paulo Heider Forte.
+    <cite>«A arquitetura tradicional de Acari no século
+    <span style="font-variant:all-small-caps">XIX</span>:
+    estudo comparativo entre a casa-grande de fazenda e a casa
+    urbana».</cite>
+    Dissertação de Mestrado em Arquitetura e Urbanismo,
+    Universidade Federal do Rio Grande do Norte, 2002.
+    &lt;<a target="_blank"
+    href="https://repositorio.ufrn.br/handle/123456789/48279">
+    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
 coverage:
   spatial:
     location:
@@ -38,4 +52,4 @@ Através de vestígios encontrados no local, e de depoimentos dos moradores, con
 
 Na sala de visita, constata-se a existência de duas portas que se abrem para o alpendre, um armário embutido, com verga em arco pleno, localizado na  parede entre as mesmas, assim como janelas para as fachadas laterais. Estes elementos assim dis postos constituem uma composição muito  recorrente nas edificações rurais em análise. São com postas de duas folhas: a de baixo e a de cima. Enquanto a folha de baixo é mantida fechada e  a folha de cima aberta, essa porta passa a funcionar como janela. Esse tipo de esquadria é encontrado na maioria dos exemplares estudados, sejam  urbanos ou rurais.
 
-A existência de uma porta com duas bandas, similar às que são encontradas na fachada principal, ligando a sala de visita ao corredor é uma  característica peculiar não só às casas rurais, mas também às urbanas. Sobre esse corredor, podem ser observados os barrotes que sustentam o paiol  de farinha ora desativado. A opção pela escolha da localização do paiol sobre o corredor é uma constante, podendo ser identificada também em outros  exemplares aqui estudados. Esta casa foi construída com alvenarias de tijolo, como as demais casas aqui analisadas. Tem como piso, no alpendre,  lajedos de pedra, enquanto nos demais cômodos, o piso é de tijoleira de barro, sendo que o da sala de visita foi revestido com cimentado.
+A existência de uma porta com duas bandas, similar às que são encontradas na fachada principal, ligando a sala de visita ao corredor é uma  característica peculiar não só às casas rurais, mas também às urbanas. Sobre esse corredor, podem ser observados os barrotes que sustentam o paiol  de farinha ora desativado. A opção pela escolha da localização do paiol sobre o corredor é uma constante, podendo ser identificada também em outros  exemplares aqui estudados. Esta casa foi construída com alvenarias de tijolo, como as demais casas aqui analisadas. Tem como piso, no alpendre,  lajedos de pedra, enquanto nos demais cômodos, o piso é de tijoleira de barro, sendo que o da sala de visita foi revestido com cimentado. [@feijo:2002arquitetura]

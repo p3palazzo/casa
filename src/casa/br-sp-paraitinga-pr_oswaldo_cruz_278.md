@@ -2,6 +2,14 @@
 title: "Casa à praça Oswaldo Cruz, 278"
 date: 2024-05-02
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@iphan:2010dossie1"
+  href   : "https://casadopatrimoniovp.wordpress.com/wp-content/uploads/2014/09/dossie-sc3a3o-luiz-do-paraitinga-iphan.pdf"
+  text: >-
+    Iphan, Instituto do Patrimônio Histórico e Artistico Nacional.
+    Dossiê São Luiz do  Paraitinga.
+    IPHAN, 2010.
+    https://casadopatrimoniovp.wordpress.com/wp-content/uploads/2014/09/dossie-sc3a3o-luiz-do-paraitinga-iphan.pdf.
 coverage:
   spatial:
     location:
@@ -28,4 +36,8 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 35
+---
+
+---
+nocite: "@iphan:2010dossie1"
 ---

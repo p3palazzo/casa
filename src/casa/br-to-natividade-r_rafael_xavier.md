@@ -2,6 +2,13 @@
 title: "Casa à rua Rafael Xavier, sem número"
 date: 2024-05-02
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@iphan:2023casas-centro"
+  text: >-
+    Iphan, Instituto do Patrimônio Histórico e Artistico Nacional.
+    «Casas ao Centro de Natividade». Processo.
+    Palmas: Superintendência do Iphan no Tocantins, 20 de 2023.
+    Processo nº 01422.000545/2022-31.
 coverage:
   spatial:
     location:
@@ -23,4 +30,8 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 42
+---
+
+---
+nocite: "@iphan:2023casas-centro"
 ---
