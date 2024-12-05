@@ -2,6 +2,20 @@
 title: "Fazenda Caiçarinha de baixo"
 date: 2024-05-02
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@feijo:2002arquitetura"
+  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
+  text: >-
+    Feijó, Paulo Heider Forte.
+    <cite>«A arquitetura tradicional de Acari no século
+    <span style="font-variant:all-small-caps">XIX</span>:
+    estudo comparativo entre a casa-grande de fazenda e a casa
+    urbana».</cite>
+    Dissertação de Mestrado em Arquitetura e Urbanismo,
+    Universidade Federal do Rio Grande do Norte, 2002.
+    &lt;<a target="_blank"
+    href="https://repositorio.ufrn.br/handle/123456789/48279">
+    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
 coverage:
   spatial:
     location:
@@ -38,4 +52,4 @@ Na sala de visita, como é muito frequente, existe um armário embutido na pared
 
 Para se ter uma idéia da quantidade de pessoas que constituíam uma dessas famílias, em um dos quartos dessa casa, sua dona deu luz a 24 filhos, segundo informações de um deles, o Sr. Pedro Pergentino O piso do seu alpendre é de pedra granítica, com trabalho de cantaria, de uso recorrente também em outras casas-grandes de fazenda aqui estudadas, notadamente por resistir às intempéries, especialmente à chuva.
 
-Como estrutura da cobertura, existem brabos curvos, necessários para apoiar as terças, já que as mesmas não conseguem vencer todo o vão correspondente à largura da referida sala, sem apoio intermediário. Essa mesma estrutura é corriqueiramente encontrada também em outras edificações do município, construídas no século XIX. A forma dos armadores e cabides, confeccionados em madeira serrada, existentes na sala de visita, constitui um padrão para as edificações da época, sendo encontrada também em outras casas aqui estudadas. [@feijoArquiteturaTradicionalAcari2002]
+Como estrutura da cobertura, existem brabos curvos, necessários para apoiar as terças, já que as mesmas não conseguem vencer todo o vão correspondente à largura da referida sala, sem apoio intermediário. Essa mesma estrutura é corriqueiramente encontrada também em outras edificações do município, construídas no século XIX. A forma dos armadores e cabides, confeccionados em madeira serrada, existentes na sala de visita, constitui um padrão para as edificações da época, sendo encontrada também em outras casas aqui estudadas. [@feijo:2002arquitetura]

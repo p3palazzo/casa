@@ -6,6 +6,16 @@ created:
   qualifier: "c. "
   display_date: "Meados do século XVIII,~1826"
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@casimiro:2011casa"
+  text: >-
+    Casimiro, Renata. <cite>«Casa Borba Gato/Museu do ouro»</cite>.
+    Escala Indicada, 10 de maio de 2011.
+    Processo SEI n.º 01447.000080/2022-31. IPHAN.
+    &lt;<a target="_blank"
+    href="https://www.gov.br/museus/pt-br/acesso-a-informacao/licitacoes-e-contratos/licitacoes/licitacoes-e-contratos-2022-e-2023/pregao-eletronico-n9_2023-edital-e-anexos.pdf">
+    https://www.gov.br/museus/pt-br/acesso-a-informacao/licitacoes-e-contratos/licitacoes/licitacoes-e-contratos-2022-e-2023/pregao-eletronico-n9_2023-edital-e-anexos.pdf
+    </a>&gt;.
 coverage:
   spatial:
     location:

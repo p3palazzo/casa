@@ -2,6 +2,20 @@
 title: "Casa à rua Tomaz Araújo, 185"
 date: 2024-05-02
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@feijo:2002arquitetura"
+  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
+  text: >-
+    Feijó, Paulo Heider Forte.
+    <cite>«A arquitetura tradicional de Acari no século
+    <span style="font-variant:all-small-caps">XIX</span>:
+    estudo comparativo entre a casa-grande de fazenda e a casa
+    urbana».</cite>
+    Dissertação de Mestrado em Arquitetura e Urbanismo,
+    Universidade Federal do Rio Grande do Norte, 2002.
+    &lt;<a target="_blank"
+    href="https://repositorio.ufrn.br/handle/123456789/48279">
+    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
 coverage:
   spatial:
     location:
@@ -34,4 +48,4 @@ Construção modesta, implantada na primeira rua existente na cidade, com o fund
 
 Suas vergas retas, aliadas às outras características, remontam a período anterior ao do gosto pela verga em arco abatido, tão recorrente nas edificações tradicionais existentes no município, sejam rurais ou urbanas.Desperta atenção a proporção que existe entre a pequena altura da parede da fachada principal e sua considerável espessura, o que comprova ter sido a mesma construída empregando-se técnica construtiva da época em que ainda não se conheciam as resistências dos materiais, ou ainda, deliberadamente, com conhecimento empírico de que quanto mais espessa a parede, melhores são as condições térmicas e de conforto no interior da casa, naquela região.
 
-Num dos quartos, pode-se constatar o emprego de armadores de rede, confeccionados em mofumbo, vegetal abundante naquele sertão. Têm muita durabilidade e resistência, já que sua forma é fruto da própria disposição das fibras da madeira. São peças encontradas em todas as edificações ora estudadas, sejam casas de fazendas ou residências urbanas. [@feijoArquiteturaTradicionalAcari2002]
+Num dos quartos, pode-se constatar o emprego de armadores de rede, confeccionados em mofumbo, vegetal abundante naquele sertão. Têm muita durabilidade e resistência, já que sua forma é fruto da própria disposição das fibras da madeira. São peças encontradas em todas as edificações ora estudadas, sejam casas de fazendas ou residências urbanas. [@feijo:2002arquitetura]

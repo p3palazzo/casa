@@ -6,6 +6,13 @@ created:
   qualifier: "c. "
   display_date: "c. 1751"
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@iphan:2023casas-pilar"
+  text: >-
+    Iphan, Instituto do Patrimônio Histórico e Artistico Nacional.
+    <cite>«Casas em Pilar de Goiás»</cite>. Processo Administrativo.
+    Goiânia: Superitendência do Iphan em Goiás, 13 de dezembro de 2023.
+    N.º 01516.000354/2023-10.
 coverage:
   spatial:
     location:
@@ -26,7 +33,7 @@ identifier:
     refid : 48
 ---
 
-De acordo com CASTILHO* a casa foi:
+De acordo com Castilho a casa foi:
 
 > [...] construída na mesma época em que a primeira Igreja Matriz
 > (1751), sendo residência de apoio dos padres. Chegou a ter seis padres
@@ -36,4 +43,4 @@ De acordo com CASTILHO* a casa foi:
 > 
 > Carlos A. de Castilho. <cite>Levantamento do Potencial Turístico de
 > Pilar de Goiás</cite>. Pilar de Goiás: Prefeitura Municipal de Pilar,
-> Secretaria de Cultura e Turismo, 2001. [@iphanCasasEmPilar2023]
+> Secretaria de Cultura e Turismo, 2001. [Apud @iphan:2023casas-pilar]

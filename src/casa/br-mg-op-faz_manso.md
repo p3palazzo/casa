@@ -5,7 +5,7 @@ date: 2022-09-26
 bibliographicCitation:
   citekey : "@vasconcellos:2011vila"
   text: >
-    Sylvio de Vasconcellos, Vila Rica, 2.ª ed, Debates 100
+    Sylvio de Vasconcellos, <cite>Vila Rica</cite>, 2.ª ed, Debates 100
     (São Paulo: Perspectiva, 2011), 128–30.
 identifier:
   - source: "Documentário de casas tradicionais"

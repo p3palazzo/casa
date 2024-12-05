@@ -16,9 +16,10 @@ alternative:
 bibliographicCitation:
   citekey: "@iphan:2012planaltina"
   text: >-
-    Instituto do Patrimônio Histórico e Artistico Nacional, Inventário do Setor
-    Tradicional de Planaltina, org. Ana Laterza, Alessio Gallizio, e Pedro P.
-    Palazzo (Brasília: Superintendência do Iphan no Distrito Federal, 2012).
+    Instituto do Patrimônio Histórico e Artistico Nacional,
+    <cite>Inventário do Setor Tradicional de Planaltina</cite>,
+    org. Ana Laterza, Alessio Gallizio, e Pedro P. Palazzo
+    (Brasília: Superintendência do Iphan no Distrito Federal, 2012).
 contributor:
   - name: "Hosannah Pinheiro Guimarães"
     role: "antigo proprietário"
@@ -67,8 +68,9 @@ identifier:
   - source: "Documentário de casas tradicionais"
     refid : "51"
 relation:
-  - type: "depictedIn"
-    href: "/media/br-df-planaltina-casarao_azul-depha-950901/"
+  - type  : "depictedIn"
+    relids: "br-df-planaltina-casarao_azul-depha-950901"
+    href  : "/media/br-df-planaltina-casarao_azul-depha-950901/"
 log:
   - date: 2024-06-07
     text: "Corrige campos conforme modelo atualizado"

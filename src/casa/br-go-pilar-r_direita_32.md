@@ -6,6 +6,13 @@ created:
   qualifier: "c. "
   display_date: "c. 1890"
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@iphan:2023casas-pilar"
+  text: >-
+    Iphan, Instituto do Patrimônio Histórico e Artistico Nacional.
+    <cite>«Casas em Pilar de Goiás»</cite>. Processo Administrativo.
+    Goiânia: Superitendência do Iphan em Goiás, 13 de dezembro de 2023.
+    N.º 01516.000354/2023-10.
 coverage:
   spatial:
     location:
@@ -36,4 +43,5 @@ O banheiro original ficava localizado a cerca de 20 metros da casa, no
 fundo do lote, e hoje foi substituído por uma edícula mais próxima à
 casa, mas descolada da estrutura original. Por volta de 2007, a
 proprietária trocou as janelas e portas da fachada principal. Foram
-trocados também o madeiramento do telhado e as telhas. [@iphanCasasEmPilar2023]
+trocados também o madeiramento do telhado e as telhas.
+[@iphan:2023casas-pilar]

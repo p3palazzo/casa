@@ -2,6 +2,15 @@
 title: "Casa à Travessa Manoel Pinho, 51"
 date: 2024-05-02
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@iphan:2023casa-pinho51"
+  href   : "https://www.gov.br/iphan/pt-br/acesso-a-informacao/licitacoes-e-contratos/iphan-sc_uasg-343011/licitacoes/concorrencia/2023/arquivos/edital-e-anexos_concorrencia-eletronica-012023-uasg-343011-iphan-sc.zip"
+  text: >-
+    Iphan, Instituto do Patrimônio Histórico e Artistico Nacional.
+    «Casa n.º 51 na Travessa Manoel Pinho». Levantamento, Esc. indicada.
+    Laguna: Escritório Técnico do Iphan, abril de 2023.
+    Processo nº 01510.000340/2023-48.
+    https://www.gov.br/iphan/pt-br/acesso-a-informacao/licitacoes-e-contratos/iphan-sc_uasg-343011/licitacoes/concorrencia/2023/arquivos/edital-e-anexos_concorrencia-eletronica-012023-uasg-343011-iphan-sc.zip.
 coverage:
   spatial:
     location:
@@ -31,4 +40,4 @@ identifier:
 ---
 
 Imóvel está inserido na poligonal de tombamento do Centro Histórico de Laguna, tombado pelo Iphan desde 1985 por seu valor histórico e paisagístico 
-(Processo Nº 1122-T—8). [@iphanCasaNo512023]
+(Processo Nº 1122-T—8). [@iphan:2023casa-pinho51]

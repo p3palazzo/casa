@@ -6,6 +6,13 @@ created:
   qualifier: "c. "
   display_date: "c. 1890"
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@iphan:2023casas-pilar"
+  text: >-
+    Iphan, Instituto do Patrimônio Histórico e Artistico Nacional.
+    <cite>«Casas em Pilar de Goiás»</cite>. Processo Administrativo.
+    Goiânia: Superitendência do Iphan em Goiás, 13 de dezembro de 2023.
+    N.º 01516.000354/2023-10.
 coverage:
   spatial:
     location:
@@ -25,4 +32,7 @@ identifier:
   - source: "Documentário de casas tradicionais"
     refid : 46
 ---
-[@iphanCasasEmPilar2023]
+
+---
+nocite: "@iphan:2023casas-pilar"
+---

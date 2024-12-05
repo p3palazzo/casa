@@ -395,35 +395,7 @@ references:
   type: report
   URL: Processo nº 01422.000619/2020-78
 
-- id: iphan:2023casa
-  abstract: Levantamento da casa nº 51 na Travessa Manoel Pinho
-  accessed:
-    - year: 2024
-      month: 6
-      day: 17
-  archive: Processo nº 01510.000340/2023-48
-  archive_location: Processo nº 01510.000340/2023-48
-  author:
-    - family: Iphan
-      given: Instituto do Patrimônio Histórico e Artistico Nacional
-  citation-key: iphan:2023casa
-  collection-title: Casa nº 51 na Travessa Manoel Pinho
-  edition: 1510.000340/2023-48
-  event-place: Processo nº 01510.000340/2023-48
-  genre: Levantamento
-  issued:
-    - literal: Abril/2023
-  language: por
-  publisher: Escritório Técnico Laguna
-  publisher-place: Processo nº 01510.000340/2023-48
-  scale: Indicada
-  source: Processo nº 01510.000340/2023-48
-  title: Casa nº 51 na Travessa Manoel Pinho
-  type: map
-  URL: >-
-    https://www.gov.br/iphan/pt-br/acesso-a-informacao/licitacoes-e-contratos/iphan-sc_uasg-343011/licitacoes/concorrencia/2023/arquivos/edital-e-anexos_concorrencia-eletronica-012023-uasg-343011-iphan-sc.zip
-
-- id: iphan:2023casaa
+- id: iphan:2023casa-nery76
   abstract: Levantamento da casa nº76, Travessa Luiz Nery/SC
   accessed:
     - year: 2024
@@ -434,7 +406,7 @@ references:
   author:
     - family: Iphan
       given: Instituto do Patrimônio Histórico e Artistico Nacional
-  citation-key: iphan:2023casaa
+  citation-key: iphan:2023casa-nery76
   collection-title: Casa nº76, Travessa Luiz Nery/SC
   edition: 1510.000340/2023-48
   event-place: Processo nº 01510.000340/2023-48
@@ -447,25 +419,47 @@ references:
   publisher-place: Processo nº 01510.000340/2023-48
   scale: Indicada
   source: Processo nº 01510.000340/2023-48
-  title: Casa nº76, Travessa Luiz Nery/SC
-  title-short: Casa nº76, Travessa Luiz Nery/SC
+  title: "Casa n.º\_76, Travessa Luiz Nery, Laguna (SC)"
   type: map
   URL: >-
     https://www.gov.br/iphan/pt-br/acesso-a-informacao/licitacoes-e-contratos/iphan-sc_uasg-343011/licitacoes/concorrencia/2023/arquivos/edital-e-anexos_concorrencia-eletronica-012023-uasg-343011-iphan-sc.zip
 
-- id: iphan:2023casab
+- id: iphan:2023casa-pinho51
+  abstract: Levantamento da casa nº 51 na Travessa Manoel Pinho
   accessed:
     - year: 2024
       month: 6
       day: 17
-  archive: Processo nº 01510.000189/2022-67
+  archive_location: Processo nº 01510.000340/2023-48
+  author:
+    - family: Iphan
+      given: Instituto do Patrimônio Histórico e Artistico Nacional
+  citation-key: iphan:2023casa-pinho51
+  collection-title: Casa nº 51 na Travessa Manoel Pinho
+  event-place: Laguna
+  genre: Levantamento
+  issued:
+    - year: 2023
+      month: 4
+  language: por
+  publisher: Escritório Técnico do Iphan
+  publisher-place: Laguna
+  scale: Esc. indicada
+  title: Casa n.º 51 na Travessa Manoel Pinho
+  type: map
+  URL: >-
+    https://www.gov.br/iphan/pt-br/acesso-a-informacao/licitacoes-e-contratos/iphan-sc_uasg-343011/licitacoes/concorrencia/2023/arquivos/edital-e-anexos_concorrencia-eletronica-012023-uasg-343011-iphan-sc.zip
+
+- id: iphan:2023casa-q0618
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
   archive_location: Processo nº 01510.000189/2022-67
   author:
     - family: Iphan
       given: Instituto do Patrimônio Histórico e Artistico Nacional
-  citation-key: iphan:2023casab
-  collection-title: Processo nº 01510.000189/2022-67
-  event-place: RS
+  citation-key: iphan:2023casa-q0618
   genre: Processo
   issued:
     - year: 2023
@@ -473,42 +467,11 @@ references:
       day: 1
   language: por
   number: 01510.000189/2022-67
-  publisher: IPHAN
-  publisher-place: RS
-  source: Processo nº 01510.000189/2022-67
-  title: Casa Q06.18, Praça Getúlio Vargas, n.66, São Francisco do Sul, SC
-  title-short: Casa Q06.18, Praça Getúlio Vargas, n.66, São Francisco do Sul, SC
+  publisher: Superintendência do Iphan em Santa Catarina
+  title: Casa Q06.18, Praça Getúlio Vargas, 66, São Francisco do Sul, SC
   type: report
-  URL: Processo nº 01510.000189/2022-67
 
-- id: iphan:2023casas
-  accessed:
-    - year: 2024
-      month: 6
-      day: 17
-  archive: Processo Administrativo n° 01516.000354/2023-10
-  archive_location: Processo Administrativo n° 01516.000354/2023-10
-  author:
-    - family: Iphan
-      given: Instituto do Patrimônio Histórico e Artistico Nacional
-  citation-key: iphan:2023casas
-  collection-title: Processo Administrativo n° 01516.000354/2023-10
-  event-place: GO
-  genre: Processo Administrativo
-  issued:
-    - year: 2023
-      month: 12
-      day: 13
-  language: por
-  number: 01516.000354/2023-10
-  publisher: IPHAN
-  publisher-place: GO
-  title: Casas em Pilar de Goiás
-  title-short: Casas em Pilar de Goiás
-  type: report
-  URL: Processo Administrativo n° 01516.000354/2023-10
-
-- id: iphan:2023casasa
+- id: iphan:2023casas-centro
   accessed:
     - year: 2024
       month: 6
@@ -518,7 +481,7 @@ references:
   author:
     - family: Iphan
       given: Instituto do Patrimônio Histórico e Artistico Nacional
-  citation-key: iphan:2023casasa
+  citation-key: iphan:2023casas-centro
   event-place: Palmas
   genre: Processo
   issued:
@@ -530,19 +493,41 @@ references:
   title: Casas ao Centro de Natividade
   type: report
 
+- id: iphan:2023casas-pilar
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  archive_location: n.º 01516.000354/2023-10
+  author:
+    - family: Iphan
+      given: Instituto do Patrimônio Histórico e Artistico Nacional
+  citation-key: iphan:2023casas-pilar
+  event-place: Goiânia
+  genre: Processo Administrativo
+  issued:
+    - year: 2023
+      month: 12
+      day: 13
+  language: por
+  number: 01516.000354/2023-10
+  publisher: Superitendência do Iphan em Goiás
+  publisher-place: Goiânia
+  title: Casas em Pilar de Goiás
+  title-short: Casas em Pilar de Goiás
+  type: report
+
 - id: jougueri:2023projeto
   abstract: Projeto de restauração da casa Cancelier
   accessed:
     - year: 2024
       month: 6
       day: 17
-  archive_location: Processo nº 01510.000418/2023-24
+  archive_location: Processo Iphan nº 01510.000418/2023-24
   author:
     - family: Jougueri
       given: Ana Paula
   citation-key: jougueri:2023projeto
-  collection-title: Projeto de restauração da casa Cancelier
-  edition: Processo nº 01510.000418/2023-24
   genre: Projeto de restauração
   issued:
     - year: 2023
@@ -550,7 +535,7 @@ references:
       day: 10
   language: por
   publisher: Ana Paula Jougueri
-  scale: Indicada
+  scale: Esc. indicada
   title: Projeto de restauração da casa Cancelier
   title-short: Casa Cancelier
   type: map

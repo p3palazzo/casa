@@ -2,6 +2,20 @@
 title: "Casa à rua Tomaz Araújo, 39"
 date: 2024-05-02
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@feijo:2002arquitetura"
+  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
+  text: >-
+    Feijó, Paulo Heider Forte.
+    <cite>«A arquitetura tradicional de Acari no século
+    <span style="font-variant:all-small-caps">XIX</span>:
+    estudo comparativo entre a casa-grande de fazenda e a casa
+    urbana».</cite>
+    Dissertação de Mestrado em Arquitetura e Urbanismo,
+    Universidade Federal do Rio Grande do Norte, 2002.
+    &lt;<a target="_blank"
+    href="https://repositorio.ufrn.br/handle/123456789/48279">
+    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
 coverage:
   spatial:
     location:
@@ -38,4 +52,4 @@ Foi construído um pavimento sobre a então sala de jantar, ora composto de um p
 
 Todas essas modificações foram realizadas na parte posterior da casa, mantendo-se as salas da frente preservadas, com as mesmas feições de quando foram construídas. As salas da frente do pavimento têm como forro, o assoalho de madeira do pavimento superior, ao qualse tem acesso através de uma escada em dois lances, disposta no fundo de uma destas salas.
 
-No cômodo do pavimento superior voltado para a rua, obsserva-se o madeiramento da cobertura constituído de brabo com curvatura convexa voltada para cima, apoiando o pontalete esculpido, que sustenta a terça de seção quadrada a qual apoia os caibros de seção retangular onde são presas as ripas tambémde seção retangular. Todo esse madeiramento é contemporâneo à construção do sobrado, atestando sua resistência e durabilidade. Vê-se ainda a janela rasgada, existente em sua fachada principal, guarnecida por gradil de ferro, advento da Revolução Industrial ali introduzida no final de século XIX. [@feijoArquiteturaTradicionalAcari2002]
+No cômodo do pavimento superior voltado para a rua, obsserva-se o madeiramento da cobertura constituído de brabo com curvatura convexa voltada para cima, apoiando o pontalete esculpido, que sustenta a terça de seção quadrada a qual apoia os caibros de seção retangular onde são presas as ripas tambémde seção retangular. Todo esse madeiramento é contemporâneo à construção do sobrado, atestando sua resistência e durabilidade. Vê-se ainda a janela rasgada, existente em sua fachada principal, guarnecida por gradil de ferro, advento da Revolução Industrial ali introduzida no final de século XIX. [@feijo:2002arquitetura]

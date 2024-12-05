@@ -2,6 +2,20 @@
 title: "Fazenda Maracujá"
 date: 2024-05-02
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@feijo:2002arquitetura"
+  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
+  text: >-
+    Feijó, Paulo Heider Forte.
+    <cite>«A arquitetura tradicional de Acari no século
+    <span style="font-variant:all-small-caps">XIX</span>:
+    estudo comparativo entre a casa-grande de fazenda e a casa
+    urbana».</cite>
+    Dissertação de Mestrado em Arquitetura e Urbanismo,
+    Universidade Federal do Rio Grande do Norte, 2002.
+    &lt;<a target="_blank"
+    href="https://repositorio.ufrn.br/handle/123456789/48279">
+    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
 coverage:
   spatial:
     location:
@@ -38,4 +52,4 @@ Como os tijolos das alvenarias se encontram à mostra, sem reboco, é fácil per
 
 A porta que divide a sala de visita da sala de jantar, separando o setor social da casa do setor íntimo, recebe uma esquadria constituída de duas folhas, uma inferior e outra superior, bastante empregada nas portas externas da fachada principal, funcionando como porta ou janela, à medida que a parte de baixo esteja aberta ou fechada, respectivamente. Convêm observar que, dentre as portas internas da casa, essa é a única que apresenta esse tipo de folha, encontrada em todas as portas externas, das casas aqui analisadas. Uma característica ímpar, só encontrada nesta casa, é a localização do depósito e paiol. Nas demais casas analisadas, quando existe paiol, o mesmo se situa sobre o corredor.
 
-Como esta casa não tem corredor, o paiol encontra-se sobre um cômodo, espécie de hall, usado como depósito, sem porta. No interior da casa, encontram-se elementos característicos das edificações estudadas, como o piso da sala de jantar e o da sala de visita, em tijoleiras de barro,diferentes entre si, na forma e dimensão. Observa-se que, excetuando-se o terraço e a cozinha, as paredes internas da casa não são rebocadas. Este é o único exemplar aqui analisado que permanece com as paredes internas de sua fábrica original, sem receber reboco. [@feijoArquiteturaTradicionalAcari2002]
+Como esta casa não tem corredor, o paiol encontra-se sobre um cômodo, espécie de hall, usado como depósito, sem porta. No interior da casa, encontram-se elementos característicos das edificações estudadas, como o piso da sala de jantar e o da sala de visita, em tijoleiras de barro,diferentes entre si, na forma e dimensão. Observa-se que, excetuando-se o terraço e a cozinha, as paredes internas da casa não são rebocadas. Este é o único exemplar aqui analisado que permanece com as paredes internas de sua fábrica original, sem receber reboco. [@feijo:2002arquitetura]

@@ -1,6 +1,17 @@
 ---
 title: "Casa à rua São Francisco, 32"
 author: Eduarda Santana     
+bibliographicCitation:
+  citekey: "@iphan:2010dossie1"
+  text: >
+    Iphan, Instituto do Patrimônio Histórico e Artistico Nacional.
+    <cite>Dossiê São Luiz do  Paraitinga</cite>.
+    Brasília: Iphan, 2010.
+    &lt;<a target="_blank"
+    href="https://casadopatrimoniovp.wordpress.com/wp-content/uploads/2014/09/dossie-sc3a3o-luiz-do-paraitinga-iphan.pdf">
+    https://casadopatrimoniovp.wordpress.com/wp-content/uploads/2014/09/dossie-sc3a3o-luiz-do-paraitinga-iphan.pdf
+    </a>&gt;.
+
 coverage:
   spatial:
     location:
@@ -63,4 +74,5 @@ pavimento térreo destinado ao armazenamento de víveres,
 materiais e animais, o primeiro andar para salões e
 aposentos da família, e o sótão destinado à acomodação dos criados.
 A circulação nos três pavimentos é do tipo corredor central,
-o que é muito raro em casa do século [XVII]{style="font-variant:all-small-caps"}. [@iphan:2010dossie1]
+o que é muito raro em casa do século [XVII]{style="font-variant:all-small-caps"}.
+[@iphan:2010dossie1]

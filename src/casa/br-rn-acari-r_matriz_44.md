@@ -2,6 +2,20 @@
 title: "Casa à rua da Matriz, 44"
 date: 2024-05-02
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@feijo:2002arquitetura"
+  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
+  text: >-
+    Feijó, Paulo Heider Forte.
+    <cite>«A arquitetura tradicional de Acari no século
+    <span style="font-variant:all-small-caps">XIX</span>:
+    estudo comparativo entre a casa-grande de fazenda e a casa
+    urbana».</cite>
+    Dissertação de Mestrado em Arquitetura e Urbanismo,
+    Universidade Federal do Rio Grande do Norte, 2002.
+    &lt;<a target="_blank"
+    href="https://repositorio.ufrn.br/handle/123456789/48279">
+    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
 coverage:
   spatial:
     location:
@@ -36,4 +50,4 @@ Sua cobertura é ímpar, dentre as demais edificações estudadas. Tem um pano d
 
 Somente a cozinha se localiza fora desse corpo da casa, tendo, portanto, sua cobertura independente, constituída por um telhado em duas águas, voltadas para as laterais do lote.Teve, como reforma, a abertura de grandes vãos, em substituição às portas que ligavam a sala de visita à segunda sala e esta à sala de jantar, assim como a construção de um wc ligado à cozinha, além de uma parede, com uma envasadura com verga arqueada, dividindo a então cozinha e criando um hall.
 
-Durante esta pesquisa, teve uma de suas duas janelas da fachada principal transformada em uma grande porta, tornando o primeiro quarto em ponto comercial, voltado para a via pública. No interior da edificação pode-se observar a sequência de salas de um lado da casa, enquanto do outro estão dispostosos quartos. A estrutura da cobertura é constituída de brabos e terças (também conhecidas como linhas) de aroeira, caibros roliços de pereiro e ripas de varinhas de chumbo. [@feijoArquiteturaTradicionalAcari2002]
+Durante esta pesquisa, teve uma de suas duas janelas da fachada principal transformada em uma grande porta, tornando o primeiro quarto em ponto comercial, voltado para a via pública. No interior da edificação pode-se observar a sequência de salas de um lado da casa, enquanto do outro estão dispostosos quartos. A estrutura da cobertura é constituída de brabos e terças (também conhecidas como linhas) de aroeira, caibros roliços de pereiro e ripas de varinhas de chumbo. [@feijo:2002arquitetura]
