@@ -2,6 +2,10 @@
 title: "Fazenda Pitombeiras"
 date: 2024-05-02
 author: Eduarda Santana
+excerpt: >-
+  Casa do sertão do Seridó com alpendre dianteiro e telhado de arrasto,
+  de tipo transicional entre a casa–salão rural e aquela influenciada
+  pelo tipo urbano da casa de morada.
 bibliographicCitation:
   citekey: "@feijo:2002arquitetura"
   href   : "https://repositorio.ufrn.br/handle/123456789/48279"
@@ -16,12 +20,6 @@ bibliographicCitation:
     &lt;<a target="_blank"
     href="https://repositorio.ufrn.br/handle/123456789/48279">
     https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
-excerpt: >-
-  Casa do sertão do Seridó com alpendre dianteiro e telhado de arrasto,
-  de tipo transicional entre a casa–salão rural e aquela influenciada
-  pelo tipo urbano da casa de morada.
-bibliographicCitation:
-  citekey: "@feijo:2002arquitetura"
 coverage:
   spatial:
     location:
