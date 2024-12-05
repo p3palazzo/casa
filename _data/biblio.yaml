@@ -476,7 +476,6 @@ references:
     - year: 2024
       month: 6
       day: 17
-  archive: Processo nº 01422.000545/2022-31
   archive_location: Processo nº 01422.000545/2022-31
   author:
     - family: Iphan
@@ -488,7 +487,7 @@ references:
     - literal: 23/20/2023
   language: por
   number: 01422.000545/2022-31
-  publisher: Superintendência do IPHAN no Tocantins
+  publisher: Superintendência do Iphan no Tocantins
   publisher-place: Palmas
   title: Casas ao Centro de Natividade
   type: report
@@ -517,7 +516,7 @@ references:
   title-short: Casas em Pilar de Goiás
   type: report
 
-- id: jougueri:2023projeto
+- id: jauregui:2015projeto
   abstract: Projeto de restauração da casa Cancelier
   accessed:
     - year: 2024
@@ -525,14 +524,14 @@ references:
       day: 17
   archive_location: Processo Iphan nº 01510.000418/2023-24
   author:
-    - family: Jougueri
+    - family: Jauregui
       given: Ana Paula
-  citation-key: jougueri:2023projeto
-  genre: Projeto de restauração
+  citation-key: jauregui:2015projeto
+  genre: PDF, 10 pranchas tamanho A1
   issued:
-    - year: 2023
-      month: 10
-      day: 10
+    - year: 2015
+      month: 4
+      day: 17
   language: por
   publisher: Ana Paula Jougueri
   scale: Esc. indicada
