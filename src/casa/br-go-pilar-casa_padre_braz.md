@@ -36,4 +36,4 @@ De acordo com CASTILHO* a casa foi:
 > 
 > Carlos A. de Castilho. <cite>Levantamento do Potencial Turístico de
 > Pilar de Goiás</cite>. Pilar de Goiás: Prefeitura Municipal de Pilar,
-> Secretaria de Cultura e Turismo, 2001.
+> Secretaria de Cultura e Turismo, 2001. [@iphanCasasEmPilar2023]

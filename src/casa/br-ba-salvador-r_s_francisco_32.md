@@ -50,13 +50,17 @@ pavimento nobre existem amplos e bem iluminados salões, que se abrem
 para o exterior através de janelas de púlpito, e capela que apresenta
 nova pintura na parte interna das portas.
 
-Tetos e portas apresentam guarnições de madeira lavrada. Possui silhar
-de azulejos no pavimento térreo. Não há notícias sobre a fundação desta
-casa, cujos caracteres são da segunda metade do século XVII. A casa, de
-forma retangular, é recoberta por telhado de quatro águas e se articula
-com o pátio externo elevado e murado. Funcionalmente, a casa apresenta
-um esquema que se observa em todo o período colonial: pavimento térreo
-destinado ao armazenamento de víveres, materiais e animais, o primeiro
-andar para salões e aposentos da família, e o sótão destinado à
-acomodação dos criados. A circulação nos três pavimentos é do tipo
-corredor central, o que é muito raro em casa do século XVII.
+Tetos e portas apresentam guarnições de madeira lavrada.
+Possui silhar de azulejos no pavimento térreo.
+Não há notícias sobre a fundação desta casa,
+cujos caracteres são da segunda metade do século
+[XVII]{style="font-variant:all-small-caps"}.
+A casa, de forma retangular, é recoberta por telhado de quatro águas
+e se articula com o pátio externo elevado e murado.
+Funcionalmente, a casa apresenta um esquema que se observa em
+todo o período colonial:
+pavimento térreo destinado ao armazenamento de víveres,
+materiais e animais, o primeiro andar para salões e
+aposentos da família, e o sótão destinado à acomodação dos criados.
+A circulação nos três pavimentos é do tipo corredor central,
+o que é muito raro em casa do século [XVII]{style="font-variant:all-small-caps"}. [@iphan:2010dossie1]
