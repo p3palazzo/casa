@@ -1,3 +1,4 @@
+---
 title: "Casarão Azul"
 date: 2024-02-10
 author: Pedro Palazzo
@@ -27,6 +28,7 @@ provenance:
   - "Arquivo da Subsecretaria do Patrimônio Cultural, Secretaria de Estado de Cultura do Distrito Federal, sem cota"
 relation:
   - type  : "depicts"
-    relids: "casa/br-df-planaltina-casarao_azul"
+    relids: "br-df-planaltina-casarao_azul"
 rights:
 type: "StillImage"
+---
