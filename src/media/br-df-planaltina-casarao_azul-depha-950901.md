@@ -2,7 +2,7 @@
 title: "Casarão Azul"
 date: 2024-02-10
 author: Pedro Palazzo
-item: "https://i.pinimg.com/originals/31/20/c4/3120c4b86f94ed8f7d2d33f56d38cc0a.jpg"
+href: "https://i.pinimg.com/originals/31/20/c4/3120c4b86f94ed8f7d2d33f56d38cc0a.jpg"
 bibliographicCitation:
 contributor:
 coverage:
@@ -30,5 +30,5 @@ relation:
   - type  : "depicts"
     relids: "br-df-planaltina-casarao_azul"
 rights:
-type: "StillImage"
+conformsTo: "https://schema.org/Photograph"
 ---
