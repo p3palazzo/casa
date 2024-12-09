@@ -31,14 +31,13 @@ coverage:
         measurements: 80
         unit: "m²"
   temporal:
-    events:
-      - type: "creation"
-        start_date:
-          year: 1810
-        qualifier: "c."
-        display_date: "c. 1810"
-        text:
-          headline: "Construção"
+    - type: "creation"
+      start_date:
+        year: 1810
+      qualifier: "c."
+      display_date: "c. 1810"
+      text:
+        headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 24

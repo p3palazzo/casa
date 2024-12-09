@@ -57,37 +57,36 @@ coverage:
       locationHistoric:
         - "Jatahy"
   temporal:
-    events:
-      - type: "creation"
-        text:
-          headline: "Construção"
-          text: >-
-            Obra financiada pelo capitão Serafim José de Barros para sua
-            filha Romualda Balbina.
-        start_date:
-          year: 1885
-      - type: "other"
-        text:
-          headline: "Doação"
-          text: >-
-            Casa doada ao município pela viúva de Francisco Honório de
-            Campos.
-        start_date:
-          year: 1965
-      - type: "restoration"
-        text:
-          headline: "Restauro"
-          text: >-
-            Restauro da casa por Agostinho Stacciarini.
-        start_date:
-          year: 1994
-      - type: "exhibition"
-        text:
-          headline: "Abertura do museu"
-          text: >-
-            Instalação do Museu municipal Francisco Honório de Campos.
-        start_date:
-          year: 1994
+    - type: "creation"
+      text:
+        headline: "Construção"
+        text: >-
+          Obra financiada pelo capitão Serafim José de Barros para sua
+          filha Romualda Balbina.
+      start_date:
+        year: 1885
+    - type: "other"
+      text:
+        headline: "Doação"
+        text: >-
+          Casa doada ao município pela viúva de Francisco Honório de
+          Campos.
+      start_date:
+        year: 1965
+    - type: "restoration"
+      text:
+        headline: "Restauro"
+        text: >-
+          Restauro da casa por Agostinho Stacciarini.
+      start_date:
+        year: 1994
+    - type: "exhibition"
+      text:
+        headline: "Abertura do museu"
+        text: >-
+          Instalação do Museu municipal Francisco Honório de Campos.
+      start_date:
+        year: 1994
 ---
 
 ---

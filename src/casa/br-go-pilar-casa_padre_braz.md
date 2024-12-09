@@ -1,10 +1,6 @@
 ---
 title: "Casa do Padre Braz"
 date: 2024-05-02
-created:
-  date: 1751-01-01
-  qualifier: "c. "
-  display_date: "c. 1751"
 author: Eduarda Santana
 bibliographicCitation:
   citekey: "@iphan:2023casas-pilar"
@@ -28,6 +24,13 @@ coverage:
       - type: "area"
         measurements: 193.61
         unit: "m²"
+  temporal:
+    - type: "creation"
+      text:
+        headline: "Construção"
+      start_date:
+        year: 1751
+      display_date: "c. 1751"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 48

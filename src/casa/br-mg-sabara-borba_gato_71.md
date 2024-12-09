@@ -1,10 +1,6 @@
 ---
 title: "Casa de Borba Gato"
 date: 2024-05-02
-created:
-  date: 1826-01-01
-  qualifier: "c. "
-  display_date: "Meados do século XVIII,~1826"
 author: Eduarda Santana
 bibliographicCitation:
   citekey: "@casimiro:2011casa"
@@ -32,6 +28,13 @@ coverage:
       - type: "area"
         measurements: 320
         unit: "m²"
+  temporal:
+    - type: "creation"
+      text:
+        headline: "Construção"
+      start_date:
+        year: 1826
+      display_date: "Meados do século XVIII a 1826"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 1

@@ -44,12 +44,11 @@ coverage:
         - "Campinas"
         - "Bonfim"
   temporal:
-    events:
-      - type: "creation"
-        text:
-          headline: "Construção"
-        start_date:
-          year: 1929
+    - type: "creation"
+      text:
+        headline: "Construção"
+      start_date:
+        year: 1929
 ---
 
 ---

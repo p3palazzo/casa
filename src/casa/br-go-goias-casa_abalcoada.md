@@ -46,38 +46,37 @@ coverage:
       state  : BR-GO
       country: "BR"
   temporal:
-    events:
-      - type: "creation"
-        text:
-          headline: "Construção"
-        start_date:
-          year: 1780
-        qualifier: "c."
-        display_date: "c. 1780"
-      - type: "other"
-        text:
-          headline: "Propriedade"
-          text: >-
-            Casa de propriedade de Lourenço de A. Neiva
-        start_date:
-          year: 1802
-        display_date: "1802"
-      - type: "other"
-        text:
-          headline: "Propriedade"
-          text: >-
-            Casa de propriedade de Joaquim do Morro
-        start_date:
-          year: 1802
-        display_date: "1970"
-      - type: "other"
-        text:
-          headline: "Propriedade"
-          text: >-
-            Casa de propriedade de Gustavo Neiva e Milena d'Ayala
-        start_date:
-          year: 1802
-        display_date: "2022"
+    - type: "creation"
+      text:
+        headline: "Construção"
+      start_date:
+        year: 1780
+      qualifier: "c."
+      display_date: "c. 1780"
+    - type: "other"
+      text:
+        headline: "Propriedade"
+        text: >-
+          Casa de propriedade de Lourenço de A. Neiva
+      start_date:
+        year: 1802
+      display_date: "1802"
+    - type: "other"
+      text:
+        headline: "Propriedade"
+        text: >-
+          Casa de propriedade de Joaquim do Morro
+      start_date:
+        year: 1802
+      display_date: "1970"
+    - type: "other"
+      text:
+        headline: "Propriedade"
+        text: >-
+          Casa de propriedade de Gustavo Neiva e Milena d'Ayala
+      start_date:
+        year: 1802
+      display_date: "2022"
 ---
 
 ---

@@ -33,14 +33,13 @@ coverage:
         measurements: 155
         unit: "m²"
   temporal:
-    events:
-      - type: "creation"
-        start_date:
-          year: 1855
-        qualifier: "c."
-        display_date: "c. 1855"
-        text:
-          headline: "Construção"
+    - type: "creation"
+      start_date:
+        year: 1855
+      qualifier: "c."
+      display_date: "c. 1855"
+      text:
+        headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 7

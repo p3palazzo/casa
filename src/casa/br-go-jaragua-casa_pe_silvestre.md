@@ -32,14 +32,13 @@ coverage:
       state  : BR-GO
       country: "BR"
   temporal:
-    events:
-      - type: "creation"
-        text:
-          headline: "Construção"
-        start_date:
-          year: 1790
-        qualifier: "c."
-        display_date: "c. 1790"
+    - type: "creation"
+      text:
+        headline: "Construção"
+      start_date:
+        year: 1790
+      qualifier: "c."
+      display_date: "c. 1790"
 creator:
   - name: "Manuel Álvares da Silva"
     role: "creation"

@@ -23,10 +23,13 @@ coverage:
       - type: "area"
         measurements: 184.88
         unit: "m²"
-  created:
-    date: 1890-01-01
-    qualifier: "c. "
-    display_date: "c. 1890"
+  temporal:
+    - type: "creation"
+      text:
+        headline: "Construção"
+      start_date:
+        year: 1890
+      display_date: "c. 1890"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 42

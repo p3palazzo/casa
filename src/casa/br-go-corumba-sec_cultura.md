@@ -45,31 +45,30 @@ coverage:
       state  : BR-GO
       country: "BR"
   temporal:
-    events:
-      - type: "creation"
-        text:
-          headline: "Construção"
-        start_date:
-          year: 1830
-        end_date:
-          year: 1840
-        qualifier: "década"
-        display_date: "década de 1830"
-      - type: "other"
-        text:
-          headline: "Venda"
-          text: >-
-            Herdeiros de Domingos Alves de Magalhães vendem a casa a
-            Euzébio Ceciliano Curado.
-        start_date:
-          year: 1930
-        display_date: "1930"
-      - type: "other"
-        text:
-          headline: "Venda"
-          text: "Casarão é adquirido pela municipalidade."
-        start_date:
-          year: 1940
+    - type: "creation"
+      text:
+        headline: "Construção"
+      start_date:
+        year: 1830
+      end_date:
+        year: 1840
+      qualifier: "década"
+      display_date: "década de 1830"
+    - type: "other"
+      text:
+        headline: "Venda"
+        text: >-
+          Herdeiros de Domingos Alves de Magalhães vendem a casa a
+          Euzébio Ceciliano Curado.
+      start_date:
+        year: 1930
+      display_date: "1930"
+    - type: "other"
+      text:
+        headline: "Venda"
+        text: "Casarão é adquirido pela municipalidade."
+      start_date:
+        year: 1940
 ---
 
 ---

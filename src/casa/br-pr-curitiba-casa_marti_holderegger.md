@@ -36,10 +36,10 @@ coverage:
       state  : "Paraná"
       country: "BR"
   temporal:
-    events:
-      - type: "creation"
-        start_date:
-          year: "1936"
-        text:
-          headline: "Construção"
+    - type: "creation"
+      start_date:
+        year: "1936"
+      display_date: "1936"
+      text:
+        headline: "Construção"
 ---

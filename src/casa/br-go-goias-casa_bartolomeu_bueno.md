@@ -42,22 +42,21 @@ coverage:
       state  : BR-GO
       country: "BR"
   temporal:
-    events:
-      - type: "creation"
-        text:
-          headline: "Construção"
-        start_date:
-          year: 1770
-        qualifier: "c."
-        display_date: "c. 1770"
-      - type: "other"
-        text:
-          headline  : "Propriedade"
-          text: >-
-            Propriedade de Leonardo Lacerda
-        start_date:
-          year: "2022"
-        display_date: "2022"
+    - type: "creation"
+      text:
+        headline: "Construção"
+      start_date:
+        year: 1770
+      qualifier: "c."
+      display_date: "c. 1770"
+    - type: "other"
+      text:
+        headline  : "Propriedade"
+        text: >-
+          Propriedade de Leonardo Lacerda
+      start_date:
+        year: "2022"
+      display_date: "2022"
 ---
 
 ---

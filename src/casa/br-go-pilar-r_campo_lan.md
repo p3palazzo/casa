@@ -1,10 +1,6 @@
 ---
 title: "Casa à rua Rua Campo de lã"
 date: 2024-05-02
-created:
-  date: 1890-01-01
-  qualifier: "c. "
-  display_date: "c. 1890"
 author: Eduarda Santana
 bibliographicCitation:
   citekey: "@iphan:2023casas-pilar"
@@ -28,6 +24,13 @@ coverage:
       - type: "area"
         measurements: 114.08
         unit: "m²"
+  temporal:
+    - type: "creation"
+      text:
+        headline: "Construção"
+      start_date:
+        year: 1890
+      display_date: "c. 1890"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 46

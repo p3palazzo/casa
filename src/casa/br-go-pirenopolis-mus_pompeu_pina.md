@@ -47,14 +47,13 @@ coverage:
       locationHistoric:
         - "Meia Ponte"
   temporal:
-    events:
-      - type: "creation"
-        text:
-          headline: "Construção"
-        start_date:
-          year: 1800
-        qualifier: "c."
-        display_date: "c. 1800"
+    - type: "creation"
+      text:
+        headline: "Construção"
+      start_date:
+        year: 1800
+      qualifier: "c."
+      display_date: "c. 1800"
 ---
 
 ---

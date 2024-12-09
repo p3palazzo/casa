@@ -42,26 +42,25 @@ coverage:
         - "Mestre d'Armas"
         - "Goiás"
   temporal:
-    events:
-      - type: "creation"
-        text:
-          headline: "Construção"
-          text: "Período provável de construção do Casarão azul"
-        media:
-          url: https://placehold.co/600x400
-          caption: "Legenda"
-          credit: "ArPDF"
-          alt: "Foto em preto-e-branco de um casario com um jatobá no primeiro plano"
-        start_date:
-          year: "1921"
-        end_date:
-          year: "1926"
-        display_date: "c. 1921–26"
-      - type: "other"
-        text:
-          headline: "Venda da casa"
-        start_date:
-          year: "2009"
+    - type: "creation"
+      text:
+        headline: "Construção"
+        text: "Período provável de construção do Casarão azul"
+      media:
+        url: https://placehold.co/600x400
+        caption: "Legenda"
+        credit: "ArPDF"
+        alt: "Foto em preto-e-branco de um casario com um jatobá no primeiro plano"
+      start_date:
+        year: "1921"
+      end_date:
+        year: "1926"
+      display_date: "c. 1921–26"
+    - type: "other"
+      text:
+        headline: "Venda da casa"
+      start_date:
+        year: "2009"
 identifier:
   - source: "Inventário do Setor Tradicional de Planaltina"
     refid : "563"

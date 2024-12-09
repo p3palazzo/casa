@@ -51,34 +51,33 @@ coverage:
       locationHistoric:
         - "Meia Ponte"
   temporal:
-    events:
-      - type        : "creation"
-        text:
-          headline  : "Construção"
-          text      : "Construção dos primeiros equipamentos do engenho"
-        start_date:
-          year      : 1800
-        end_date:
-          year      : 1805
-        display_date: "1800–1805"
-      - type        : "other"
-        text:
-          headline  : "Herança"
-          text: >-
-            Após a morte de Joaquim Alves, o engenho passa para seu
-            genro Costa Teixeira.
-        start_date:
-          year      : 1851
-        display_date: "1851"
-      - type        : "other"
-        text:
-          headline  : "Herança"
-          text: >-
-            O engenho passa em herança aos três filhos de Costa
-            Teixeira, que o vendem ao padre Simeão Estelita.
-        start_date:
-          year      : 1864
-        display_date: "1864"
+    - type        : "creation"
+      text:
+        headline  : "Construção"
+        text      : "Construção dos primeiros equipamentos do engenho"
+      start_date:
+        year      : 1800
+      end_date:
+        year      : 1805
+      display_date: "1800–1805"
+    - type        : "other"
+      text:
+        headline  : "Herança"
+        text: >-
+          Após a morte de Joaquim Alves, o engenho passa para seu
+          genro Costa Teixeira.
+      start_date:
+        year      : 1851
+      display_date: "1851"
+    - type        : "other"
+      text:
+        headline  : "Herança"
+        text: >-
+          O engenho passa em herança aos três filhos de Costa
+          Teixeira, que o vendem ao padre Simeão Estelita.
+      start_date:
+        year      : 1864
+      display_date: "1864"
 ---
 
 ---

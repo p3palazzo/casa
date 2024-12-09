@@ -24,14 +24,13 @@ coverage:
         measurements: 165.45
         unit: "m²"
   temporal:
-    events:
-      - type: "creation"
-        start_date:
-          year: 1750
-        qualifier: "c."
-        display_date: "c. 1750"
-        text:
-          headline: "Construção"
+    - type: "creation"
+      start_date:
+        year: 1750
+      qualifier: "c."
+      display_date: "c. 1750"
+      text:
+        headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 39

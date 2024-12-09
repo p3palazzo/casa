@@ -34,13 +34,12 @@ coverage:
       state  : BR-GO
       country: "BR"
   temporal:
-    events:
-      - type: "creation"
-        text:
-          headline: "Construção"
-        start_date:
-          year: 1750
-          display_date: "c. 1750"
+    - type: "creation"
+      text:
+        headline: "Construção"
+      start_date:
+        year: 1750
+      display_date: "c. 1750"
 ---
 
 ---

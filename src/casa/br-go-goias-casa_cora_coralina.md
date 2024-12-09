@@ -32,35 +32,34 @@ coverage:
       state  : BR-GO
       country: "BR"
   temporal:
-    events:
-      - type        : "creation"
-        text:
-          headline  : "Construção"
-          text: >-
-            Casa construída por Antônio de Souza Telles, juiz da Câmara
-            e capitão-mor da Vila Boa de Goiás.
-        start_date:
-          year      : "1770"
-        qualifier   : "c."
-        display_date: "c. 1770"
-      - type: "other"
-        text:
-          headline  : "Propriedade"
-          text: >-
-            Propriedade do cônego Manuel José do Couto
-            Guimarães, tio de Cora Coralina.
-        start_date:
-          year: "1854"
-        display_date: "1854"
-      - type: "other"
-        text:
-          headline  : "Propriedade"
-          text: >-
-            Morte da proprietária Ana Lins dos Guimarães Peixoto Bretas,
-            conhecida como Cora Coralina.
-        start_date:
-          year: "1985"
-        display_date: "1985"
+    - type        : "creation"
+      text:
+        headline  : "Construção"
+        text: >-
+          Casa construída por Antônio de Souza Telles, juiz da Câmara
+          e capitão-mor da Vila Boa de Goiás.
+      start_date:
+        year      : "1770"
+      qualifier   : "c."
+      display_date: "c. 1770"
+    - type: "other"
+      text:
+        headline  : "Propriedade"
+        text: >-
+          Propriedade do cônego Manuel José do Couto
+          Guimarães, tio de Cora Coralina.
+      start_date:
+        year: "1854"
+      display_date: "1854"
+    - type: "other"
+      text:
+        headline  : "Propriedade"
+        text: >-
+          Morte da proprietária Ana Lins dos Guimarães Peixoto Bretas,
+          conhecida como Cora Coralina.
+      start_date:
+        year: "1985"
+      display_date: "1985"
 creator:
   - name: "Antônio de Souza Telles de Menezes"
     type: "personal"

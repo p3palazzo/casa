@@ -26,18 +26,17 @@ coverage:
         - "Mestre d'Armas"
         - "Goiás"
   temporal:
-    events:
-      - type: "creation"
-        start_date:
-          year: "1899"
-        text:
-          headline: "Construção da casa"
-      - type: "restoration"
-        start_date:
-          year: "1974"
-        text:
-          headline: "Tombamento"
-          text: "Tombamento estadual, desapropriação e restauro"
+    - type: "creation"
+      start_date:
+        year: "1899"
+      text:
+        headline: "Construção da casa"
+    - type: "restoration"
+      start_date:
+        year: "1974"
+      text:
+        headline: "Tombamento"
+        text: "Tombamento estadual, desapropriação e restauro"
 identifier:
   - source: "Inventário do Setor Tradicional de Planaltina"
     refid : 
