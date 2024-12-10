@@ -5,9 +5,12 @@ excerpt: >
   Todas as casas cadastradas neste projeto de pesquisa.
 header:
   actions:
+    - href: '#initial-scroll'
+      label: "Ir para lista"
+      btn_class: "btn-outline-primary btn-lg px-5 py-3 mt-5 mx-2"
     - href: '/mapa/'
       label: "Ver no mapa"
-      btn_class: "btn-outline-primary btn-lg px-5 py-3 w-25 mt-5"
+      btn_class: "btn-outline-primary btn-lg px-5 py-3 mt-5 mx-2"
 pagination:
   data: collections.casa
   reverse: true
@@ -17,5 +20,5 @@ templateEngineOverride: njk
 eleventyExcludeFromCollections: true
 ---
 
-<p class="text-center fs-1">{{ collections.casa | length }} casas cadastradas.</p>
+<p class="text-center fs-1 lining-nums">{{ collections.casa | length }} casas cadastradas.</p>
 
