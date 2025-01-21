@@ -28,9 +28,9 @@ coverage:
     - type: "creation"
       text:
         headline: "Construção"
-        start_date:
-          year: 1890
-          display_date: "c. 1890"
+      start_date:
+        year: 1890
+      display_date: "c. 1890"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 45
