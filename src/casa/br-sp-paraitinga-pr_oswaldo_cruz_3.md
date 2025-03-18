@@ -16,7 +16,7 @@ coverage:
       lat : -23.2219089
       long: -45.3114217
       name: 
-        text: "rua Oswaldo Cruz, 3"
+        text: "praça Oswaldo Cruz, 3"
       city: "São Luiz do Paraitinga"
       state: BR-SP
       country: "BR"
