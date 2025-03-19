@@ -1,0 +1,237 @@
+subject;title;author;date;excerpt;temporal;zone;agent;fase;state;func;local;form;view;role;lok;loe;num;suit;rev;citekey;svg;dxf;ifc
+br-ba-salvador-casa_sete_candeeiros;Planta de situação;Eduarda Santana;2024-02-11;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;200;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-ba-salvador-casa_sete_candeeiros;Planta do pavimento térreo;Eduarda Santana;2024-02-11;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-ba-salvador-casa_sete_candeeiros;Planta do pavimento superior;Eduarda Santana;2024-02-11;;;Storey;ARQTRAD;LV;E;;P01;D;1;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-ba-salvador-casa_sete_candeeiros;Elevação lateral esquerda para sudoeste;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-ba-salvador-casa_sete_candeeiros;Fachada para sudeste;;;;;;;;;;;;;;;;;;;;FALSE;FALSE;FALSE
+br-ba-salvador-casa_sete_candeeiros;Corte longitudinal;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-casa_padre_braz;Planta de situação;Eduarda Santana;2024-02-11;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;200;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-go-pilar-casa_padre_braz;Planta;Eduarda Santana;2024-02-11;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;400;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-casa_padre_braz;Fachada para sudeste;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;400;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-casa_padre_braz;Corte longitudinal;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;400;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_cadeia_188;Planta de situação;Eduarda Santana;2024-02-11;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-go-pilar-r_cadeia_188;Planta baixa;Eduarda Santana;2024-02-11;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_cadeia_188;Fachada para sudoeste;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_cadeia_188;Elevação posterior para nordeste;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;100;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_cadeia_188;Corte longitudinal;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_cadeia_188;Corte transversal;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;100;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_campo_lan;Planta de situação;Eduarda Santana;2024-02-11;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-go-pilar-r_campo_lan;Planta baixa;Eduarda Santana;2024-02-11;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_campo_lan;Fachada para leste;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;TER;D;2;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_campo_lan;Elevação posterior para oeste;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;TER;D;2;A;100;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_campo_lan;Corte transversal;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;TER;D;3;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_campo_lan;Corte longitudinal;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;TER;D;3;A;100;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_direita_32;Planta de situação;Eduarda Santana;2024-02-11;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-go-pilar-r_direita_33;Planta baixa;Eduarda Santana;2024-02-11;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_direita_34;Fachada para ???;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_direita_35;Elevação lateral esquerda para sudoeste;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;100;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_direita_35;Corte longitudinal;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_nova_6;Planta de situação;Eduarda Santana;2024-02-11;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;200;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-go-pilar-r_nova_6;Planta baixa;Eduarda Santana;2024-02-11;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_nova_6;Fachada para sudeste;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-go-pilar-r_nova_6;Corte longitudinal;Eduarda Santana;2024-02-11;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-mg-sabara-casa_borba_gato;Planta de situação;Eduarda Santana;2023-12-24;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-mg-sabara-casa_borba_gato;Planta do pavimento térreo;Eduarda Santana;2023-12-24;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-mg-sabara-casa_borba_gato;Planta do pavimento superior;Eduarda Santana;2023-12-24;;;Building;ARQTRAD;LV;E;;P01;D;1;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-mg-sabara-casa_borba_gato;Fachada para sul;;;;;;;;;;;;;;;;;;;;FALSE;FALSE;FALSE
+br-mg-sabara-casa_borba_gato;Corte longitudinal;Eduarda Santana;2023-12-24;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_acauan;Planta de situação;Eduarda Santana;2023-12-10;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-faz_acauan;Planta baixa;Eduarda Santana;2023-12-10;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_acauan;Fachada para oeste;Eduarda Santana;2023-12-10;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_acauan;Corte longitudinal;Eduarda Santana;2023-12-10;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_boa_vista;Planta de situação;Eduarda Santana;2023-12-26;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-faz_boa_vista;Planta baixa;Eduarda Santana;2023-12-26;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_boa_vista;Fachada para oeste;Eduarda Santana;2023-12-26;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_boa_vista;Corte longitudinal;Eduarda Santana;2023-12-26;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_cacimba_do_meio;Planta de situação;Eduarda Santana;2023-12-27;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-faz_cacimba_do_meio;Planta baixa;Eduarda Santana;2023-12-27;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_cacimba_do_meio;Fachada para oeste;Eduarda Santana;2023-12-27;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_cacimba_do_meio;Corte longitudinal;Eduarda Santana;2023-12-27;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_caicarinha;Planta de situação;Eduarda Santana;2023-12-28;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-faz_caicarinha;Planta do pavimento térreo;Eduarda Santana;2023-12-28;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_caicarinha;Planta do sobrado;Eduarda Santana;2023-12-28;;;Storey;ARQTRAD;LV;O;;SOB;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_caicarinha;Fachada para oeste;Eduarda Santana;2023-12-28;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_caicarinha;Corte longitudinal;Eduarda Santana;2023-12-28;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_caicarinha_de_baixo;Planta de situação;Eduarda Santana;2023-12-29;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-faz_caicarinha_de_baixo;Planta baixa;Eduarda Santana;2023-12-29;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_caicarinha_de_baixo;Fachada para oeste;Eduarda Santana;2023-12-29;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_caicarinha_de_baixo;Corte longitudinal;Eduarda Santana;2023-12-29;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_carnaubinha;Planta de situação;Eduarda Santana;2023-12-30;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-faz_carnaubinha;Planta do pavimento térreo;Eduarda Santana;2023-12-30;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_carnaubinha;Planta do sobrado;Eduarda Santana;2023-12-30;;;Storey;ARQTRAD;LV;O;;SOB;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_carnaubinha;Fachada para oeste;Eduarda Santana;2023-12-30;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_carnaubinha;Corte longitudinal;Eduarda Santana;2023-12-30;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_inga;Planta de situação;Eduarda Santana;2023-12-31;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-faz_inga;Planta baixa;Eduarda Santana;2023-12-31;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_inga;Fachada para oeste;Eduarda Santana;2023-12-31;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_inga;Corte longitudinal;Eduarda Santana;2023-12-31;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_malhada_vermelha;Planta de situação;Eduarda Santana;2023-12-01;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-faz_malhada_vermelha;Planta do pavimento térreo;Eduarda Santana;2023-12-01;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_malhada_vermelha;Planta do sobrado;Eduarda Santana;2023-12-01;;;Storey;ARQTRAD;LV;O;;SOB;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_malhada_vermelha;Fachada para oeste;Eduarda Santana;2023-12-01;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_malhada_vermelha;Corte longitudinal;Eduarda Santana;2023-12-01;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_maracuja;Planta de situação;Eduarda Santana;2024-01-02;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-faz_maracuja;Planta baixa;Eduarda Santana;2024-01-02;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_maracuja;Fachada para oeste;Eduarda Santana;2024-01-02;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_maracuja;Corte longitudinal;Eduarda Santana;2024-01-02;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_pitombeiras;Planta de situação;Eduarda Santana;2023-12-30;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-faz_pitombeiras;Planta do pavimento térreo;Eduarda Santana;2023-12-30;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_pitombeiras;Planta do sobrado;Eduarda Santana;2023-12-30;;;Storey;ARQTRAD;LV;O;;SOB;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_pitombeiras;Fachada para oeste;Eduarda Santana;2023-12-30;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_pitombeiras;Corte longitudinal;Eduarda Santana;2023-12-30;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_saco_dos_pereira;Planta de situação;Eduarda Santana;2024-01-02;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-faz_saco_dos_pereira;Planta baixa;Eduarda Santana;2024-01-02;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_saco_dos_pereira;Fachada para oeste;Eduarda Santana;2024-01-02;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_saco_dos_pereira;Corte longitudinal;Eduarda Santana;2024-01-02;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_sobradinho;Planta de situação;Eduarda Santana;2023-12-30;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-faz_sobradinho;Planta do pavimento térreo;Eduarda Santana;2023-12-30;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_sobradinho;Planta do sobrado;Eduarda Santana;2023-12-30;;;Storey;ARQTRAD;LV;O;;SOB;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_sobradinho;Fachada para oeste;Eduarda Santana;2023-12-30;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-faz_sobradinho;Corte longitudinal;Eduarda Santana;2023-12-30;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_antonio_brasilia_57;Planta de situação;Eduarda Santana;2024-01-07;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-r_antonio_brasilia_57;Planta baixa;Eduarda Santana;2024-01-07;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_antonio_brasilia_57;Fachada para oeste;Eduarda Santana;2024-01-07;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_antonio_brasilia_57;Corte longitudinal;Eduarda Santana;2024-01-07;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_dr_jose_augusto_15;Planta de situação;Eduarda Santana;2024-01-07;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-r_dr_jose_augusto_15;Planta baixa;Eduarda Santana;2024-01-07;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_dr_jose_augusto_15;Fachada para nordeste;Eduarda Santana;2024-01-07;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_dr_jose_augusto_15;Corte longitudinal;Eduarda Santana;2024-01-07;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_dr_jose_augusto_57;Planta de situação;Eduarda Santana;2024-01-08;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-r_dr_jose_augusto_57;Planta do pavimento térreo;Eduarda Santana;2024-01-08;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_dr_jose_augusto_57;Planta do sobrado;Eduarda Santana;2024-01-08;;;Storey;ARQTRAD;LV;O;;SOB;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_dr_jose_augusto_57;Fachada para nordeste;Eduarda Santana;2024-01-08;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_dr_jose_augusto_57;Corte longitudinal;Eduarda Santana;2024-01-08;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_dr_jose_augusto_68;Planta de situação;Eduarda Santana;2024-01-08;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-r_dr_jose_augusto_68;Planta baixa;Eduarda Santana;2024-01-08;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_dr_jose_augusto_68;Fachada para sudeste;Eduarda Santana;2024-01-08;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_dr_jose_augusto_68;Corte longitudinal;Eduarda Santana;2024-01-08;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_dr_jose_augusto_76;Planta de situação;Eduarda Santana;2024-01-08;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-r_dr_jose_augusto_76;Planta baixa;Eduarda Santana;2024-01-08;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_dr_jose_augusto_76;Fachada para sudeste;Eduarda Santana;2024-01-08;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_dr_jose_augusto_76;Corte longitudinal;Eduarda Santana;2024-01-08;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_matriz_44;Planta de situação;Eduarda Santana;2024-01-07;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-r_matriz_44;Planta baixa;Eduarda Santana;2024-01-07;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_matriz_44;Fachada para leste;Eduarda Santana;2024-01-07;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_matriz_44;Corte longitudinal;Eduarda Santana;2024-01-07;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_matriz_87;Planta de situação;Eduarda Santana;2024-01-07;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-r_matriz_87;Planta do pavimento térreo;Eduarda Santana;2024-01-07;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_matriz_87;Planta do sobrado;Eduarda Santana;2024-01-07;;;Storey;ARQTRAD;LV;O;;SOB;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_matriz_87;Fachada para oeste;Eduarda Santana;2024-01-07;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_matriz_87;Corte longitudinal;Eduarda Santana;2024-01-07;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_tomaz_araujo_39;Planta de situação;Eduarda Santana;2023-12-30;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-r_tomaz_araujo_39;Planta do pavimento térreo;Eduarda Santana;2023-12-30;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_tomaz_araujo_39;Planta do sobrado;Eduarda Santana;2023-12-30;;;Storey;ARQTRAD;LV;O;;SOB;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_tomaz_araujo_39;Fachada para oeste;Eduarda Santana;2023-12-30;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_tomaz_araujo_39;Corte longitudinal;Eduarda Santana;2023-12-30;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_tomaz_araujo_47;Planta de situação;Eduarda Santana;2024-01-08;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-r_tomaz_araujo_47;Planta baixa;Eduarda Santana;2024-01-08;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_tomaz_araujo_47;Fachada para sudeste;Eduarda Santana;2024-01-08;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_tomaz_araujo_47;Corte longitudinal;Eduarda Santana;2024-01-08;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_tomaz_araujo_169;Planta de situação;Eduarda Santana;2024-01-09;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-r_tomaz_araujo_169;Planta baixa;Eduarda Santana;2024-01-09;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_tomaz_araujo_169;Fachada para sudeste;Eduarda Santana;2024-01-09;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_tomaz_araujo_169;Corte longitudinal;Eduarda Santana;2024-01-09;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_tomaz_araujo_185;Planta de situação;Eduarda Santana;2023-12-09;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-r_tomaz_araujo_185;Planta baixa;Eduarda Santana;2023-12-09;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_tomaz_araujo_185;Fachada para sudeste;Eduarda Santana;2023-12-09;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-r_tomaz_araujo_185;Corte longitudinal;Eduarda Santana;2023-12-09;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-tv_jose_evaristo_57;Planta de situação;Eduarda Santana;2023-12-30;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-rn-acari-tv_jose_evaristo_57;Planta do pavimento térreo;Eduarda Santana;2023-12-30;;;Storey;ARQTRAD;LV;O;;TER;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-tv_jose_evaristo_57;Planta do sobrado;Eduarda Santana;2023-12-30;;;Storey;ARQTRAD;LV;O;;SOB;D;1;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-tv_jose_evaristo_57;Fachada para oeste;Eduarda Santana;2023-12-30;;;Building;ARQTRAD;LV;O;;ZZZ;D;2;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-rn-acari-tv_jose_evaristo_57;Corte longitudinal;Eduarda Santana;2023-12-30;;;Building;ARQTRAD;LV;O;;ZZZ;D;3;A;100;09;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-laguna-tv_luiz_nery_76;Planta de situação;Eduarda Santana;2023-12-10;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;200;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-sc-laguna-tv_luiz_nery_76;Planta do pavimento térreo;Eduarda Santana;2023-12-10;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-laguna-tv_luiz_nery_76;Planta do sobrado;Eduarda Santana;2023-12-10;;;Storey;ARQTRAD;LV;E;;SOB;D;1;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-laguna-tv_luiz_nery_76;Planta de cobertura;Eduarda Santana;2023-12-10;;;Building;ARQTRAD;LV;E;;COB;D;1;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-laguna-tv_luiz_nery_76;Fachada para sudoeste;Eduarda Santana;2023-12-10;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-laguna-tv_luiz_nery_76;Elevação posterior para nordeste;Eduarda Santana;2023-12-10;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;200;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-laguna-tv_luiz_nery_76;Corte longitudinal AA;Eduarda Santana;2023-12-10;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-laguna-tv_luiz_nery_76;Corte longitudinal A;Eduarda Santana;2023-12-10;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-laguna-tv_luiz_nery_76;Corte transversal;Eduarda Santana;2023-12-10;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0003;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-laguna-tv_manoel_pinho_51;Planta de situação;Eduarda Santana;2023-12-22;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;200;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-sc-laguna-tv_manoel_pinho_51;Planta baixa;Eduarda Santana;2023-12-22;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-laguna-tv_manoel_pinho_51;Planta de cobertura;Eduarda Santana;2023-12-22;;;Storey;ARQTRAD;LV;E;;COB;D;1;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-laguna-tv_manoel_pinho_51;Fachada para noroeste;Eduarda Santana;2023-12-22;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-laguna-tv_manoel_pinho_51;Elevação lateral direita para sudoeste;Eduarda Santana;2023-12-22;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;200;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-laguna-tv_manoel_pinho_51;Corte longitudinal;Eduarda Santana;2023-12-22;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-laguna-tv_manoel_pinho_51;Corte transversal;Eduarda Santana;2023-12-22;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-laguna-tv_manoel_pinho_51;Corte longitudinal C;Eduarda Santana;2023-12-22;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0003;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-s_fco_sul-pc_getulio_vargas_66;Planta de situação;;;;;;;;;;;;;;;;;;;;FALSE;FALSE;FALSE
+br-sc-s_fco_sul-pc_getulio_vargas_66;Planta baixa;Eduarda Santana;2023-12-22;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;400;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-s_fco_sul-pc_getulio_vargas_66;Fachada para sul;Eduarda Santana;2023-12-22;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;400;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-s_fco_sul-pc_getulio_vargas_66;Elevação posterior para norte;Eduarda Santana;2023-12-22;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;400;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-s_fco_sul-pc_getulio_vargas_66;Corte longitudinal;Eduarda Santana;2023-12-22;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;400;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-urussanga-casa_cancelier;Planta de locação e cobertura;Eduarda Santana;2023-12-22;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;400;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-sc-urussanga-casa_cancelier;Planta do pavimento térreo;Eduarda Santana;2023-12-22;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;400;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-urussanga-casa_cancelier;Planta do sobrado;Eduarda Santana;2023-12-22;;;Storey;ARQTRAD;LV;E;;SOB;D;1;A;400;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-urussanga-casa_cancelier;Fachada para norte;Eduarda Santana;2023-12-22;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;400;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-urussanga-casa_cancelier;Elevação lateral direita para leste;Eduarda Santana;2023-12-22;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;400;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-urussanga-casa_cancelier;Elevação posterior para sul;Eduarda Santana;2023-12-22;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;400;10;0003;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-urussanga-casa_cancelier;Elevação lateral esquerda para oeste;Eduarda Santana;2023-12-22;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;400;10;0004;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-urussanga-casa_cancelier;Corte longitudinal;Eduarda Santana;2023-12-22;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;400;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sc-urussanga-casa_cancelier;Corte transversal;Eduarda Santana;2023-12-22;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;400;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-casa_oswaldo_cruz;Planta de situação;Eduarda Santana;2024-01-23;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-sp-paraitinga-casa_oswaldo_cruz;Planta do pavimento térreo;Eduarda Santana;2024-01-23;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-casa_oswaldo_cruz;Planta do sobrado;Eduarda Santana;2024-01-23;;;Storey;ARQTRAD;LV;E;;SOB;D;1;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-casa_oswaldo_cruz;Fachada para noroeste;Eduarda Santana;2024-01-23;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-casa_oswaldo_cruz;Elevação lateral direita para sudoeste;Eduarda Santana;2024-01-23;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;100;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-casa_oswaldo_cruz;Corte longitudinal;Eduarda Santana;2024-01-23;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-casa_oswaldo_cruz;Elevação posterior para sudeste;Eduarda Santana;2024-01-23;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;100;10;0003;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-pr_oswaldo_cruz_3;Planta de situação;Eduarda Santana;2024-01-23;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-sp-paraitinga-pr_oswaldo_cruz_3;Planta do pavimento térreo;Eduarda Santana;2024-01-23;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-pr_oswaldo_cruz_3;Planta do pavimento superior;Eduarda Santana;2024-01-23;;;Storey;ARQTRAD;LV;E;;P01;D;1;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-pr_oswaldo_cruz_3;Fachada para sudeste;Eduarda Santana;2024-01-23;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-pr_oswaldo_cruz_3;Elevação posterior para noroeste;Eduarda Santana;2024-01-23;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;100;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-pr_oswaldo_cruz_3;Corte longitudinal;Eduarda Santana;2024-01-23;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-pr_oswaldo_cruz_278;Planta de situação;Eduarda Santana;2024-01-31;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;100;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-sp-paraitinga-pr_oswaldo_cruz_278;Planta baixa;Eduarda Santana;2024-01-31;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-pr_oswaldo_cruz_278;Fachada para sudoeste;Eduarda Santana;2024-01-31;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-pr_oswaldo_cruz_278;Corte longitudinal;Eduarda Santana;2024-01-31;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-pr_oswaldo_cruz_278;Corte transversal;Eduarda Santana;2024-01-31;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;100;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-r_barao_paraitinga_26;Planta de situação;;;;;;;;;;;;;;;;;;;;FALSE;FALSE;FALSE
+br-sp-paraitinga-r_barao_paraitinga_26;Planta do pavimento térreo;Eduarda Santana;2024-01-15;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-r_barao_paraitinga_26;Planta do pavimento superior;Eduarda Santana;2024-01-15;;;Storey;ARQTRAD;LV;E;;P01;D;1;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-r_barao_paraitinga_26;Fachada para sudeste (casa da esquerda);Eduarda Santana;2024-01-15;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-r_barao_paraitinga_26;Corte longitudinal;Eduarda Santana;2024-01-15;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-r_barao_paraitinga_04;Planta de situação;;;;;;;;;;;;;;;;;;;;FALSE;FALSE;FALSE
+br-sp-paraitinga-r_barao_paraitinga_04;Planta do pavimento térreo;Eduarda Santana;2024-01-15;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-r_barao_paraitinga_04;Planta do pavimento superior;Eduarda Santana;2024-01-15;;;Storey;ARQTRAD;LV;E;;P01;D;1;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-r_barao_paraitinga_04;Fachada para sudeste (casa do centro);Eduarda Santana;2024-01-15;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-r_barao_paraitinga_04;Corte longitudinal;Eduarda Santana;2024-01-15;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-pr_oswaldo_cruz_86;Planta de situação;;;;;;;;;;;;;;;;;;;;FALSE;FALSE;FALSE
+br-sp-paraitinga-pr_oswaldo_cruz_86;Planta do pavimento térreo;Eduarda Santana;2024-01-15;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-pr_oswaldo_cruz_86;Planta do pavimento superior;Eduarda Santana;2024-01-15;;;Storey;ARQTRAD;LV;E;;P01;D;1;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-pr_oswaldo_cruz_86;Fachada para sudeste (casa da direita);Eduarda Santana;2024-01-15;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;100;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-sp-paraitinga-pr_oswaldo_cruz_86;Fachada posterior para noroeste;Eduarda Santana;2024-01-15;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;100;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-pc_matriz_50;Planta de situação;Eduarda Santana;2024-02-08;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;200;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-to-natividade-pc_matriz_50;Planta baixa;Eduarda Santana;2024-02-08;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-pc_matriz_50;Planta de cobertura;Eduarda Santana;2024-02-08;;;Storey;ARQTRAD;LV;E;;COB;D;1;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-pc_matriz_50;Fachada para nordeste;Eduarda Santana;2024-02-08;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-pc_matriz_50;Corte longitudinal;Eduarda Santana;2024-02-08;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-pc_matriz_50;Corte transversal;Eduarda Santana;2024-02-08;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_7_setembro_86;Planta de situação;Eduarda Santana;2024-02-08;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;200;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-to-natividade-r_7_setembro_86;Planta baixa;Eduarda Santana;2024-02-08;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_7_setembro_86;Planta de cobertura;Eduarda Santana;2024-02-08;;;Storey;ARQTRAD;LV;E;;COB;D;1;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_7_setembro_86;Fachada para norte;Eduarda Santana;2024-02-08;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_7_setembro_86;Elevação lateral direita para oeste;Eduarda Santana;2024-02-08;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;200;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_7_setembro_86;Corte longitudinal;Eduarda Santana;2024-02-08;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_deocleciano_nunes_78;Planta de situação;Eduarda Santana;2024-02-07;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;200;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-to-natividade-r_deocleciano_nunes_78;Planta baixa;Eduarda Santana;2024-02-07;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_deocleciano_nunes_78;Planta de cobertura;Eduarda Santana;2024-02-07;;;Storey;ARQTRAD;LV;E;;COB;D;1;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_deocleciano_nunes_78;Fachada para noroeste;Eduarda Santana;2024-02-07;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_deocleciano_nunes_78;Corte longitudinal;Eduarda Santana;2024-02-07;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_deocleciano_nunes_78;Corte transversal;Eduarda Santana;2024-02-07;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_maj_julio_nunes;Planta de situação;Eduarda Santana;2024-02-10;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;200;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-to-natividade-r_maj_julio_nunes;Planta baixa;Eduarda Santana;2024-02-10;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_maj_julio_nunes;Planta de cobertura;Eduarda Santana;2024-02-10;;;Storey;ARQTRAD;LV;E;;COB;D;1;A;200;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-to-natividade-r_maj_julio_nunes;Fachada para sul;Eduarda Santana;2024-02-10;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_maj_julio_nunes;Corte longitudinal;Eduarda Santana;2024-02-10;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_maj_julio_nunes;Corte transversal;Eduarda Santana;2024-02-10;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_rafael_xavier;Planta de situação;Eduarda Santana;2024-02-09;;;Site;ARQTRAD;LV;E;;LOC;D;1;A;200;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-to-natividade-r_rafael_xavier;Planta baixa;Eduarda Santana;2024-02-09;;;Storey;ARQTRAD;LV;E;;TER;D;1;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_rafael_xavier;Planta de cobertura;Eduarda Santana;2024-02-09;;;Storey;ARQTRAD;LV;E;;COB;D;1;A;200;10;0001;1;v1.0;;FALSE;FALSE;FALSE
+br-to-natividade-r_rafael_xavier;Fachada para noroeste;Eduarda Santana;2024-02-09;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_rafael_xavier;Elevação lateral direita para sudoeste;Eduarda Santana;2024-02-09;;;Building;ARQTRAD;LV;E;;ZZZ;D;2;A;200;10;0002;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_rafael_xavier;Corte longitudinal;Eduarda Santana;2024-02-09;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0001;1;v1.0;;FALSE;TRUE;FALSE
+br-to-natividade-r_rafael_xavier;Corte transversal;Eduarda Santana;2024-02-09;;;Building;ARQTRAD;LV;E;;ZZZ;D;3;A;200;10;0002;1;v1.0;;FALSE;TRUE;FALSE

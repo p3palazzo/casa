@@ -1,5 +1,5 @@
 ---
-title: "Casa à rua São Francisco, 32"
+title: "Casa dos sete candeeiros"
 author: Eduarda Santana     
 bibliographicCitation:
   citekey: "@iphan:2010dossie1"
