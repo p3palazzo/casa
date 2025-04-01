@@ -33,13 +33,12 @@ coverage:
           R. Fernandes de Barros, 1462<br />
           Hugo Lange
       city   : "Curitiba"
-      state  : "Paraná"
-      country: "BR"
+      state  : "BR-PR"
   temporal:
-    events:
-      - type: "creation"
-        start_date:
-          year: "1936"
-        text:
-          headline: "Construção"
+    - type: "creation"
+      start_date:
+        year: "1936"
+      display_date: "1936"
+      text:
+        headline: "Construção"
 ---

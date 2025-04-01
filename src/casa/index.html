@@ -3,19 +3,31 @@ title: "Lista de casas"
 layout: "layouts/archive.njk"
 excerpt: >
   Todas as casas cadastradas neste projeto de pesquisa.
+classes:
+  - "splash"
 header:
   actions:
+    - href: '#initial-scroll'
+      label: "Ir para lista"
+      btn_class: "btn-outline-primary btn-lg px-5 py-3 mt-5 mx-2"
     - href: '/mapa/'
       label: "Ver no mapa"
-      btn_class: "btn-outline-primary btn-lg px-5 py-3 w-25 mt-5"
+      btn_class: "btn-outline-primary btn-lg px-5 py-3 mt-5 mx-2"
+    - href: '/cronologia/'
+      label: "Linha do tempo"
+      btn_class: "btn-outline-primary btn-lg px-5 py-3 mt-5 mx-2"
 pagination:
   data: collections.casa
   reverse: true
   size: 20
   alias: posts
 templateEngineOverride: njk
+toc: false
 eleventyExcludeFromCollections: true
 ---
 
-<p class="text-center fs-1">{{ collections.casa | length }} casas cadastradas.</p>
+<p class="text-center fs-1 lining-nums">
+  {{ collections.casa | length }} casas cadastradas e
+  {{ desenhos | length }} desenhos técnicos realizados.
+</p>
 

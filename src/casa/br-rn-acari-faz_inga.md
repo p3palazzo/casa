@@ -2,6 +2,20 @@
 title: "Fazenda Ingá"
 date: 2024-05-02
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@feijo:2002arquitetura"
+  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
+  text: >-
+    Feijó, Paulo Heider Forte.
+    <cite>«A arquitetura tradicional de Acari no século
+    <span style="font-variant:all-small-caps">XIX</span>:
+    estudo comparativo entre a casa-grande de fazenda e a casa
+    urbana».</cite>
+    Dissertação de Mestrado em Arquitetura e Urbanismo,
+    Universidade Federal do Rio Grande do Norte, 2002.
+    &lt;<a target="_blank"
+    href="https://repositorio.ufrn.br/handle/123456789/48279">
+    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
 coverage:
   spatial:
     location:
@@ -19,14 +33,13 @@ coverage:
         measurements: 165
         unit: "m²"
   temporal:
-    events:
-      - type: "creation"
-        start_date:
-          year: 1820
-        qualifier: "c."
-        display_date: "c. 1820"
-        text:
-          headline: "Construção"
+    - type: "creation"
+      start_date:
+        year: 1820
+      qualifier: "c."
+      display_date: "c. 1820"
+      text:
+        headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 11
@@ -40,4 +53,4 @@ Esta casa não dispõe de sótão, apesar da disponibilidade de espaço com altu
 
 Sobre o corredor existem dois trechos de assoalho de madeira sustentados por barrotes, intercalados por um espaço aberto teriam sido paióis para estocar farinha ou outros mantimentos tão comuns àquela época. Hoje são utilizados para guardar objetos de menor uso, já que não dispõem de escada fixa que lhes dê acesso. Na sala de visita, observa-se a utilização de brabo sem a necessidade de pontalete para a sustentação da terça. Vê-se ainda uma peça de madeira, disposta sobre a meia parede que divide a sala de visita da saleta, que recebe os esforços transmitidos pelo pontalete, que, funcionando como radier, distribui os referidos esforços ao longo da parede. Esse tipo de estrutura da cobertura, quase sempre de aroeira, como é o caso, ocorre também nas de mais casas em estudo. 
 
-Na sala de jantar, a exemplo da sala de visita, podem-se observar brabos curvos sustentando diretamente a terça, sem a utilização de pontaletes. Este sistema é também adotado em outras edificações aqui analisadas. Contudo, a maior recorrência constatada é a utilização de pontaletes entre o brabo e a terça. Ainda nessa sala, encontra-se uma janela com grade de madeira, peça também existente em outras edificações analisadas.Observando-se a partir do depósito sobre o corredor, de um lado verifica-se a existência de uma parede baixa que recebe pontaletes, por cima da qual, pode-se ver o interior dos quartos, provavevelmente de hóspedes e dos homens, e do outro, uma mais alta,justamente para evitar que se veja, dali, o intenor de outros quartos, provavelmente do casal e das moças.
+Na sala de jantar, a exemplo da sala de visita, podem-se observar brabos curvos sustentando diretamente a terça, sem a utilização de pontaletes. Este sistema é também adotado em outras edificações aqui analisadas. Contudo, a maior recorrência constatada é a utilização de pontaletes entre o brabo e a terça. Ainda nessa sala, encontra-se uma janela com grade de madeira, peça também existente em outras edificações analisadas.Observando-se a partir do depósito sobre o corredor, de um lado verifica-se a existência de uma parede baixa que recebe pontaletes, por cima da qual, pode-se ver o interior dos quartos, provavevelmente de hóspedes e dos homens, e do outro, uma mais alta,justamente para evitar que se veja, dali, o intenor de outros quartos, provavelmente do casal e das moças. [@feijo:2002arquitetura]

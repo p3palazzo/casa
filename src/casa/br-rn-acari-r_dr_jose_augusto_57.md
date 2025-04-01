@@ -2,6 +2,20 @@
 title: "Casa à rua Dr. José Augusto, 57"
 date: 2024-05-02
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@feijo:2002arquitetura"
+  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
+  text: >-
+    Feijó, Paulo Heider Forte.
+    <cite>«A arquitetura tradicional de Acari no século
+    <span style="font-variant:all-small-caps">XIX</span>:
+    estudo comparativo entre a casa-grande de fazenda e a casa
+    urbana».</cite>
+    Dissertação de Mestrado em Arquitetura e Urbanismo,
+    Universidade Federal do Rio Grande do Norte, 2002.
+    &lt;<a target="_blank"
+    href="https://repositorio.ufrn.br/handle/123456789/48279">
+    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
 coverage:
   spatial:
     location:
@@ -17,14 +31,13 @@ coverage:
         measurements: 189
         unit: "m²"
   temporal:
-    events:
-      - type: "creation"
-        start_date:
-          year: 1835
-        qualifier: "c."
-        display_date: "c. 1835"
-        text:
-          headline: "Construção"
+    - type: "creation"
+      start_date:
+        year: 1835
+      qualifier: "c."
+      display_date: "c. 1835"
+      text:
+        headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 21
@@ -38,4 +51,4 @@ O piso, anteriormente em tijoleira de barro, foi revestido por cimentado avermel
 
 As portas internas dos quartos contam com bandeiras, confeccionadas com fasquias de madeira, dispostas formando losangos. E provável que este elemento, ao mesmo tempo, decorativo e importante para o conforto ambiental dos cômodos, tenha sido adotado em virtude dos quartos serem forrados pelo piso do sótão, e a sala de visita, pelo forro de madeira nela existente. Na sala de jantar, com pé-direito duplo e agradável, observa-se a existência de um brabo que apoia um pontalete que sustenta a terça. Este sistema estrutural é também empregado em outras casas aqui analisadas.
 
-É uma das três casas que possui portas com bandeiras, elemento encontrado também nas casas situados à rua da Matriz, 44 e 87, sendo que nesta última, já foram feitas modificações nas portas originais. Além destas, em mais nenhuma das casas estudadas foram encontradas bandeiras nas esquadrias. Conta com uma majestosa escada helicoidal, em madeira, que dá acesso ao sótão. Na estrutura da cobertura é interessante ressaltar um pontalete apoiando um brabo. Observa-se que, apesar do seu reduzido tamanho, não se dispensam os detalhes nele esculpidos, mantendo-se o modelo corrente, encontrado em todas as casas ora estudadas.
+É uma das três casas que possui portas com bandeiras, elemento encontrado também nas casas situados à rua da Matriz, 44 e 87, sendo que nesta última, já foram feitas modificações nas portas originais. Além destas, em mais nenhuma das casas estudadas foram encontradas bandeiras nas esquadrias. Conta com uma majestosa escada helicoidal, em madeira, que dá acesso ao sótão. Na estrutura da cobertura é interessante ressaltar um pontalete apoiando um brabo. Observa-se que, apesar do seu reduzido tamanho, não se dispensam os detalhes nele esculpidos, mantendo-se o modelo corrente, encontrado em todas as casas ora estudadas. [@feijo:2002arquitetura]

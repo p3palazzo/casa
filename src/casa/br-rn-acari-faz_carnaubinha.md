@@ -2,6 +2,20 @@
 title: "Fazenda Carnaubinha"
 date: 2024-05-02
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@feijo:2002arquitetura"
+  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
+  text: >-
+    Feijó, Paulo Heider Forte.
+    <cite>«A arquitetura tradicional de Acari no século
+    <span style="font-variant:all-small-caps">XIX</span>:
+    estudo comparativo entre a casa-grande de fazenda e a casa
+    urbana».</cite>
+    Dissertação de Mestrado em Arquitetura e Urbanismo,
+    Universidade Federal do Rio Grande do Norte, 2002.
+    &lt;<a target="_blank"
+    href="https://repositorio.ufrn.br/handle/123456789/48279">
+    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
 coverage:
   spatial:
     location:
@@ -19,14 +33,13 @@ coverage:
         measurements: 130
         unit: "m²"
   temporal:
-    events:
-      - type: "creation"
-        start_date:
-          year: 1820
-        qualifier: "c."
-        display_date: "c. 1820"
-        text:
-          headline: "Construção"
+    - type: "creation"
+      start_date:
+        year: 1820
+      qualifier: "c."
+      display_date: "c. 1820"
+      text:
+        headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 10
@@ -40,4 +53,4 @@ Fincado num desses pilares, existe ainda um tarugo de madeira, que têm a funç�
 
 Da maneira como o encaixe foi executado, nem mesmo a cunha transversal, existente para garantir a união, conseguiu uma emenda eficaz. É interessante observar que as tábuas que compõem a folha da porta do quarto são bem marcadas, existindo frisos nas emendas de uma com a outra. Os portais ou marcos da referida porta, atualmente conhecidos como caixas de portas, são barrotes de madeira de boa qualidade, quase sempre de aroeira, perfilados com ressalto correspondente ao batedor da porta, e por vezes com suas arestas visíveis frisadas. 
 
-São confeccionados de peças de seção em tomo de 12cm x 12cm. O sótão tem assoalho executado com tábuas de várias larguras, de craibeira, árvore nativa da região. São lavradas à enxó e fixadas com cravos de ferro forjado. As demais casas aqui estudadas, que dispõem de sótão, seguem o mesmo sistema construtivo, e utilizam os mesmos materiais então disponíveis e de reconhecida eficácia. Pouco difundido e de uso restrito são os armadores de ferro, seja qual for a sua forma. Nessa casa pode-se identificar a existência de dois, de modelos diferentes, que se encontram fincados no frechal do sótão.
+São confeccionados de peças de seção em tomo de 12cm x 12cm. O sótão tem assoalho executado com tábuas de várias larguras, de craibeira, árvore nativa da região. São lavradas à enxó e fixadas com cravos de ferro forjado. As demais casas aqui estudadas, que dispõem de sótão, seguem o mesmo sistema construtivo, e utilizam os mesmos materiais então disponíveis e de reconhecida eficácia. Pouco difundido e de uso restrito são os armadores de ferro, seja qual for a sua forma. Nessa casa pode-se identificar a existência de dois, de modelos diferentes, que se encontram fincados no frechal do sótão. [@feijo:2002arquitetura]

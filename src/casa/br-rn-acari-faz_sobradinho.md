@@ -2,6 +2,20 @@
 title: "Fazenda Sobradinho"
 date: 2024-05-02
 author: Eduarda Santana
+bibliographicCitation:
+  citekey: "@feijo:2002arquitetura"
+  href   : "https://repositorio.ufrn.br/handle/123456789/48279"
+  text: >-
+    Feijó, Paulo Heider Forte.
+    <cite>«A arquitetura tradicional de Acari no século
+    <span style="font-variant:all-small-caps">XIX</span>:
+    estudo comparativo entre a casa-grande de fazenda e a casa
+    urbana».</cite>
+    Dissertação de Mestrado em Arquitetura e Urbanismo,
+    Universidade Federal do Rio Grande do Norte, 2002.
+    &lt;<a target="_blank"
+    href="https://repositorio.ufrn.br/handle/123456789/48279">
+    https://repositorio.ufrn.br/handle/123456789/48279.</a>&gt;
 coverage:
   spatial:
     location:
@@ -19,14 +33,13 @@ coverage:
         measurements: 163
         unit: "m²"
   temporal:
-    events:
-      - type: "creation"
-        start_date:
-          year: 1835
-        qualifier: "c."
-        display_date: "c. 1835"
-        text:
-          headline: "Construção"
+    - type: "creation"
+      start_date:
+        year: 1835
+      qualifier: "c."
+      display_date: "c. 1835"
+      text:
+        headline: "Construção"
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 16
@@ -38,4 +51,4 @@ Está implantada numa elevação, cuja cota fica próxima a das águas do açude
 
 Em termos de técnica construtiva, pode-se observar, em detalhes, o pilar de madeira existente no alpendre. Atente para o recorte, arrematando a aresta, no momento da transição de sua seção quadrada para octogonal. Todos os pilares de madeira de sustentação do alpendre existentes nas casas ora estudadas têm uma forma em comum. São constituidos de três partes: a base, a parte intermediária e a parte superior. Na base e na parte superior, apresentam seção transversal quadrada, enquanto que, na intermediária, sua seção é octogonal. Esse mesmo modelo se encontra invariavelmente em todos os pontaletes, peças verticais de madeira que sustentam terças e cumeeiras nas coberturas das referidas casas.
 
-Um dos elementos que tinha uso frequente, nas casas de então, era o fecho de madeira com sua tramela. Cumprindo a mesma função do ferrolho, existe essa peça de madeira, que, fixada à esquadria em uma de suas extremidades, de maneira a permitir sua rotação naquele ponto, possibilita o fechamento da porta ou janela, encaixando sua outra extremidade num rasgo feito no marco da esquadria. A ramela é também uma peça de madeira, com as mesmas características do fecho, diferindo desse na função, só permitindo o giro do fecho, para abrir a porta ou janela, girando-se a própria tramela.
+Um dos elementos que tinha uso frequente, nas casas de então, era o fecho de madeira com sua tramela. Cumprindo a mesma função do ferrolho, existe essa peça de madeira, que, fixada à esquadria em uma de suas extremidades, de maneira a permitir sua rotação naquele ponto, possibilita o fechamento da porta ou janela, encaixando sua outra extremidade num rasgo feito no marco da esquadria. A ramela é também uma peça de madeira, com as mesmas características do fecho, diferindo desse na função, só permitindo o giro do fecho, para abrir a porta ou janela, girando-se a própria tramela. [@feijo:2002arquitetura]

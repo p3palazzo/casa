@@ -121,30 +121,29 @@ coverage:
 #    # As categorias abaixo referenciam recursos externos a este site,  #
 #    # em geral.                                                        #
 #    ####################################################################
-#    events:                # Esta linha é só o cabeçalho da linha do tempo.
-#     - text:              # Cada evento tem texto, mídia e data(s).
-#         headline    : "" # O texto pode ser dividido em cabeçalho e conteúdo.
-#         text        : ""
-#       type          : "" # Tipos de datas permitidos conforme https://www.loc.gov/standards/vracore/schemas.html
-#                          # alteration, broadcast, bulk, commission, creation, design,
-#                          # destruction, discovery, exhibition, inclusive, performance,
-#                          # publication, restoration, view, other
-#                          # (o tipo de data não é usado pela linha do tempo)
-#       start_date:        # Apenas a start_date é obrigatória... (VRA Core: earliestDate)
-#         year        : "" # ...e dentro dela, apenas o ano é necessário.
-#         month       : ""
-#         day         : ""
-#         display_date: "" # Para datas complexas, escrever por extenso aqui.
-#       end_date:          # Opcional, mesmo formato de start_date (VRA Core latestDate)
-#       media:             # Uma mídia por evento:
-#         href        : "" # pode ser uma prévia da Wikipédia, imagem ou vídeo.
-#         caption     : "" # Legenda.
-#         credit      : "" # Créditos, se houver.
-#         alt         : "" # Descrição sucinta da mídia para acessibilidade.
-#       source:            # Fonte de autoridade para a data.
-#         text        : ""
-#         href        : ""
-#         dataDate    : "" # Data em que a informação foi incluída.
+#   - text:              # Cada evento tem texto, mídia e data(s).
+#       headline    : "" # O texto pode ser dividido em cabeçalho e conteúdo.
+#       text        : ""
+#     type          : "" # Tipos de datas permitidos conforme https://www.loc.gov/standards/vracore/schemas.html
+#                        # alteration, broadcast, bulk, commission, creation, design,
+#                        # destruction, discovery, exhibition, inclusive, performance,
+#                        # publication, restoration, view, other
+#                        # (o tipo de data não é usado pela linha do tempo)
+#     start_date:        # Apenas a start_date é obrigatória... (VRA Core: earliestDate)
+#       year        : "" # ...e dentro dela, apenas o ano é necessário.
+#       month       : ""
+#       day         : ""
+#       display_date: "" # Para datas complexas, escrever por extenso aqui.
+#     end_date:          # Opcional, mesmo formato de start_date (VRA Core latestDate)
+#     media:             # Uma mídia por evento:
+#       href        : "" # pode ser uma prévia da Wikipédia, imagem ou vídeo.
+#       caption     : "" # Legenda.
+#       credit      : "" # Créditos, se houver.
+#       alt         : "" # Descrição sucinta da mídia para acessibilidade.
+#     source:            # Fonte de autoridade para a data.
+#       text        : ""
+#       href        : ""
+#       dataDate    : "" # Data em que a informação foi incluída.
 #  stylePeriod:  # https://www.loc.gov/standards/vracore/schemas.html
 #    - text            : "" # Usar vocabulário controlado se possível
 #      vocab           : "" # Caso use vocabulário controlado, preencher os...
@@ -158,39 +157,11 @@ coverage:
 #    text              : ""
 #    vocab             : "" # Caso use vocabulário controlado, preencher os...
 #    refid             : "" # ...campos `vocab` e `refid`.
-drawings:
-  - refid             : "" # O nome do arquivo sem a extensão.
-    filetype          : "" # A extensão do nome do arquivo sem o ponto. Se omitido, o padrão é "svg".
-    text              : "" # Título do desenho.
-    type              :    # 0 = geral, 1 = planta baixa (padrão), 2 = elevação, 3 = corte, 4 = mapa de elementos, 5 = detalhe, 6 = mapa de revestimentos, 7 = planta de forro, 8 = vista ou modelo 3D, 9 = definido pelo agente
-    author            : "" # Quem fez o redesenho para este projeto de pesquisa.
-    date              :    # Data da atual revisão do redesenho.
-    revision          : "" # Formato BS1192
-    suitability       : "" # Formato BS1192
-    source:                # Original(is) a partir do(s) qual(is) o redesenho foi feito.
-      - relids        : "" # Caso o original tenha uma cota de arquivo ou outro identificador.
-        href          : "" # Link onde o original pode ser encontrado, se houver.
-        text          : "" # Título ou descrição sucinta que identifique o original.
-        creator:           # Autor (arquiteto ou desenhista) do original, se conhecido ou diferente do `creator` da edificação.
-          name        : ""
-          type        : ""
-          attribution : ""
-          vocab       : ""
-          refid       : ""
-          href        : ""
-    coverage:
-      temporal:            # Período histórico da edificação ao qual o desenho corresponde.
-        start_date:
-          year       :
-          display_date:
-        end_date:
-          year       :
-          display_date:
 ########################################################################
 # IMPORTANTE! As relações de representação `depictedIn`, `imageIs`,    #
 # `modelIs` devem ser cadastradas na ficha da OBRA e não da mídia.     #
 ########################################################################
-relation:
+#relation:
 # - type              : "depictedIn" # Tipos usados no VRA Core:
     # cartoonFor, cartoonIs, componentOf, componentIs, copyAfter, copyIs,
     # counterProofFor, counterProofIs, depicts, depictedIn,
@@ -213,13 +184,45 @@ relation:
 #   text   : "" # Legenda da imagem
 #   href   : "" # Link direto para a imagem, no caso de arquivos hospedados em outro servidor.
 ########################################################################
+# Os desenhos vetoriais gerados neste projeto de pesquisa ou por nós   #
+# adaptados devem ser incluídos nos tipos de relação `isDocumentedBy`  #
+# e `isSupplementedBy`.                                                #
+########################################################################
+# - type              : "isDocumentedBy"
+#   relids            : "" # O nome do arquivo sem a extensão.
+#   filetype          : "" # A extensão do nome do arquivo sem o ponto. Se omitido, o padrão é "svg".
+#   text              : "" # Título do desenho.
+#   classification    :    # 0 = geral, 1 = planta baixa (padrão), 2 = elevação, 3 = corte, 4 = mapa de elementos, 5 = detalhe, 6 = mapa de revestimentos, 7 = planta de forro, 8 = vista ou modelo 3D, 9 = definido pelo agente
+#   author            : "" # Quem fez o redesenho para este projeto de pesquisa.
+#   date              :    # Data da atual revisão do redesenho.
+#   revision          : "" # Formato BS1192
+#   suitability       : "" # Formato BS1192
+#   source:                # Original(is) a partir do(s) qual(is) o redesenho foi feito.
+#     - relids        : "" # Caso o original tenha uma cota de arquivo ou outro identificador.
+#       href          : "" # Link onde o original pode ser encontrado, se houver.
+#       text          : "" # Título ou descrição sucinta que identifique o original.
+#       creator:           # Autor (arquiteto ou desenhista) do original, se conhecido ou diferente do `creator` da edificação.
+#         name        : ""
+#         type        : ""
+#         attribution : ""
+#         vocab       : ""
+#         refid       : ""
+#         href        : ""
+#   coverage:
+#     temporal:            # Período histórico da edificação ao qual o desenho corresponde.
+#       start_date:
+#         year       :
+#         display_date:
+#       end_date:
+#         year       :
+#         display_date:
+########################################################################
 # Os campos abaixo referem-se a informações de formatação da ficha.    #
 ########################################################################
 header:
   teaser        : "https://placehold.co/600x400"
   overlay_image : "https://i.pinimg.com/originals/f7/76/49/f7764902ee90d4fc48b6f795307bc366.jpg"
   overlay_filter: 0.7
-  caption       : "Abigail de Andrade, Estrada do Mundo Novo, 1888"
 # Registro de modificações na ficha:
 log:
   - date: 
@@ -240,4 +243,4 @@ tags: [ "casa", "edificio" ]
 css:
   - "/assets/leaflet/leaflet.css"
   - "/assets/timelinejs/css/timeline.css"
-toc: true
+toc: false

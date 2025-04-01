@@ -16,9 +16,10 @@ alternative:
 bibliographicCitation:
   citekey: "@iphan:2012planaltina"
   text: >-
-    Instituto do Patrimônio Histórico e Artistico Nacional, Inventário do Setor
-    Tradicional de Planaltina, org. Ana Laterza, Alessio Gallizio, e Pedro P.
-    Palazzo (Brasília: Superintendência do Iphan no Distrito Federal, 2012).
+    Instituto do Patrimônio Histórico e Artistico Nacional,
+    <cite>Inventário do Setor Tradicional de Planaltina</cite>,
+    org. Ana Laterza, Alessio Gallizio, e Pedro P. Palazzo
+    (Brasília: Superintendência do Iphan no Distrito Federal, 2012).
 contributor:
   - name: "Hosannah Pinheiro Guimarães"
     role: "antigo proprietário"
@@ -41,34 +42,34 @@ coverage:
         - "Mestre d'Armas"
         - "Goiás"
   temporal:
-    events:
-      - type: "creation"
-        text:
-          headline: "Construção"
-          text: "Período provável de construção do Casarão azul"
-        media:
-          url: https://placehold.co/600x400
-          caption: "Legenda"
-          credit: "ArPDF"
-          alt: "Foto em preto-e-branco de um casario com um jatobá no primeiro plano"
-        start_date:
-          year: "1921"
-        end_date:
-          year: "1926"
-        display_date: "c. 1921–26"
-      - type: "other"
-        text:
-          headline: "Venda da casa"
-        start_date:
-          year: "2009"
+    - type: "creation"
+      text:
+        headline: "Construção"
+        text: "Período provável de construção do Casarão azul"
+      media:
+        url: https://placehold.co/600x400
+        caption: "Legenda"
+        credit: "ArPDF"
+        alt: "Foto em preto-e-branco de um casario com um jatobá no primeiro plano"
+      start_date:
+        year: "1921"
+      end_date:
+        year: "1926"
+      display_date: "c. 1921–26"
+    - type: "other"
+      text:
+        headline: "Venda da casa"
+      start_date:
+        year: "2009"
 identifier:
   - source: "Inventário do Setor Tradicional de Planaltina"
     refid : "563"
   - source: "Documentário de casas tradicionais"
     refid : "51"
 relation:
-  - type: "depictedIn"
-    href: "/media/br-df-planaltina-casarao_azul-depha-950901/"
+  - type  : "depictedIn"
+    relids: "br-df-planaltina-casarao_azul-depha-950901"
+    href  : "/media/br-df-planaltina-casarao_azul-depha-950901/"
 log:
   - date: 2024-06-07
     text: "Corrige campos conforme modelo atualizado"

@@ -6,6 +6,17 @@ date: 2022-09-26
 bibliographicCitation:
   citekey : "@silva:2022panorama"
   href    : "https://repositorio.unb.br/handle/10482/43399"
+  text: >-
+    Silva Neto, Eurípedes Afonso da.
+    <cite>« Panorama da arquitetura em Goiás :
+    séculos <span style="font-variant:all-small-caps">XVIII, XIX</span>
+    e <span style="font-variant:all-small-caps">XX</span> »</cite>.
+    Tese de Doutorado em Arquitetura e Urbanismo,
+    Universidade de Brasília, Faculdade de Arquitetura e Urbanismo, 2022.
+    &lt;<a target="_blank"
+    href="https://repositorio.unb.br/handle/10482/43399">
+    https://repositorio.unb.br/handle/10482/43399
+    </a>&gt;.
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 62
@@ -34,31 +45,30 @@ coverage:
       state  : BR-GO
       country: "BR"
   temporal:
-    events:
-      - type: "creation"
-        text:
-          headline: "Construção"
-        start_date:
-          year: 1830
-        end_date:
-          year: 1840
-        qualifier: "década"
-        display_date: "década de 1830"
-      - type: "other"
-        text:
-          headline: "Venda"
-          text: >-
-            Herdeiros de Domingos Alves de Magalhães vendem a casa a
-            Euzébio Ceciliano Curado.
-        start_date:
-          year: 1930
-        display_date: "1930"
-      - type: "other"
-        text:
-          headline: "Venda"
-          text: "Casarão é adquirido pela municipalidade."
-        start_date:
-          year: 1940
+    - type: "creation"
+      text:
+        headline: "Construção"
+      start_date:
+        year: 1830
+      end_date:
+        year: 1840
+      qualifier: "década"
+      display_date: "década de 1830"
+    - type: "other"
+      text:
+        headline: "Venda"
+        text: >-
+          Herdeiros de Domingos Alves de Magalhães vendem a casa a
+          Euzébio Ceciliano Curado.
+      start_date:
+        year: 1930
+      display_date: "1930"
+    - type: "other"
+      text:
+        headline: "Venda"
+        text: "Casarão é adquirido pela municipalidade."
+      start_date:
+        year: 1940
 ---
 
 ---

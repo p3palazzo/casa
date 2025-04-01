@@ -9,9 +9,10 @@ teaser: "https://placehold.co/600x400"
 bibliographicCitation:
   citekey: "@iphan:2012planaltina"
   text: >-
-    Instituto do Patrimônio Histórico e Artistico Nacional, Inventário do Setor
-    Tradicional de Planaltina, org. Ana Laterza, Alessio Gallizio, e Pedro P.
-    Palazzo (Brasília: Superintendência do Iphan no Distrito Federal, 2012).
+    Instituto do Patrimônio Histórico e Artistico Nacional,
+    <cite>Inventário do Setor Tradicional de Planaltina</cite>,
+    org. Ana Laterza, Alessio Gallizio, e Pedro P. Palazzo
+    (Brasília: Superintendência do Iphan no Distrito Federal, 2012).
 coverage:
   spatial:
     location:
@@ -25,18 +26,17 @@ coverage:
         - "Mestre d'Armas"
         - "Goiás"
   temporal:
-    events:
-      - type: "creation"
-        start_date:
-          year: "1899"
-        text:
-          headline: "Construção da casa"
-      - type: "restoration"
-        start_date:
-          year: "1974"
-        text:
-          headline: "Tombamento"
-          text: "Tombamento estadual, desapropriação e restauro"
+    - type: "creation"
+      start_date:
+        year: "1899"
+      text:
+        headline: "Construção da casa"
+    - type: "restoration"
+      start_date:
+        year: "1974"
+      text:
+        headline: "Tombamento"
+        text: "Tombamento estadual, desapropriação e restauro"
 identifier:
   - source: "Inventário do Setor Tradicional de Planaltina"
     refid : 
