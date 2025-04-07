@@ -24,7 +24,7 @@
 # Por praticidade de leitura, é bom deixar o `title:` em primeiro.     #
 ########################################################################
 title             : "" # Se a obra não tiver título próprio, usar um título descritivo sucinto.
-titleType         : "owner" # brandName, cited, creator, descriptive, former, inscribed, owner, popular, repository, translated, other
+titleType         : "descriptive" # brandName, cited, creator, descriptive, former, inscribed, owner, popular, repository, translated, other
 # alternative:      # Outros nomes pelos quais a obra é conhecida.
 #   - type        : # Como titleType acima.
 #     text        :
@@ -66,26 +66,6 @@ excerpt: >- # Descrição sucinta para aparecer em listagens. Começar
 #    vocab         : ""
 #    refid         : ""
 #    href          : ""
-format:
-#  extent: # https://www.loc.gov/standards/vracore/schemas.html
-#    - type        : "area" # area, base, circumference, count, depth, diameter, distanceBetween, height, length, width, other
-#      measurements: # apenas o valor numérico, se necessário com ponto decimal
-#      unit        : "m²"
-#  medium: # Usar vocabulários controlados sempre que possível.
-#    material:
-#      - type      : "" # medium (default), support, other
-#        text      : "" # Usar vocabulário controlado se possível
-#        vocab     : "" # Caso use vocabulário controlado, preencher os...
-#        refid     : "" # ...campos `vocab` e `refid`.
-#    technique: # Processos, técnicas e métodos de produção ou restauro
-#      - text      : "" # Usar vocabulário controlado se possível
-#        vocab     : "" # Caso use vocabulário controlado, preencher os...
-#        refid     : "" # ...campos `vocab` e `refid`.
-#  inscription:
-#    - author  : ""
-#      position: ""
-#      text    : ""
-#      type    : "" # signature, mark, caption, date, text, translation, other (default)
 bibliographiCitation: # Fonte de autoridade para informações básicas sobre a obra. Não exclui a citação a outras fontes no texto da ficha.
   citekey : ""  # No formato "@iphan:2012inventario", conforme cadastrado no Zotero/Better BibLaTeX.
   href    : ""  # Conforme o caso, ambos os campos citekey e href podem ser preenchidos, ou apenas um deles.
@@ -105,13 +85,14 @@ coverage:
 #      lat             :    # Em graus decimais, negativos para o Sul e Oeste.
 #      long            :    # Separar os decimais com ponto em vez de vírgula.
 #      alt             :    # Em metros acima do nível do mar.
+#      azim            :    # Azimute em graus decimais (orientação da fachada com respeito ao norte)
       zoom            : "16" # Zoom padrão do mapa gerado pelo plugin Leaflet.js
       name:                # O campo `name` pode ser qualquer localidade nomeável, não precisa ser um endereço postal.
         type          : "personal" # corporate, geographic, personal (padrão), other
         text          : "" # Pode ter mais de uma linha.
-#      city            : "" # Cidade, estado e país devem usar os nomes atuais das localidades.
-#      state           : "" # Nome do estado por extenso!
-      country         : "BR" # Código ISO.
+#     city            : "" # Cidade, estado e país devem usar os nomes atuais das localidades.
+#     state           : "" # Nome do estado por extenso!
+#     country         : "BR" # Código ISO.
 #     locationHistoric:    # Escopos geográficos antigos
 #       - ""               # Se tiver mais de um item, representar em forma de lista.
 #  temporal:
@@ -152,6 +133,31 @@ coverage:
 #    - text            : ""
 #      vocab           : ""
 #      refid           : ""
+#format:
+#  measurements: # https://www.loc.gov/standards/vracore/schemas.html
+#    - type        : "area", base, height, length, width, circumference, count, depth, diameter, distanceBetween, other
+#      class       : "building" # site, building, storey, space, element, interface (conforme https://w3c-lbd-cg.github.io/bot/#Zone)
+#      element_type: # abreviatura do elemento conforme tabelas AsBEA ou ISO, se for o caso
+#      element     : # identificação do elemento no edifício, se for o caso
+#      vocab       : "" # Caso use vocabulário controlado, preencher os...
+#      refid       : "" # ...campos `vocab` e `refid`.
+#      value       : # apenas o valor numérico, se necessário com ponto decimal
+#      unit        : "m2" # m (metro), p (palmo) ou m2 (metro quadrado)
+#  medium: # Usar vocabulários controlados sempre que possível.
+#    material:
+#      - type      : "" # medium (default), support, other
+#        text      : "" # Usar vocabulário controlado se possível
+#        vocab     : "" # Caso use vocabulário controlado, preencher os...
+#        refid     : "" # ...campos `vocab` e `refid`.
+#    technique: # Processos, técnicas e métodos de produção ou restauro
+#      - text      : "" # Usar vocabulário controlado se possível
+#        vocab     : "" # Caso use vocabulário controlado, preencher os...
+#        refid     : "" # ...campos `vocab` e `refid`.
+#  inscription:
+#    - author  : ""
+#      position: ""
+#      text    : ""
+#      type    : "" # signature, mark, caption, date, text, translation, other (default)
 #subject: # Refere-se ao conteúdo da obra, conforme https://www.loc.gov/standards/vracore/schemas.html
 #  - type              : "" # conceptTopic, descriptiveTopic, iconographicTopic, otherTopic, builtworkPlace, geographicPlace, otherPlace, corporateName, familyName, personalName, scientificName, otherName
 #    text              : ""

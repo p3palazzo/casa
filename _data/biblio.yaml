@@ -1,5 +1,82 @@
 ---
 references:
+- id: andrade:2023guia
+  abstract: >-
+    A consolidação deste material para nós do Grupo Periférico, representa o
+    esforço coletivo de muitos olhares, diálogos, trocas e esforços. A relação
+    entre o grupo e a comunidade Kalunga se iniciou desde
+
+    2016, com os trabalhos de conclusão de curso em arquitetura e urbanismo com
+    o projeto “Corredor Cultura”de Caio Damasceno e o “Sentido Kalunga” por
+    Talita Maboni, coordenadores adjuntos desse projeto, orientados pela
+    professora Liza Andrade.
+
+    Se hoje temos algo a apresentar e compartilhar com a sociedade, foi devido a
+    um longo processo que se iniciou na conversa e, principalmente, na escuta
+    coletiva. A premissa de trabalho do nosso grupo é a relação dialógica de
+    troca de saberes, preconizada pela pedagogia Freiriana.
+
+    Desde então, buscamos aprender mais sobre o território para que o tema dos
+    projetos estivesse integrado a realidade vigente, criando parcerias com a
+    comunidade Kalunga e demais pesquisadores que também trabalham de forma
+    ativa para que a produção acadêmica alcance áreas periféricas, sempre
+    somando apoio e diversidade ao trabalho.
+
+    Com a criação do Pólo Kalunga UnB em 2021, demos continuidade aos trabalhos
+    em desenvolvimento e oportunamente aprofundamos os estudos técnicos junto a
+    comunidade. É evidente que nada seria
+
+    possível sem a receptividade e apoio da comunidade Kalunga, ao compartilhar
+    tantas experiências de vida e da realidade local conosco.
+
+    A perspectiva de um Guia de Arquitetura Vernacular Kalunga, antes de mais
+    nada, busca valorizar e protagonizar os saberes quilombolas ancestrais,
+    especialmente no contexto de crise
+
+    climática e revisão dos padrões construtivos que degradam o meio ambiente. A
+    bioconstrução, nome atual para uma prática construtiva integrada aos
+    elementos da natureza de forma sustentável, apontam
+
+    caminhos de autonomia e protagonismo social incentivadas e perseguidas pelo
+    Grupo Periférico.
+  accessed:
+    - year: 2023
+      month: 10
+      day: 9
+  author:
+    - family: Andrade
+      given: Liza Maria Souza
+      dropping-particle: de
+    - family: Kalunga
+      given: Carlos Pereira
+    - family: Damasceno
+      given: Caio Monteiro
+    - family: Maboni
+      given: Talita Xavier
+    - family: Oliveira
+      given: Luana Figueiredo de Carvalho
+    - family: Pazos
+      given: Valmor Cerqueira
+  citation-key: andrade:2023guia
+  event-place: Brasília
+  ISBN: 978-65-84854-17-8
+  issued:
+    - year: 2023
+      month: 9
+      day: 20
+  language: por
+  publisher: >-
+    LaSUS <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">FAU</span>–UnB
+  publisher-place: Brasília
+  source: Câmara Brasileira do Livro ISBN
+  title: >-
+    Guia da arquitetura vernacular Kalunga: difusão e preservação dos saberes
+    tradicionais
+  title-short: Guia da arquitetura vernacular Kalunga
+  type: book
+  URL: https://www.perifericounbkalunga.com/guia-avk
+
 - id: aragao:2017ensaio
   author:
     - family: Aragão
@@ -135,7 +212,7 @@ references:
   issued:
     - year: 2015
       month: 5
-  language: it
+  language: ita
   page: 38–47
   publisher: Argumentum
   publisher-place: Lisboa
@@ -143,6 +220,25 @@ references:
   title: 'Tipologie dell''abitare: Ipotesi evolutive e quadro metodologico'
   title-short: Tipologie dell'abitare
   type: paper-conference
+
+- id: coelho:2001vila1
+  author:
+    - family: Coelho
+      given: Gustavo Neiva
+  call-number: F2566 .C74 2001
+  citation-key: coelho:2001vila1
+  collection-title: Guia dos bens imóveis tombados em Goiás
+  event-place: Goiânia
+  ISBN: 978-85-900316-3-5 978-85-900316-9-7
+  issued:
+    - year: 2001
+  language: por
+  publisher: Trilhas Urbanas
+  publisher-place: Goiânia
+  source: Library of Congress ISBN
+  title: Vila Boa
+  type: book
+  volume: '1'
 
 - id: costa:2015moradas
   author:
@@ -167,7 +263,7 @@ references:
   ISBN: 978-972-8479-85-5
   issued:
     - year: 2015
-  language: pt
+  language: por
   page: 13-19
   publisher: Argumentum ; Campo Arqueológico de Mértola
   publisher-place: 'Lisboa : Mértola'
@@ -178,6 +274,42 @@ references:
     XX
   title-short: As moradas de casas do núcleo intramuros de Mértola
   type: paper-conference
+
+- id: czajkowski:2000guia
+  citation-key: czajkowski:2000guia
+  editor:
+    - family: Czajkowski
+      given: Jorge
+  event-place: Rio de Janeiro
+  ISBN: 978-85-87220-27-1
+  issued:
+    - year: 2000
+  language: por
+  number-of-pages: '216'
+  publisher: 'Centro de Arquitetura e Urbanismo : Casa da Palavra'
+  publisher-place: Rio de Janeiro
+  source: Google Books
+  title: Guia da arquitetura eclética no Rio de Janeiro
+  type: book
+
+- id: czajkowski:2001guia
+  call-number: NA857.R5 G853 2001
+  citation-key: czajkowski:2001guia
+  collection-title: Coleção Guias da arquitetura no Rio de Janeiro
+  editor:
+    - family: Czajkowski
+      given: Jorge
+  event-place: Rio de Janeiro
+  ISBN: 978-85-87220-25-7
+  issued:
+    - year: 2001
+  language: por
+  number-of-pages: '219'
+  publisher: 'Centro de Arquitetura e Urbanismo : Casa da Palavra'
+  publisher-place: Rio de Janeiro
+  source: Library of Congress ISBN
+  title: Guia da arquitetura colonial, neoclássica e romântica no Rio de Janeiro
+  type: book
 
 - id: feijo:2002arquitetura
   abstract: >-
@@ -350,6 +482,68 @@ references:
   title-short: Casario imperial
   type: thesis
   URL: http://www.teses.usp.br/teses/disponiveis/16/16133/tde-20122016-142726/
+
+- id: iephamg:2014guia1
+  author:
+    - literal: IEPHA/MG
+  citation-key: iephamg:2014guia1
+  edition: '2'
+  event-place: Belo Horizonte
+  ISBN: 85-66502-02-7
+  issued:
+    - year: 2014
+      month: 8
+      day: 2
+  language: por
+  publisher: Instituto Estadual do Patrimônio Histórico e Artístico de Minas Gerais
+  publisher-place: Belo Horizonte
+  source: ResearchGate
+  title: Guia dos bens tombados
+  type: book
+  volume: '1'
+
+- id: iephamg:2014guia2
+  abstract: >-
+    O Guia dos Bens Tombados do Iepha-MG é uma publicação que reúne informações
+    históricas e arquitetônicas sobre bens tombados pelo Estado. O objetivo da
+    publicação é valorizar e promover o patrimônio cultural protegido,
+    tornando-o conhecido por todos. Trata-se de uma importante fonte de pesquisa
+    para estudantes, arquitetos, historiadores, restauradores e demais
+    interessados em melhor conhecer a riqueza e a diversidade cultural de Minas
+    Gerais.
+  author:
+    - literal: IEPHA/MG
+  citation-key: iephamg:2014guia2
+  edition: '2'
+  event-place: Belo Horizonte
+  ISBN: 978-85-66502-02-2
+  issued:
+    - year: 2014
+      month: 8
+      day: 2
+  language: por
+  publisher: Instituto Estadual do Patrimônio Histórico e Artístico de Minas Gerais
+  publisher-place: Belo Horizonte
+  source: ResearchGate
+  title: Guia dos bens tombados
+  type: book
+  volume: '2'
+
+- id: iphan:2010casas
+  author:
+    - literal: Iphan
+  citation-key: iphan:2010casas
+  collection-title: Imagens
+  ISBN: 978-85-7334-172-0
+  issued:
+    - year: 2010
+      month: 10
+      day: 20
+  language: por
+  publisher: Iphan
+  source: Câmara Brasileira do Livro ISBN
+  title: Casas do Patrimônio
+  type: book
 
 - id: iphan:2010dossie1
   abstract: >-
@@ -1172,6 +1366,22 @@ references:
   title-short: Panorama da arquitetura em Goiás
   type: thesis
   URL: https://repositorio.unb.br/handle/10482/43399
+
+- id: souza:1992guia
+  author:
+    - family: Souza
+      given: Alcídio Mafra
+      dropping-particle: de
+  citation-key: souza:1992guia
+  event-place: Florianópolis
+  issued:
+    - year: 1992
+  language: por
+  publisher: Fundação Catarinense de Cultura
+  publisher-place: Florianópolis
+  source: Google Scholar
+  title: Guia dos bens tombados, Santa Catarina
+  type: book
 
 - id: teixeira:2009arquitectura
   abstract: >-
