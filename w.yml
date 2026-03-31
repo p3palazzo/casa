@@ -112,7 +112,7 @@ coverage:
     ###################################################################
     #    Georreferenciamento no formato geoJSON conforme CIDOC-CRM    #
     ###################################################################
-    geo: # Obter os dados de georreferenciamento seguindo as mesmas instruções do UBID, acima.
+    extent: # Obter os dados de georreferenciamento seguindo as mesmas instruções do UBID, acima.
       # No primeiro site, converter para GeoJSON.
       type: "Polygon"
       coordinates: []
@@ -244,8 +244,8 @@ header:
   overlay_filter: 0.7
 # Registro de modificações na ficha:
 log:
-  - date: 
-    message: ""
+# - date: 
+#   message: ""
 ########################################################################
 # As linhas abaixo são usadas como padrão e não precisam ser copiadas  #
 # para a ficha de cada mídia.                                          #
@@ -258,9 +258,4 @@ type:
       vocab       : "TAM"
       refid       : "04.2"
 layout: "layouts/obra.njk"
-tags: [ "w", "casa", "edificio" ]
-css:
-  - "/assets/leaflet/leaflet.css"
-  - "/assets/timelinejs/css/timeline.css"
-permalink: "/{{ page.fileSlug | slugify }}/"
-toc: true
+tags: [ "casa", "edificio" ]

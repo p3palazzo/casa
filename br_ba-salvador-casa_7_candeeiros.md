@@ -7,6 +7,15 @@ excerpt: >
   Casa senhorial urbana da segunda metade do século
   <span style="font-variant:all-small-caps">XVII</span>
   com cantaria de lioz e silhares azulejados.
+header:
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg/2560px-Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg"
+  teaser: "https://hpip.org/images/hpip/heritage/1161/Casa_dos_Sete_Candeeiros.jpg"
+  caption: >
+    Foto por
+    <a href="https://commons.wikimedia.org/wiki/File:Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg">
+      Paul R. Burley, 2018
+    </a>
+
 identifier:
 # - source: "Documentário de casas tradicionais"
 #   refid : 50
@@ -26,6 +35,7 @@ identifier:
   - source: "iPatrimônio"
     refid : "19526"
     href  : "https://www.ipatrimonio.org/?p=19526"
+
 bibliographicCitation:
   - relids: "978-85-7334-172-0"
     href  : "http://portal.iphan.gov.br/uploads/publicacao/ColImg7_CasasPatrimonio_m.pdf"
@@ -36,14 +46,7 @@ bibliographicCitation:
       Instituto do Patrimônio Histórico e Artístico Nacional, 
       2010
     pages: "24–25"
-header:
-  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg/2560px-Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg"
-  teaser: "https://hpip.org/images/hpip/heritage/1161/Casa_dos_Sete_Candeeiros.jpg"
-  caption: >
-    Foto por
-    <a href="https://commons.wikimedia.org/wiki/File:Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg">
-      Paul R. Burley, 2018
-    </a>
+
 contributor:
   - name: "Antônio Elias da Fonseca Galvão"
     type: "personal"
@@ -51,14 +54,16 @@ contributor:
     source:
       - relids: "978-85-7334-172-0"
         page  : "24-25"
+
 format:
   extent:
     - type: "area"
       measurements: 329
       unit: "m²"
+
 coverage:
   spatial:
-    geo:
+    extent:
       type: "Polygon"
       coordinates: [[[-38.511918957601786,-12.97585704459446],[-38.511686265978774,-12.975744934079126],[-38.51162138913221,-12.975882332673637],[-38.51185494577983,-12.975984327900218],[-38.511918957601786,-12.97585704459446]]]
       projection: "EPSG:4326 WGS84"
@@ -81,6 +86,7 @@ coverage:
       country: "BR"
       locationHistoric:
         - "Travessa do Ximenes"
+
   temporal:
     - type: "creation"
       text:
@@ -134,26 +140,6 @@ coverage:
           <cite title="Casas do Patrimônio">Casas do Patrimônio.</cite>
           Imagens. Brasília: Instituto do Patrimônio Histórico e 
           Artístico Nacional, 2010: 24--25.
-relation:
-  isDocumentedBy:
-    - relids: "59V32FFQ+M75-5-5-5-5-ARQTRAD-LVE-TER-D1-A-20010-0001"
-      title : "Planta do pavimento térreo"
-      author: "0009-0006-7479-6365"
-      date  : 2024-02-11
-      href  :
-      format:
-        medium: [ "dxf" ]
-      source:
-        - relids: "978-85-7334-172-0"
-          href  : "http://portal.iphan.gov.br/uploads/publicacao/ColImg7_CasasPatrimonio_m.pdf"
-          text: >-
-            Galvão, Marco Antônio Pereira (org.).
-            <cite title="Casas do Patrimônio">Casas do Patrimônio.</cite>
-            Imagens. Brasília:
-            Instituto do Patrimônio Histórico e Artístico Nacional, 
-            2010: 25.
-      coverage:
-        temporal:
 ---
 
 <figure>
