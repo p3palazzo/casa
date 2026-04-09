@@ -21,7 +21,7 @@
 ##                        CAMPOS OBRIGATÓRIOS                         ##
 ########################################################################
 ########################################################################
-id: "" # OLC (Open Location Code) do gabarito da edificação # lido:lidoRecID
+id: "" # OLC (Open Location Code) do gabarito da edificação # lido:lidoRecID # usar como permalink
 # Para calcular o OLC, seguir os passos a seguir:
 # 1. Instalar o plugin Lat Lon Tools no QGIS.
 # 2. Obter o polígono georreferenciado do imóvel num levantamento georreferenciado,
