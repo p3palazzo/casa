@@ -748,50 +748,68 @@ relation:
       # como sendo o próprio objeto relacionado <lido:relatedWork>.
       source: # Formatar como os demais grupos `source`.
     # </lido:sourceRelatedWorkSet>
+    # Metadados arquitetônicos                                      {{{6
+    # Os grupos abaixo não fazem parte da especificação LIDO.
+    # Usamos unicamente para cadastrar metadados referentes a desenhos
+    # arquitetônicos usados nas normas técnicas e boas práticas correntes.
+    # Não devem ser usados para outros tipos de relação.
+      extent: # Parte do objeto respectiva à relação, como um pavimento,
+              # bloco ou setor, ou ainda locação, situação, etc.
+              # Formatar como os demais grupos `extent`.
+              # Obs.: a especificação LIDO determina que, nesses casos,
+              # se cadastre uma ficha separada para a parte do objeto
+              # em questão. Não faremos isso por acarretar excessiva
+              # complexidade no cadastramento e recuperação de dados.
+      actor:  # Quem fez o redesenho para este projeto de pesquisa,
+              # e outros responsáveis pelo levantamento.
+              # Formatar como `event: actor`.
+      format:
+        medium:
+          - type: ""  # A extensão do nome do arquivo sem o ponto. Se omitido, o padrão é "dxf".
+      classification: # [0-9] ISO 19650-2
+      # 0 = geral, 1 = planta baixa (padrão), 2 = elevação, 3 = corte, 4 = mapa de elementos, 5 = detalhe, 6 = mapa de revestimentos, 7 = planta de forro, 8 = vista ou modelo 3D, 9 = definido pelo agente
+      revision   : "" # BS1192
+      suitability: "" # BS1192
+      date:     # Data da atual revisão do desenho.
+      coverage: # Período histórico representado no desenho,
+                # sem relação com a data na qual o desenho foi feito.
+                # Todos os grupos são opcionais.
+        period:   # Formatar como `event: period`.
+        temporal: # Formatar como outros grupos de data.
+          earliestDate:
+            type:
+            date:
+            qualifier:
+            displayDate:
+          latestDate:
+            type:
+            date:
+            qualifier:
+            displayDate:
 # </lido:relatedWorksSet>
 # </lido:relatedWorksWrap>
-########################################################################
-# Os desenhos vetoriais gerados neste projeto de pesquisa ou por nós   #
-# adaptados devem ser incluídos nos tipos de relação `isDocumentedBy`  #
-# e `isSupplementedBy`.                                                #
-########################################################################
-  isDocumentedBy:
-#   - relids : "" # Referência do objeto relacionado (nome de arquivo da ficha)
-#     text   : "" # Legenda da imagem ou título do desenho
-#     author : "" # Quem fez o redesenho para este projeto de pesquisa.
-#     date   :    # Data da atual revisão do redesenho.
-#     href   : "" # Link direto para a imagem, no caso de arquivos hospedados em outro servidor.
-#     format:
-#       medium:
-#         - type: "" # A extensão do nome do arquivo sem o ponto. Se omitido, o padrão é "dxf".
-#   classification    :    # 0 = geral, 1 = planta baixa (padrão), 2 = elevação, 3 = corte, 4 = mapa de elementos, 5 = detalhe, 6 = mapa de revestimentos, 7 = planta de forro, 8 = vista ou modelo 3D, 9 = definido pelo agente
-#   revision          : "" # Formato BS1192
-#   suitability       : "" # Formato BS1192
-#   source:                # Original(is) a partir do(s) qual(is) o redesenho foi feito.
-#     - relids        : "" # Caso o original tenha uma cota de arquivo ou outro identificador.
-#       href          : "" # Link onde o original pode ser encontrado, se houver.
-#       text          : "" # Título ou descrição sucinta que identifique o original.
-#       creator:           # Autor (arquiteto ou desenhista) do original, se conhecido ou diferente do `creator` da edificação.
-#         name        : ""
-#         type        : ""
-#         attribution : ""
-#         vocab       : ""
-#         refid       : ""
-#         href        : ""
-#   coverage:
-#     temporal:            # Período histórico da edificação ao qual o desenho corresponde.
-#       start_date:
-#         year       :
-#         display_date:
-#       end_date:
-#         year       :
-#         display_date:
 # </lido:objectRelationWrap>
 # </lido:descriptiveMetadata>
 # -------------------------------------------------------------------- #
 ########################################################################
 #                       Bloco 3 : Administrativo                  {{{2 #
 ########################################################################
+# <lido:administrativeMetadata xml:lang="@lang">
+# Direitos
+# <lido:rightsWorkWrap>                                             {{{3
+rights:
+  - type: "" # Generic or specific: http://terminology.lido-schema.org/rightsType_type
+    href: ""
+    display: # <lido:creditLine>
+      - lang: ""
+        text: ""
+    temporal: # <lido:rightsDate>
+      earliestDate: # Formatar como outros grupos de data.
+      latestDate:
+    holder: # Formatar como `legalBody` mesmo em se tratando de uma
+            # pessoa física.
+# </lido:rightsWorkWrap>                                             {{{3
+# -------------------------------------------------------------------- #
 # Registro de modificações na ficha:
 record: # lido:administrativeMetadata > lido:recordWrap
   # lido:recordInfoSet > lido:recordMetadataDate : no campo `date`, l. 32
