@@ -695,146 +695,278 @@ subject:
 #
 # - has plan / has floor plan / has section / has elevation / has rendering:
 #   Essas relações mostram a existência de desenhos técnicos da
-#   edificação, sejam eles históricos ou recentes.
+#   edificação, sejam eles históricos ou recentes, compilados de fontes
+#   externas a este projeto de pesquisa.
 #
 # - has construction drawing / has design / has sketch:
 #   Essas relações se referem a desenhos históricos (fontes primárias)
 #   que atestam o processo de projeto da edificação.
 #
-# Devido à características do nosso projeto, precisamos compilar listas
-# de referências separadas por tipo de relação.
-# Por isso, e como há uma variedade finita de tipos de relação,
-# o nosso grupo `relation` está subdividido em grupos deterministas
-# segundo o tipo.
+########################################################################
+# ATENÇÃO : OS DESENHOS PRODUZIDOS POR ESTE PROJETO DE PESQUISA DEVEM  #
+#           SER CADASTRADOS NO GRUPO `RESOURCE`, MAIS ABAIXO.          #
+# O grupo `relation` é destinado unicamente a cadastrar relações desta #
+# edificação com objetos autônomos, tais como outras edificações,      #
+# conjuntos urbanos, obras de artes visuais, referências               #
+# bibliográficas ou acervos arquivísticos.                             #
 ########################################################################
 relation:
-  # Acrescentar grupos para outros tipos de relação conforme necessário.
-  hasPlan:
   # <lido:relatedWorksSet lido:sortorder="@sortorder">              {{{5
-    - sortorder: # [1-n]
-      display: # <lido:displayRelatedWork xml:lang="@lang">         {{{6
-        lang: "pt"
+  - sortorder: # [1-n]
+    display: # <lido:displayRelatedWork xml:lang="@lang">           {{{6
+      lang: "pt"
+      text: ""
+  # <lido:relatedWorkRelType><skos:Concept>                         {{{6
+    type: "" # http://terminology.lido-schema.org/relatedWorkRelType
+    # ATENÇÃO: A obra titular desta ficha é o SUJEITO da relação.
+    # Portanto, se estamos citando uma pintura que retrata a edificação
+    # objeto desta ficha, o tipo de relação será "Is Depicted In", na
+    # voz passiva.
+  # </lido:relatedWorkRelType>
+  # <lido:relatedWork>                                              {{{6
+    displayObject: # <lido:displayObject xml:lang="@lang">          {{{7
+      - lang: "pt"
         text: ""
-    # <lido:relatedWorkRelType><skos:Concept>                       {{{6
-      type: "" # http://terminology.lido-schema.org/relatedWorkRelType
-      # ATENÇÃO: A obra titular desta ficha é o SUJEITO da relação.
-      # Portanto, se estamos citando uma pintura que retrata a edificação
-      # objeto desta ficha, o tipo de relação será "Is Depicted In", na
-      # voz passiva.
-    # </lido:relatedWorkRelType>
-    # <lido:relatedWork>                                            {{{6
-      displayObject: # <lido:displayObject xml:lang="@lang">        {{{7
-        - lang: "pt"
-          text: ""
-      # <lido:object>                                               {{{7
-      # Para objetos não cadastrados no nosso banco de dados,
-      # usar preferencialmente um identificador universal como Wikidata.
-      object: # <lido:objectID> Formatar como o grupo <lido:objectPublishedID>
-      # Preencher os grupos abaixo no caso de o objeto não estar
-      # cadastrado nas nossas bases de dados.
-      webResource: # <lido:objectWebResource>
-        - href: ""
-      type: # <lido:objectType> Formatar como o grupo <lido:objectWorkTypeWrap>
-      name: # <lido:objectName> Formatar como o grupo <lido:titleSet>
-      note: # <lido:objectNote>
-        - lang: "pt"
-          text: ""
-      # </lido:object>
-    # </lido:relatedWork>
-    # <lido:sourceRelatedWorkSet>                                   {{{6
-      # O grupo `source` serve para indicar fontes de informação SOBRE
-      # este relacionamento. No caso de uma relação de referência
-      # bibliográfica (is documented by), a referência deve ser cadastrada
-      # como sendo o próprio objeto relacionado <lido:relatedWork>.
-      source: # Formatar como os demais grupos `source`.
-    # </lido:sourceRelatedWorkSet>
-    # Metadados arquitetônicos                                      {{{6
-    # Os grupos abaixo não fazem parte da especificação LIDO.
-    # Usamos unicamente para cadastrar metadados referentes a desenhos
-    # arquitetônicos usados nas normas técnicas e boas práticas correntes.
-    # Não devem ser usados para outros tipos de relação.
-      extent: # Parte do objeto respectiva à relação, como um pavimento,
-              # bloco ou setor, ou ainda locação, situação, etc.
-              # Formatar como os demais grupos `extent`.
-              # Obs.: a especificação LIDO determina que, nesses casos,
-              # se cadastre uma ficha separada para a parte do objeto
-              # em questão. Não faremos isso por acarretar excessiva
-              # complexidade no cadastramento e recuperação de dados.
-      actor:  # Quem fez o redesenho para este projeto de pesquisa,
-              # e outros responsáveis pelo levantamento.
-              # Formatar como `event: actor`.
-      format:
-        medium:
-          - type: ""  # A extensão do nome do arquivo sem o ponto. Se omitido, o padrão é "dxf".
-      classification: # [0-9] ISO 19650-2
-      # 0 = geral, 1 = planta baixa (padrão), 2 = elevação, 3 = corte, 4 = mapa de elementos, 5 = detalhe, 6 = mapa de revestimentos, 7 = planta de forro, 8 = vista ou modelo 3D, 9 = definido pelo agente
-      revision   : "" # BS1192
-      suitability: "" # BS1192
-      date:     # Data da atual revisão do desenho.
-      coverage: # Período histórico representado no desenho,
-                # sem relação com a data na qual o desenho foi feito.
-                # Todos os grupos são opcionais.
-        period:   # Formatar como `event: period`.
-        temporal: # Formatar como outros grupos de data.
-          earliestDate:
-            type:
-            date:
-            qualifier:
-            displayDate:
-          latestDate:
-            type:
-            date:
-            qualifier:
-            displayDate:
-# </lido:relatedWorksSet>
-# </lido:relatedWorksWrap>
-# </lido:objectRelationWrap>
-# </lido:descriptiveMetadata>
+    # <lido:object>                                                 {{{7
+    # Para objetos não cadastrados no nosso banco de dados,
+    # usar preferencialmente um identificador universal como Wikidata.
+    object: # <lido:objectID> Formatar como o grupo <lido:objectPublishedID>
+    # Preencher os grupos abaixo no caso de o objeto não estar
+    # cadastrado nas nossas bases de dados.
+    webResource: # <lido:objectWebResource>
+      - href: ""
+    type: # <lido:objectType> Formatar como o grupo <lido:objectWorkTypeWrap>
+    name: # <lido:objectName> Formatar como o grupo <lido:titleSet>
+    note: # <lido:objectNote>
+      - lang: "pt"
+        text: ""
+    # </lido:object>
+  # </lido:relatedWork>
+  # <lido:sourceRelatedWorkSet>                                     {{{6
+    # O grupo `source` serve para indicar fontes de informação SOBRE
+    # este relacionamento. No caso de uma relação de referência
+    # bibliográfica (is documented by), a referência deve ser cadastrada
+    # como sendo o próprio objeto relacionado <lido:relatedWork>.
+    source: # Formatar como os demais grupos `source`.
+  # </lido:sourceRelatedWorkSet>
+# </lido:descriptiveMetadata>                                       {{{2
 # -------------------------------------------------------------------- #
 ########################################################################
 #                       Bloco 3 : Administrativo                  {{{2 #
 ########################################################################
 # <lido:administrativeMetadata xml:lang="@lang">
-# Direitos
 # <lido:rightsWorkWrap>                                             {{{3
+# Direitos
 rights:
-  - type: "" # Generic or specific: http://terminology.lido-schema.org/rightsType_type
-    href: ""
+  - type: "generic"
+    # Generic or specific: http://terminology.lido-schema.org/rightsType_type
+    href: "https://rightsstatements.org/vocab/NKC/1.0/"
     display: # <lido:creditLine>
-      - lang: ""
-        text: ""
+      - lang : "pt"
+        text : "Sem direito autoral conhecido"
+        media: |
+          <img src="https://rightsstatements.org/files/buttons/NKC.white.svg" alt="Marca da licença: sem direito autoral conhecido" style="max-width: 1em;max-height:1em;" />
     temporal: # <lido:rightsDate>
       earliestDate: # Formatar como outros grupos de data.
       latestDate:
     holder: # Formatar como `legalBody` mesmo em se tratando de uma
             # pessoa física.
-# </lido:rightsWorkWrap>                                             {{{3
+# </lido:rightsWorkWrap>
 # -------------------------------------------------------------------- #
-# Registro de modificações na ficha:
-record: # lido:administrativeMetadata > lido:recordWrap
-  # lido:recordInfoSet > lido:recordMetadataDate : no campo `date`, l. 32
-  events: # Registros de alterações à ficha.
+# <lido:collection>                                                 {{{3
+# O formato deste grupo não segue o padrão LIDO, mas tem uma sintaxe
+# simplificada para se adequar ao funcionamento do gerador de sites.
+# As tags padrão não precisam ser copiadas para a ficha específica.
+# O acréscimo de novas coleções (tags) só deve ser feito mediante
+# decisão curatorial da coordenação deste projeto de pesquisa.
+tags:
+  - "casa"
+  - "edifício"
+# </lido:collection>
+# -------------------------------------------------------------------- #
+# <lido:resourceWrap>                                               {{{3
+resource:
+  # <lido:resourceSet lido:sortorder="@sort">                       {{{4
+  - sort: # [1-n] Ordem de apresentação dos itens.
+    # <lido:resourceRepresentation lido:type="@type">               {{{5
+    # Cada recurso pode ser apresentado sob várias representações, como
+    # pré-visualização, ampliação, ou serviço IIIF.
+    representation:
+      # http://terminology.lido-schema.org/resourceRepresentation_type
+      - type: "placeholder"
+        format: ""
+        href: ""
+        measurements:
+          - type:
+            unit:
+            value:
+    # </lido:resourceRepresentation>
+    # <lido:resourceType><skos:Concept rdt:about="@type">           {{{5
+    type: "" # Trata-se do suporte (no caso, digital) e não do teor do desenho (planta, corte, etc.).
+    # </lido:resourceType>
+    # <lido:resourceDescription xml:lang="@lang">                   {{{5
+    description:
+      - lang: "pt"
+        text: ""
+    # </lido:resourceDescription>
+    # <lido:resourcePerspective>                                    {{{5
+    # Tipo de vista do desenho.
+    # TODO: como padronizar vistas previstas na ISO 19650-2?
+    # 0 = geral, 1 = planta baixa (padrão), 2 = elevação, 3 = corte, 4 = mapa de elementos, 5 = detalhe, 6 = mapa de revestimentos, 7 = planta de forro, 8 = vista ou modelo 3D, 9 = definido pelo agente
+    # Cotejar com vocabulário AAT.
+    perspective:
+    # </lido:resourcePerspective>
+    # <lido:resourceDateTaken>                                      {{{5
+    date: # Data da versão atual deste desenho.
+      display: # <lido:displayDate>text</lido:displayDate>
+        - lang: "pt"
+          text:
+      # <lido:date>
+      earliestDate:
+      latestDate:
+      # </lido:date>
+    # </lido:resourceDateTaken>
+    # <lido:resourceSource>                                         {{{5
+    source: # Responsável(is) pelo desenho e outros papéis.
+    # </lido:resourceSource>
+    # <lido:rightsResource>                                         {{{5
+    rights:
+        # Generic or specific: http://terminology.lido-schema.org/rightsType_type
+      - type: "generic"
+        href: "https://creativecommons.org/licenses/by-sa/4.0/"
+        display: # <lido:creditLine>
+          - lang : "pt"
+            text: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
+            media : |
+              <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+              <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+              <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+              <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+        temporal: # <lido:rightsDate>
+          earliestDate: 2024
+          latestDate: 9999
+        # <lido:rightsHolder>
+        # Formatar como `legalBody` mesmo em se tratando de pessoa física.
+        holder:
+            # <lido:legalBodyID lido:type="@type">refid</lido:legalBodyID>
+          - type : "http://terminology.lido-schema.org/lido00099" # local
+            refid: "00.038.174/0001-43"
+            href : "https://docmod.unb.br" # <lido:legalBodyWebLink>
+            display: # <lido:legalBodyName>
+              - text: "Universidade de Brasília" # <lido:appellationValue>
+                lang: "pt"
+                pref: true
+    # <lido:rightsResource>
+  # Metadados arquitetônicos                                        {{{5
+  # Os grupos abaixo não fazem parte da especificação LIDO.
+  # Usamos unicamente para cadastrar metadados referentes a desenhos
+  # arquitetônicos usados nas normas técnicas e boas práticas correntes.
+  # Não devem ser usados para outros tipos de relação.
+    extent: # Parte do objeto respectiva à relação, como um pavimento,
+            # bloco ou setor, ou ainda locação, situação, etc.
+            # Formatar como os demais grupos `extent`.
+            # Obs.: a especificação LIDO determina que, nesses casos,
+            # se cadastre uma ficha separada para a parte do objeto
+            # em questão. Não faremos isso por acarretar excessiva
+            # complexidade no cadastramento e recuperação de dados.
+    revision   : "" # BS1192
+    suitability: "" # BS1192
+    coverage: # Período histórico representado no desenho,
+              # sem relação com a data na qual o desenho foi feito.
+              # Todos os grupos são opcionais.
+      period:   # Formatar como `event: period`.
+      temporal: # Formatar como outros grupos de data.
+        earliestDate:
+          type:
+          date:
+          qualifier:
+          displayDate:
+        latestDate:
+          type:
+          date:
+          qualifier:
+          displayDate:
+# </lido:relatedWorksSet>
+# </lido:relatedWorksWrap>
+# </lido:objectRelationWrap>
+# </lido:resourceWrap>
+# -------------------------------------------------------------------- #
+# </lido:administrativeMetadata>
 ########################################################################
 ########################################################################
-##          CAMPOS PADRÃO, NÃO COPIAR NA FICHA E NÃO ALTERAR     {{{1 ##
+##              CAMPOS PADRÃO, NÃO COPIAR NA FICHA               {{{1 ##
 ########################################################################
 ########################################################################
-# TODO: Verificar campos record abaixo:
-# Continuação do campo record:
-  id: # Como distinguir do id da casa?
-  type: # lido:administrativeMetadata > lido:recordWrap > lido:recordType
-    - href: "http://terminology.lido-schema.org/lido00141" # ... > skos:Concept
-      label:
-        text: "cadastro de item singular"
+# -------------------------------------------------------------------- #
+########################################################################
+#                       Bloco 3 : Administrativo                  {{{2 #
+########################################################################
+# <lido:administrativeMetadata xml:lang="@lang">
+# <lido:recordWrap>                                                 {{{3
+record:
+  # <lido:recordID lido:source="@source" lido:type="@type">         {{{4
+  id:
+    source: "https://docmod.unb.br"
+    type  : "http://terminology.lido-schema.org/lido00100" # local
+    refid : # Será automaticamente preenchido com o nome do arquivo da ficha.
+  # <lido:recordType><skos:Concept rdf:about="@href">               {{{4
+  type:
+    href: "http://terminology.lido-schema.org/lido00141"
+    display: # <skos:prefLabel xml:lang="@lang">text</skos:prefLabel>
+      - text: "Cadastro de item singular"
         lang: "pt"
         pref: true
+  # </lido:recordID>
+  # <lido:recordSource>                                             {{{4
   source:
-    legalBodyID:
-    legalBodyWebLink: "https://tradicional.arq.br"
-    legalBodyName: 
-      - text: "Documentário de casas tradicionais no interior do Brasil" # appellationValue
+    # <lido:legalBodyID lido:type="@type">refid</lido:legalBodyID>
+    type : "http://terminology.lido-schema.org/lido00100" # local
+    refid: "https://tradicional.arq.br"
+    href : "https://tradicional.arq.br" # <lido:legalBodyWebLink>
+    display: # <lido:legalBodyName>
+      - text: "Documentário da arquitetura tradicional — CNPq 406601/2025-9" # <lido:appellationValue>
         lang: "pt"
         pref: true
+  # </lido:recordSource>
+  # <lido:recordRights>                                             {{{4
+  rights: # Direitos sobre o conteúdo da ficha e não sobre o objeto.
+    - type: "generic"
+      # Generic or specific: http://terminology.lido-schema.org/rightsType_type
+      href: "https://creativecommons.org/licenses/by-sa/4.0/"
+      display: # <lido:creditLine>
+        - lang : "pt"
+          text: "Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)"
+          media : |
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+            <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+            <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+            <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+      temporal: # <lido:rightsDate>
+        earliestDate: 2024
+        latestDate: 9999
+      # <lido:rightsHolder>
+      # Formatar como `legalBody` mesmo em se tratando de pessoa física.
+      holder:
+          # <lido:legalBodyID lido:type="@type">refid</lido:legalBodyID>
+        - type : "http://terminology.lido-schema.org/lido00099" # local
+          refid: "00.038.174/0001-43"
+          href : "https://docmod.unb.br" # <lido:legalBodyWebLink>
+          display: # <lido:legalBodyName>
+            - text: "Universidade de Brasília" # <lido:appellationValue>
+              lang: "pt"
+              pref: true
+    # </lido:recordRights>
+  # <lido:recordInfoSet lido:type="@type">                          {{{4
+  # TODO: planejar preenchimento automático do recordInfoSet
+  info:
+    - type: "" # http://terminology.lido-schema.org/recordInfoSet_type
+      format: "text/html"
+      href: # <lido:recordInfoLink>
+    # <lido:recordMetadataDate>
+      created : # http://terminology.lido-schema.org/lido00472
+      modified: # http://terminology.lido-schema.org/lido00473
+  # </lido:recordInfoSet>
+# </lido:recordWrap>
 # -------------------------------------------------------------------- #
 # <lido:category>                                                   {{{2
 category:
@@ -871,5 +1003,4 @@ header:
   overlay_image : "https://i.pinimg.com/originals/f7/76/49/f7764902ee90d4fc48b6f795307bc366.jpg"
   overlay_filter: 0.7
 layout: "layouts/obra.njk"
-tags: [ "casa", "edificio" ]
 # vim: foldmethod=marker
