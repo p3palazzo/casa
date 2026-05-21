@@ -42,7 +42,7 @@ identifier:
     refid : 
   - source: "Documentário de casas tradicionais"
     refid : 52
----
+...
 
 <figure>
 <blockquote class="blockquote">

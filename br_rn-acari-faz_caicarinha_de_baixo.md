@@ -43,7 +43,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 9
----
+...
 
 Foi concluída em 1895, segundo inscrição existente na parede da fachada lateral esquerda, e ampliada em 1923, com a incorporação de novos cômodos contíguos à esta mesma. Em 1934 foi criado o sótão. Ora encontra-se desabitada e abandonada, com trechos da cozinha em estado de ruínas. Lamentavelmente não há indícios de que volte a ser habitada.Os pilares do alpendre, a exemplo de outras casas-grandes de fazenda, eram de madeira e foram substituídos por esses que lá se apresentam, em alvenaria.
 

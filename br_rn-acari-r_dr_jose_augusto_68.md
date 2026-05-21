@@ -41,7 +41,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 22
----
+...
 
 Caso típico de uma residência urbana do século XIX, implantada no alinhamento da via pública, contando, na fachada, com uma porta e duas janelas em arco abatido e cercaduras de massa. Apresenta ainda uma platibanda elaborada, com cornijas, frisos e ornatos em massa. Lamentavelmente, no momento em que se processava esta pesquisa, a casa estava sendo modificada, ou praticamente sendo demolida, já que foi retirada toda sua cobertura, para ser refeita com alturas e inclinações diferentes. Sua platibanda foi completamente demolida, e provavelmente sua fachada receberá portas de ferro do tipo de enrolar, destruindo a porta e janelas ora existentes. Paredes internas serão demolidas para dar lugar a um grande ambiente de uso comercial.
 

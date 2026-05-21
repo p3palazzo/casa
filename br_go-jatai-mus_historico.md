@@ -87,10 +87,11 @@ coverage:
           Instalação do Museu municipal Francisco Honório de Campos.
       start_date:
         year: 1994
----
+...
 
 ---
 nocite: >
   @silva:2022panorama
----
+...
+
 

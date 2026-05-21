@@ -41,7 +41,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 23
----
+...
 
 Construída no alinhamento da rua, conjugada com suas vizinhas, apresenta fachada de composição simétrica, com duas portas dispostas em suas extremidades, intercaladas por duas janelas, todas em verga de arco abatido. Sua platibanda é constituída por dois frontões triangulares, com graciosos elementos decorativos dispostos nas suas extremidades. A porta do lado direito da edificação dá acesso a uma saleta que não tinha ligação com o interior da casa. Só posteriormente, foi aberta uma porta que liga a referida saleta à sala de visita. Não obstante estas alterações, encontra-se bem preservada e em bom estado de conservação.
 

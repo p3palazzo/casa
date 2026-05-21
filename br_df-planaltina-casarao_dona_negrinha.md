@@ -34,5 +34,6 @@ coverage:
         year: 2020
       text:
         headline: "Demolição"
----
+...
+
 

@@ -36,7 +36,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 3
----
+...
 
 Imóvel está inserido na poligonal de tombamento do Centro Histórico de Laguna, tombado pelo Iphan desde 1985 por seu valor histórico e paisagístico 
 (Processo Nº 1122-T—8). [@iphan:2023casa-pinho51]

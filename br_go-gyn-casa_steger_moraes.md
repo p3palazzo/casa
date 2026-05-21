@@ -49,7 +49,7 @@ coverage:
         headline: "Construção"
       start_date:
         year: 1929
----
+...
 
 ---
 nocite: >

@@ -34,7 +34,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 46
----
+...
 
 ---
 nocite: "@iphan:2023casas-pilar"

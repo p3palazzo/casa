@@ -43,7 +43,7 @@ identifier:
     refid : "Processo 1548-T-2007"
   - source: "iPatrimonio"
     href  : "https://www.ipatrimonio.org/urussanga-casa-de-ivanir-cancelier/"
----
+...
 
 O imóvel conhecido como Casa Ivanir Cancelier, localizado o bairro Rio Maior na cidade de Urussanga é um exemplar da cultura do imigrante Italiano que se fixou na região por volta de 1880. A edificação é tombada pelo IPHAN desde de 2007. 
 

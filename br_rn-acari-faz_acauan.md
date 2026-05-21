@@ -42,7 +42,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 5
----
+...
 
 Através de vestígios encontrados no local, e de depoimentos dos moradores, constata-se que a edificação teria tido outros cômodos na parte posterior, que não resistiram ao tempo. A ação das intempéries tem afetado outros trechos da casa, como a parede do oitão lateral esquerdo. Para conter o ademamento dessa parede, provisoriamente - há mais de quinze anos - foram dispostas peças de madeira escorando-a, com o propósito de assegurar sua estabilidade física. Os espessos pilares do alpendre, em alvenaria, ora existentes, substituem os originais, em madeira, que também não resistiram à ação do tempo.
 

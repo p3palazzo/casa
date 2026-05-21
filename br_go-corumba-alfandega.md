@@ -15,5 +15,6 @@ coverage:
       city   : "Corumbá"
       state  : BR-GO
       country: "BR"
----
+...
+
 

@@ -41,7 +41,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 21
----
+...
 
 Edificação integrante do correr de casas que começa com a de n.° 15 desta rua, tem, como as demais, implantação no alinhamento do lote, com sua lateral direita geminada, e apresentando recuo em relação à lateral esquerda, para onde se abrem janelas. Em virtude de a rua onde está localizada apresentar declive, e por manter sua cumeeira num nível somente um pouco mais baixo do nível da cumeeira das demais casas do conjunto, que se encontram situadas na parte mais elevada da rua, gerou-se uma distância considerável entre seu piso e sua cumeeira, que possibilitou a existência do sótão, ambiente não encontrado nas demais casas do referido conjunto, mesmo porque essas são conjugadas com suas vizinhas, não permitindo aberturas em suas fachadas laterais.
 

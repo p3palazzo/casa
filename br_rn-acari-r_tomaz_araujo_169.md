@@ -41,7 +41,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 24
----
+...
 
 Essa é provavelmente uma das mais antigas dentre as casas analisadas nessa pesquisa. Há referências históricas de que, no trecho onde a mesma se existiam casas que teriam pertencido ao então presidente da província, Sr.Tomaz Araujo Pereira, casa que contava com alpendre na frente, decorrendo, daí, a denominação de rua dos alpendres, atualmente rua Tomaz Araújo. Esta pode ser uma delas. Pode-se confirmar sua antiguidade pela modesta altura e avantajada espessura da parede de sua fachada principal. É também peculiar a uma construção pretérita a composição de sua fachada, com uma porta e uma janela de vergas niveladas, dispostas nas extremidades da mesma.
 

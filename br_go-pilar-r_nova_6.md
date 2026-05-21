@@ -34,7 +34,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 49
----
+...
 
 Área Serviço e, possivelmente, Cozinha foram acrescidos. Ladrilho de
 barro se preserva sob cimento queimado. Até cerca 1991 mantinha piso em

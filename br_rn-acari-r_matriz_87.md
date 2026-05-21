@@ -41,7 +41,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 19
----
+...
 
 Foi construída no então alinhamento da rua, porém recuada com relação à sua fachada lateral direita. Atualmente, apresentando um jardim frontal, oriundo da mudança do traçado da rua, que se afastou da edificação E uma casa urbana, mas, em sua forma, nada a diferencia de uma casa de fazenda, com seu “telhado de arrasto”, de inclinação acentuada e pé-direito alto, permitindo a existência de um sótão constituído de três cômodos.
 

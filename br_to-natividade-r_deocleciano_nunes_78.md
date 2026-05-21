@@ -34,7 +34,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 39
----
+...
 
 A residência da Rua Coronel Deocleciano Nunes, n.º 78 é um exemplar da
 arquitetura civil marcado pela simplicidade de soluções arquitetônicas

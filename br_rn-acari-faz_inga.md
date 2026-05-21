@@ -43,7 +43,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 11
----
+...
 
 Foi construída por volta de 1820, e habita da sem a existência do reboco externo, só feito em 1898. Na fachada lateral esquerda, é intrigante que as janelas das salas de visita e de jantar tenham vergas em arco abatido, enquanto as correspondentes aos dois quartos têm verga reta. Essa diferença de modelo é forte indício de que os quartos não tinham janelas para o exterior, e as que lá se encontram tenham sido abertas posteriormente à fábrica original da casa. Para adequá-la às inovações sanitárias introduzidas nas residências, foi criado um w.c. no trecho da varanda posterior, onde então existia um forno. No quarto da frente, contíguo à fachada lateral direita, foi fechada uma porta que o ligava à sala de visita e foi aberta uma outra para o corredor (transferiram uma porta de um lugar para outro).
 

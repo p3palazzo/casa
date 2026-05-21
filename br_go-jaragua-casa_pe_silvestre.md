@@ -47,10 +47,11 @@ contributor:
   - name: "Silvestre Álvares da Silva"
     role: "commission"
     type: "personal"
----
+...
 
 ---
 nocite: >
   @silva:2022panorama
----
+...
+
 

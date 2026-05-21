@@ -41,7 +41,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 28
----
+...
 
 Esta era a casa do Coronel Silvino Bezerra, líder político do município. Apesar de ter sido construída com esmerados elementos decorativos, identificados pelos detalhes e ornatos que possui, trata-se basicamente de uma edificação urbana variante da casa de fazenda, com seu sótão, tão de acordo com o gosto da época. Foi construída num lote do esquina com sua fechada lateral esquerda no alinhamento da rua e a direita voltada para um terreno. Há algum tempo, este terreno foi ocupado por uma construção em dois pavimentos, a cujo pavimento superior se tem acesso através do sótão da referida casa. 
 

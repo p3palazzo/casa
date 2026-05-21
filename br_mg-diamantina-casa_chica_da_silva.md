@@ -15,5 +15,6 @@ coverage:
       city   : "Diamantina"
       state  : BR-MG
       country: "BR"
----
+...
+
 

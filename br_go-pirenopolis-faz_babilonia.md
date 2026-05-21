@@ -78,10 +78,11 @@ coverage:
       start_date:
         year      : 1864
       display_date: "1864"
----
+...
 
 ---
 nocite: >
   @silva:2022panorama
----
+...
+
 

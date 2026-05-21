@@ -34,7 +34,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 43
----
+...
 
 ---
 nocite: "@iphan:2023casas-centro"

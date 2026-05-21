@@ -57,10 +57,11 @@ coverage:
       start_date:
         year: "2022"
       display_date: "2022"
----
+...
 
 ---
 nocite: >
   @silva:2022panorama
----
+...
+
 

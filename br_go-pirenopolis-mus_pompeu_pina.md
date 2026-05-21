@@ -54,10 +54,11 @@ coverage:
         year: 1800
       qualifier: "c."
       display_date: "c. 1800"
----
+...
 
 ---
 nocite: >
   @silva:2022panorama
----
+...
+
 

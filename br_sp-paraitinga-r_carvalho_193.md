@@ -33,7 +33,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 37
----
+...
 
 As construções eram geminadas constituindo um conjunto uniforme e adaptado à topografia, coberto por telha cerâmica tipo capa-canal, com duas águas, cumeeira paralela ao alinhamento e beiral aparente. Nestas casas, também identificadas como populares, “a pobreza e a pouquidão de compartimentos não impõem uma complexidade maior na organização do espaço, tudo se resume, na prática, a duas salas do extremo anterior e posterior e mais um compartimento intermediário, cego, ventilado pela telha-vã”. 
 

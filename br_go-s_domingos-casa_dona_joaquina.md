@@ -15,5 +15,6 @@ coverage:
       city   : "Pirenópolis"
       state  : BR-GO
       country: "BR"
----
+...
+
 

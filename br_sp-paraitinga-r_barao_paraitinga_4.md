@@ -33,7 +33,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 30
----
+...
 
 Os três sobrados geminados, dois deles ainda na Rua Barão de Paraitinga, e o terceiro já fazendo frente para a Praça Osvaldo Cruz, que substituíram velhas casas no início da década de 1870. Neles se verifica de forma resumida o partido aqui descrito, quiçá pelo minguado da frontaria, apresentando.
 

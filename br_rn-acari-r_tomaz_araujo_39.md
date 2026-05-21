@@ -41,7 +41,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 26
----
+...
 
 Residência assobradada, construída pelo padre Modesto, em 1888. É o primeiro sobrado construído em Acari. Foi deixado como herança para seu sobrinho, Joaquim Servita, e posteriormente adquirido pelo Major Sátiro Bezerra, que o vendeu em 1961, a Neônio Manoel dos Santos, por cento e cinquenta contos de réis( Por se tratar de uma residência urbana) está mais susceptível de sofrer reformas que as casas rurais. Assim sendo, ao longo de sua existência, passou por modificações como a abertura de um vão, ligando a primeira sala à sala de jantar, onde existia uma porta arqueada e uma abertura, espécie de janela, com grade de madeira, e a substituição do piso dos degraus da escada, que eram em madeira por cimentado. 
 

@@ -77,7 +77,7 @@ log:
   - date: 2024-02-09
     text: "Inclui campos para bases documentais"
     name: "Pedro Palazzo"
----
+...
 
 
 > A edificação conhecida como Casarão Azul é um dos primeiros edifícios

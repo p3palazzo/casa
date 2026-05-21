@@ -43,7 +43,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 7
----
+...
 
 A casa-grande fazenda Cacimba do meio possui nas paredes, sequências de armadores testemunhando que a sala de jantar, além dos quartos, era utilizada como ambiente onde se dormia. Esses armadores eram feitos de mofumbo, madeira muito utilizada para esse fim. A porta principal é feita de cumaru, árvore nativa da região, que, pela fácil obtenção e durabilidade, teve emprego abundante na confecção de esquadrias e móveis em geral. Tem a carracterística de não ser atacada pelo cupim.
 

@@ -34,7 +34,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 48
----
+...
 
 De acordo com Castilho a casa foi:
 

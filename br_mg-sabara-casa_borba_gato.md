@@ -38,7 +38,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 1
----
+...
 
 O imóvel foi utilizado como residência a partir de 1828, pelo então proprietário, o Padre João de Souza Guimarães. Em 1843, após seu falecimento, foi  adquirida pelo Sargento-Mor Francisco de Assis Martins da Costa, tendo se transformado em hospedaria entre 1850 e 1860. Neste ano foi adquirida  pelo Mestre Herculino Carlos do Couto Lima, para ser sua residência. De 1871 a 1896 funcionou como Escola de “Primeiras Letras”. Em 1972 o imóvel  foi vendido pelos herdeiros de Herculino do Couto Lima e em 1983 foi alugado pelo Museu do Ouro, passando a funcionar como Centro de Difusão  Cultural, sendo reconhecido como bem de utilidade pública pelo município em 1984.
 

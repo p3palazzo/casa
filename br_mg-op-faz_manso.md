@@ -20,7 +20,7 @@ coverage:
       city   : "Ouro Preto"
       state  : BR-MG
       country: BR
----
+...
 
 ---
 nocite: |

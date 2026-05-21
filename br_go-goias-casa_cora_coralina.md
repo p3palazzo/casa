@@ -71,10 +71,11 @@ contributor:
   - name: "Ana Lins dos Guimarães Peixoto Bretas"
     type: "personal"
     role: "owner"
----
+...
 
 ---
 nocite: >
   @silva:2022panorama
----
+...
+
 

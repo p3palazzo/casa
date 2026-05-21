@@ -15,5 +15,6 @@ coverage:
       city   : "Cavalcante"
       state  : BR-GO
       country: "BR"
----
+...
+
 

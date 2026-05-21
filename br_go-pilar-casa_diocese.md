@@ -40,10 +40,11 @@ coverage:
       start_date:
         year: 1750
       display_date: "c. 1750"
----
+...
 
 ---
 nocite: >
   @silva:2022panorama
----
+...
+
 

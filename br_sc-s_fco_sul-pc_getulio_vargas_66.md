@@ -34,7 +34,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 44
----
+...
 
 ---
 nocite: "@iphan:2023casa-q0618"

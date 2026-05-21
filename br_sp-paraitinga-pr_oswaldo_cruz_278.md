@@ -35,7 +35,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 35
----
+...
 
 ---
 nocite: "@iphan:2010dossie1"

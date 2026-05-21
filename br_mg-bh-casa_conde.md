@@ -15,5 +15,6 @@ coverage:
       city   : "Belo Horizonte"
       state  : BR-MG
       country: "BR"
----
+...
+
 

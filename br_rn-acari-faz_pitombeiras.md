@@ -47,7 +47,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 14
----
+...
 
 <figure class="clearfix">
 > Na sala, pode-se observar em destaque, a escada de madeira que dá

@@ -41,7 +41,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 18
----
+...
 
 Casa construída no alinhamento da rua, geminada com sua vizinha da direita, porém mantendo recuo com relação ao outro limite lateral do lote, por onde se dá o acesso à mesma. Dispõe em sua fachada, de duas janelas, com cercaduras em massa, além da platibanda, em forma de frontão triangular, encobrindo pouco do telhado, de inclinação acentuada. 
 

@@ -15,5 +15,6 @@ coverage:
       city   : "Taguatinga"
       state  : BR-GO
       country: "BR"
----
+...
+
 

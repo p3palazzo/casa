@@ -43,7 +43,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 12
----
+...
 
 Mantêm as características mais representativas de sua fábrica original, sendo possível identificar claramente um acréscimo, constituído pela construção de um depósito ocupando parte de seu alpendre, assim como a substituição de seus pilares, outrora em madeira, por espessos pilares de alvenaria. Para a construção do referido depósito, foi preciso que se desse uma deflexão no plano do telhado, diminuindo sua inclinação. Além dessas intervenções, foram construídos também dois contrafortes, um de cada lado da casa, com o intuito de assegurar sua estabilidade, já que a mesma apresentava fissuras em suas paredes.
 
