@@ -75,3 +75,4 @@ aposentos da família, e o sótão destinado à acomodação dos criados.
 A circulação nos três pavimentos é do tipo corredor central,
 o que é muito raro em casa do século [XVII]{style="font-variant:all-small-caps"}.
 [@iphan:2010dossie1]
+
