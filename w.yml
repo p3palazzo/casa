@@ -52,7 +52,7 @@ applicationProfile: "https://lido-schema.org/profiles/v1.1/lido-v1.1-profile-arc
 conformsTo: "https://schema.org/LandmarksOrHistoricalBuildings"
 dcmiType: "physicalObject"
 header:
-  teaser        : "https://placehold.co/600x400"
+  teaser        : "https://i.pinimg.com/564x/f7/76/49/f7764902ee90d4fc48b6f795307bc366.jpg"
   overlay_image : "https://i.pinimg.com/originals/f7/76/49/f7764902ee90d4fc48b6f795307bc366.jpg"
   overlay_filter: 0.7
 layout: "layouts/obra.njk"
