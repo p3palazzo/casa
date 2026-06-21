@@ -3,7 +3,7 @@
 ## Como contribuir
 
 Seguir o
-[modelo de preenchimento](https://github.com/arqtrad/.github/wiki/Modelo-de-ficha).
+[modelo de preenchimento](https://github.com/arqtrad/.github/wiki/2-Modelo-de-ficha).
 Em caso de dúvidas, consultar as fichas já preenchidas.
 
 Os arquivos de mídia por ora não serão diretamente incluídos no
@@ -22,7 +22,12 @@ Imagens que já são acessíveis a partir de um link direto para um
 repositório existente (como o próprio Wikimédia Commons ou a Biblioteca
 Nacional, por exemplo) podem ser apenas referenciadas.
 
-------------
+## Limitações
+
+Ainda não implementamos a sincronização com o vocabulário controlado,
+nem temos um padrão para referenciar desenhos de levantamento.
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
  casa (c) 2023–2026 by Pedro P. Palazzo & equipe.
  
