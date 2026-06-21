@@ -16,4 +16,3 @@ coverage:
       state  : BR-BA
       country: "BR"
 ---
-

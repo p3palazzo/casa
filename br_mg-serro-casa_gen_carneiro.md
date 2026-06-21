@@ -19,4 +19,3 @@ coverage:
         - "Serro Frio"
 ---
 
-

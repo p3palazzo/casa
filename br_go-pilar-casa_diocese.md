@@ -47,4 +47,3 @@ nocite: >
   @silva:2022panorama
 ---
 
-
