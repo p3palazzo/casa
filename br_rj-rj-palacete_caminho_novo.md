@@ -15,6 +15,6 @@ coverage:
       city   : "Rio de Janeiro"
       state  : BR-RJ
       country: "BR"
-...
+---
 
 

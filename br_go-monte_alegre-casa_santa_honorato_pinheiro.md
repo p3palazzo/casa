@@ -15,6 +15,6 @@ coverage:
       city   : "Monte Alegre"
       state  : BR-GO
       country: "BR"
-...
+---
 
 

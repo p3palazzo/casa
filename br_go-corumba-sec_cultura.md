@@ -69,11 +69,11 @@ coverage:
         text: "Casarão é adquirido pela municipalidade."
       start_date:
         year: 1940
-...
+---
 
 ---
 nocite: >
   @silva:2022panorama
-...
+---
 
 

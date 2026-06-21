@@ -140,7 +140,7 @@ coverage:
           <cite title="Casas do Patrimônio">Casas do Patrimônio.</cite>
           Imagens. Brasília: Instituto do Patrimônio Histórico e 
           Artístico Nacional, 2010: 24--25.
-...
+---
 
 <figure>
   <blockquote>
@@ -193,5 +193,5 @@ coverage:
 ---
 nocite: |
   @iphan:2010casas
-...
+---
 

@@ -15,6 +15,6 @@ coverage:
       city   : "Niterói"
       state  : BR-RJ
       country: "BR"
-...
+---
 
 

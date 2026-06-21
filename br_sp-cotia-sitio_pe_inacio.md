@@ -15,6 +15,6 @@ coverage:
       city   : "Cotia"
       state  : BR-SP
       country: "BR"
-...
+---
 
 

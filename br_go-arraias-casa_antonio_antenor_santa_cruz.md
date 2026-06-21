@@ -15,6 +15,6 @@ coverage:
       city   : "Arraias"
       state  : BR-GO
       country: "BR"
-...
+---
 
 

@@ -17,6 +17,6 @@ coverage:
       country: "BR"
       locationHistoric:
         - "Serro Frio"
-...
+---
 
 

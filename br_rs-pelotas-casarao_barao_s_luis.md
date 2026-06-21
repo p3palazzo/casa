@@ -15,6 +15,6 @@ coverage:
       city   : "Pelotas"
       state  : BR-RS
       country: "BR"
-...
+---
 
 

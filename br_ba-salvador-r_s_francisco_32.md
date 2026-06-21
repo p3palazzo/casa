@@ -40,7 +40,7 @@ coverage:
 identifier:
   - source: "Documentário de casas tradicionais"
     refid : 50
-...
+---
 
 A casa situa-se próxima ao Centro Histórico e foi construída sobre um
 dos baluartes da primeira cinta defensiva da cidade. Tem, em

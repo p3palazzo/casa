@@ -15,6 +15,5 @@ coverage:
       city   : "Paraty"
       state  : BR-RJ
       country: "BR"
-...
-
+---
 

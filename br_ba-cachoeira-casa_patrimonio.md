@@ -15,5 +15,5 @@ coverage:
       city   : "Cachoeira"
       state  : BR-BA
       country: "BR"
-...
+---
 

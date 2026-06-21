@@ -15,6 +15,6 @@ coverage:
       city   : "Goiás"
       state  : BR-GO
       country: "BR"
-...
+---
 
 
