@@ -1,8 +1,8 @@
 lang: "pt"
-classification:
-  - type: "http://terminology.lido-schema.org/lido00853"
+workType:
+  - type: "http://terminology.lido-schema.org/lido00767"
     href: "https://vocab.getty.edu/aat/300451032"
-titleType: "https://vocab.getty.edu/aat/300417199"
+titleType: "descriptive"
 tags:
   - "casa"
   - "edifício"
